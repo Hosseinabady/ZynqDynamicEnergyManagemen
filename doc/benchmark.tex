@@ -1,0 +1,288 @@
+\documentclass[]{report}
+\usepackage{listings}             % Include the listings-package
+\usepackage{comment}
+
+
+
+% Title Page
+\title{FPGA Benchmark}
+\author{Mohammad Hosseinabady \\
+	mohammad@hosseinabady.com}
+
+
+\usepackage{amsmath}
+
+\begin{document}
+\maketitle
+\lstset{language=C}          % Set your language (you can change the language for each code-block optionally)
+
+
+
+\begin{abstract}
+	The current version of this report is prepared to be used as a reference for the paper submitted to the IEEE Transaction on Computer. Therefore, it contains brief descriptions of tasks. The future versions explains how to implement these task in FPGA wit  details.
+\end{abstract}
+
+\chapter{Tasks Descriptions}
+
+\section{Matrix Mean (mm)}
+
+This task receives an $n\times m$ matrix, $A$, and generate a $1\times m$ vector each of in which  the $i^{th}$ element is the average of data in the $i^{th}$ column of matrix $A$.
+
+
+\begin{equation}
+ mean(j)=\frac{\sum_{i=0}^{i<n} {A(i, j)}}{n}
+\end{equation}
+
+\begin{comment}
+\begin{lstlisting}[frame=single]  
+for (j = 0; j < m; j++) {
+  mean[j] = 0;
+  for (i = 0; i < m; i++) {
+    mean[j] += A[i][j];
+  }
+  mean[j] /= n;
+}
+\end{lstlisting} 
+\end{comment}
+
+
+\section{Black Scholes (bs)\cite{nvidia-blackscholes}}
+
+The Black-Scholes model provides a partial differential equation (PDE) for the evolution of an option price under certain assumptions. For European options, a closed-form solution exists for this PDE. 
+
+\begin{align}
+V_{call} &= S.CND(d_1) - X.e^{-rT}.CND(d_2)  \\
+V_{put}  &= X.e^{-rT}.CND(-d_2)-S.CND(-d_1) \\
+d_1      &= \frac{log(\frac{S}{X})+(r+\frac{v^2}{2})T}{\nu \sqrt{T}} \\
+d_2      &= \frac{log(\frac{S}{X})+(r-\frac{v^2}{2})T}{\nu \sqrt{T}} \\
+CND(-d) &= 1- CND(d)
+\end{align}
+where
+$V_{call}$ is the price for an option call,
+$V_{put}$ is the price for an option put,
+$CND(d)$ is the Cumulative Normal Distribution function,
+$S$ is the current option price,
+$X$ is the strike price,
+$T$ is the time to expiration.
+$r$ is the continuously compounded risk free interest rate,
+$\nu$ is the implied volatility for the underlying stock,
+
+
+
+
+\section{Linear Regression (lr)}
+Linear regression algorithm tries to fit the following equation to a set of data.
+\begin{align}
+y=a_0+a_1x
+\end{align}
+and the coefficients are as follows
+
+\begin{align}
+a0&=\frac{(\sum_{i=1}^{N}y_i)(\sum_{i=1}^{N}x_i^2)-(\sum_{i=1}^{N}x_i)(\sum_{i=1}^{N}x_iy_i)}{N(\sum_{i=1}^{N}x_i^2)-((\sum_{i=1}^{N}x_i))^2} \\
+a1&=\frac{N(\sum_{i=1}^{N}x_iy_i)-(\sum_{i=1}^{N}x_i)(\sum_{i=1}^{N}y_i)}{N(\sum_{i=1}^{N}x_i^2)-((\sum_{i=1}^{N}x_i))^2}
+\end{align}
+
+
+\section{Parabolic Regression (pr)}
+Parabolic regression algorithm tries to fit the following equation to a set of data.
+
+\begin{align}
+y=a_0+a_1x+a_2x^2
+\end{align}
+
+where
+\begin{align}
+\sum_{i=1}^{N}y_i &= a_0N+a_1\sum_{i=1}^{N}x_i+a_2\sum_{i=1}^{x_i^2} \\
+\sum_{i=1}^{N}x_iy_i &= a_0\sum_{i=1}^{N}x_i+a_1\sum_{i=1}^{N}x_i^2+a_2\sum_{i=1}^{x_i^3} \\
+\sum_{i=1}^{N}x_i^2y_i &= a_0\sum_{i=1}^{N}x_i^2+a_1\sum_{i=1}^{N}x_i^3+a_2\sum_{i=1}^{x_i^4} 
+\end{align}
+
+
+\section{Matrix-Matrix Multiplication (mm)}
+
+This algorithm multiplies two matrix $A$ and $B$ and generates the matrix $C$ as follows
+
+\begin{align}
+c_{i,j}=\sum_{k=1}^{max}a_{i,k}b_{k,j}
+\end{align}
+
+
+\section{Matrix-Vector Multiplication (mxv)}
+
+This algorithm multiplies a matrix $A$ and to a vector $x$ and generate the vector $y$ as follows
+\begin{align}
+y_{i}=\sum_{k=1}^{max}a_{i,k}b_{k}
+\end{align}
+
+
+\section{Matrix-Vector Multiplication (saxp)}
+This algorithm receives a vectors A and generates the vector B as follows 
+
+\begin{align}
+b_i=\alpha.a_i+\beta
+\end{align}
+where $\alpha$ and $\beta$ are constants.
+
+
+\section{histogram (hist)}
+Histogram represents the distribution of numerical data. A pseudo-code of this task that computes the histogram of pixels in an image is as follows.
+
+\begin{lstlisting}[frame=single]  
+  for (int i = 0; i < DATA_LENGTH; i++) {
+    u32 index =  (u32)data[i];
+    hist[index]++;
+  }
+\end{lstlisting} 
+
+\section{Covariance (cov)\cite{PolyBench_manual}}
+Computes the covariance, a measure from statistics that show how linearly related two variables are.
+
+It receives a $N\times M$ matrix of data and generates an $M\times M$ matrix thart determines the covariance between each two columns of data using the following equations:
+
+\begin{align}
+cov(i, j)=\frac{\sum_{k=0}^{N-1}{(data(k,j)-mean(i))(data(k,j)-mean(j))}}{N-1}
+\end{align}
+in which
+\begin{align}
+mean(x)=\frac{\sum_{k=0}^{N-1}{data(k,x)}}{N}
+\end{align}
+
+\section{Correlation (corr)\cite{PolyBench_manual}}
+
+It receives a $N\times M$ matrix of data and generates an $M\times M$ matrix thart determines the correlation between each two columns of data using the following equations:
+
+\begin{align}
+corr(i, j)=\frac{\sum_{k=0}^{N-1}{cov(i, j)}}{stddev(i)stddev(j)}
+\end{align}
+
+in which
+\begin{align}
+stddev(x)=\sqrt{{\frac{\sum_{k=0}^{N-1}{(data(k,x)-mean(x))^2}}{N}}}
+\end{align}
+
+
+
+\section{nbody (nbody)}
+The \textit{nbody}  tasks calculate the gravitational impact of N particles on each other.
+The following code snippet represents the structure of this task
+
+
+\begin{lstlisting}[frame=single]  
+void nbody(const float *initialPositions,
+                  const float *initialVelocities,
+                  float *finalPositions) 
+{
+  size_t dataSize     = NUM_BODIES*4*sizeof(float);
+  float *positionsIn  = (float *)malloc(dataSize);
+  float *positionsOut = (float *)malloc(dataSize);
+  float *velocities   = (float *)malloc(dataSize);
+
+  memcpy(positionsIn, initialPositions, dataSize);
+  memcpy(velocities, initialVelocities, dataSize);
+
+  for (int itr = 0; itr < ITERATIONS; itr++)  {
+    for (int i = 0; i < NUM_BODIES; i++)  {
+      float ix = positionsIn[i*4 + 0];
+      float iy = positionsIn[i*4 + 1];
+      float iz = positionsIn[i*4 + 2];
+      float iw = positionsIn[i*4 + 3];
+
+      float fx = 0.f;
+      float fy = 0.f;
+      float fz = 0.f;
+
+      for (int j = 0; j < NUM_BODIES; j++) {
+        float jx    = positionsIn[j*4 + 0];
+        float jy    = positionsIn[j*4 + 1];
+        float jz    = positionsIn[j*4 + 2];
+        float jw    = positionsIn[j*4 + 3];
+
+// Compute distance between bodies
+        float dx    = (jx-ix);
+        float dy    = (jy-iy);
+        float dz    = (jz-iz);
+        float dist  = sqrt(dx*dx + dy*dy + dz*dz 
+                           + SOFTENING*SOFTENING);
+
+// Compute interaction force
+        float coeff = jw / (dist*dist*dist);
+        fx         += coeff * dx;
+        fy         += coeff * dy;
+        fz         += coeff * dz;
+      }
+
+// Update velocity
+      float vx = velocities[i*4 + 0] + fx * DELTA;
+      float vy = velocities[i*4 + 1] + fy * DELTA;
+      float vz = velocities[i*4 + 2] + fz * DELTA;
+      velocities[i*4 + 0] = vx;
+      velocities[i*4 + 1] = vy;
+      velocities[i*4 + 2] = vz;
+
+// Update position
+      positionsOut[i*4 + 0] = ix + vx * DELTA;
+      positionsOut[i*4 + 1] = iy + vy * DELTA;
+      positionsOut[i*4 + 2] = iz + vz * DELTA;
+      positionsOut[i*4 + 3] = iw;
+  }
+
+  // Swap buffers
+  float *temp  = positionsIn;
+  positionsIn  = positionsOut;
+  positionsOut = temp;
+}
+\end{lstlisting} 
+
+
+\section{Sharpen (sharpen)}
+This task convolves an input image with the mask \textit{f} as follows:
+
+\begin{align}
+f=\begin{bmatrix}
+0       & -1  & 0 \\
+-1       & 5 & -1  \\
+0       & -1 & 0  \\
+\end{bmatrix}
+\end{align}
+the implementation assumed that the mask \textit{f} is not separable. 
+
+\section{Sobel filter (sobel)}
+Sobel filter is one of well-known techniques for the image edge detection.
+It convolves two masks with an image, denoted by \textbf{A}, as follows: 
+
+
+\begin{align}
+G_x=\begin{bmatrix}
+-1       & 0  & +1 \\
+-2       & 0 & +2  \\
+-1       & 0 & +1  \\
+\end{bmatrix} * A
+\end{align}
+
+
+\begin{align}
+G_y=\begin{bmatrix}
+-1       & -2  & -1 \\
+0        & 0   &  0  \\
++1       & +2  & +1  \\
+\end{bmatrix} * A
+\end{align}
+
+\begin{align}
+ \left|G\right|=\left|G_x\right|+\left|G_y\right|
+\end{align}
+
+\section{Vector add (Vadd)}
+
+This algorithm adds two vectors of data and generates the third vector where 
+
+\begin{align}
+c_i=a_i+b_i
+\end{align}
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{benchmark}
+
+
+\end{document}          

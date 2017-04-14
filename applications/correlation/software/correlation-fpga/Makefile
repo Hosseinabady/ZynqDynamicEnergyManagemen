@@ -1,0 +1,3 @@
+correlation:  accel.cpp correlation.cpp correlation.h accel.h 
+	g++ correlation.cpp accel.cpp  polybench.cpp -O3 -o correlation -DFILE_INDEX=100 -DSDEPCX=1 -DSDEPCG=4 -DPOWER_MONITORING -DFREQUENCY_SCALING -DVOLTAGE_SCALING -I/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/include/  -L/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/dev-final -L/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib -lfpgaclmeasurement  -pthread -lfpgacl_memory
+	

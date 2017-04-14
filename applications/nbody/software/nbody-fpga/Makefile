@@ -1,0 +1,3 @@
+nbody:  accel.cpp nbody.cpp nbody.h accel.h 
+	g++ nbody.cpp accel.cpp   -O3 -o nbody -DFILE_INDEX=100 -DITERATION_NUM=1000 -DSDEPCX=1 -DSDEPCG=4 -DPOWER_MONITORING -DFREQUENCY_SCALING -DVOLTAGE_SCALING -I/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/include/  -L/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/dev-final -L/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib -lfpgaclmeasurement  -pthread -lfpgacl_memory
+	

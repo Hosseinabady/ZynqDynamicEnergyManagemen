@@ -1,0 +1,47 @@
+** Build on Gothmog **
+
+In the main directory, run
+    $ make omp_version
+or    
+    $ make neon_version
+or
+    $ make seq_version
+
+On gothmog, there is no nvcc available, hence
+    $ make all
+    $ make cuda_version
+will fail.
+
+
+Build on other machines:
+    Both omp_version and seq_version should be portable to any machine
+    that has a C compiler handling OpenMP and an OpenMP runtime.
+    The CUDA version is probably less portable and
+        $ make cuda_version
+    may not work out of the box.
+
+
+Run the program:
+
+./seq_version inImage outImage
+./omp_version inImage outImage
+./neon_version inImage outImage
+
+To clean the directory from compilation artifacts:
+    $ make clean
+To also clean the third party compilation by-products
+    $ make cleanall
+
+
+Composition of the source tree:
+    common.c: contains the common logic. To be linked with either omp_version.o or seq_version.o
+    implem_omp.c: OpenMP specific version
+    implem_seq.c: Reference sequential implementation
+    implem_cuda.cu: the CUDA version, that won't work on gothmog
+    dbg.h: debug header providing check macros, debug macros, ...
+    sobel.h: Some type declarations used throughout the three implementations.
+             In particular prototypes the functions that are used in common.c
+             but must be defined by implem_*
+
+    third_party/lodepng/: contains the lodepng library by Lode Vandevenne, used
+                          to decode and encode PNG images.

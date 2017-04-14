@@ -1,0 +1,18 @@
+% Encoding: UTF-8
+
+@Manual{PolyBench_manual,
+  title        = {PolyBench 4.1},
+  author       = {Tomofumi Yuki, Louis-Noel Pouchet},
+  organization = {Inria / LIP / ENS Lyon and Ohio State University},
+  url          = {http://web.cse.ohio-state.edu/~pouchet/software/polybench/},
+}
+
+@TechReport{nvidia-blackscholes,
+  author      = {Victor Podlozhnyuk},
+  title       = {Black-Scholes option pricing},
+  institution = {nvidia},
+  year        = {2012},
+  url         = {http://docs.nvidia.com/cuda/samples/4_Finance/BlackScholes/doc/BlackScholes.pdf},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

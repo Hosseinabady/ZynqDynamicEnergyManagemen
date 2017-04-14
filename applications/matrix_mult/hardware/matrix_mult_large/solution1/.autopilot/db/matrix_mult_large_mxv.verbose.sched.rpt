@@ -1,0 +1,190 @@
+
+
+================================================================
+== Vivado HLS Report for 'matrix_mult_large_mxv'
+================================================================
+* Date:           Fri Jun 03 17:58:23 2016
+
+* Version:        2016.1 (Build 1538259 on Fri Apr 08 16:12:49 MDT 2016)
+* Project:        matrix_mult_large_vhls
+* Solution:       solution1
+* Product family: zynq
+* Target device:  xc7z020clg484-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|      8.75|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +-------+-------+-------+-------+----------+
+    |    Latency    |    Interval   | Pipeline |
+    |  min  |  max  |  min  |  max  |   Type   |
+    +-------+-------+-------+-------+----------+
+    |  16408|  16408|  16395|  16395| dataflow |
+    +-------+-------+-------+-------+----------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        N/A
+
+============================================================
++ Verbose Summary: Synthesis Manager
+============================================================
+InlineROM: 1
+ExposeGlobal: 0
+============================================================
++ Verbose Summary: CDFG Model
+============================================================
+IsTopModel: 0
+ResetActiveHigh: 1
+IsCombinational: 2
+IsDatapathOnly: 0
+HasWiredReturn: 1
+HasMFsm: 0
+HasVarLatency: 1
+IsPipeline: 0
+IsRtlPipelined: 0
+IsInstanceOverlapped: 0
+IsDontTouch: 0
+HasImplIP: 0
+IsGatedGlobalClock: 0
+
+
+============================================================
++ Verbose Summary: Schedule
+============================================================
+* Number of FSM states: 6
+* Pipeline: 0
+* Dataflow Pipeline: 1
+  DF-Pipeline-0: Size = 6, States = { 1 2 3 4 5 6 }
+
+* FSM state transitions: 
+1 --> 
+	2  / true
+2 --> 
+	3  / true
+3 --> 
+	4  / true
+4 --> 
+	5  / true
+5 --> 
+	6  / true
+6 --> 
+* FSM state operations: 
+
+ <State 1>: 5.65ns
+ST_1: c_offset_address_read [1/1] 1.28ns
+codeRepl:0  %c_offset_address_read = call i32 @_ssdm_op_Read.ap_auto.i32(i32 %c_offset_address)
+
+ST_1: a_offset_address_read [1/1] 1.28ns
+codeRepl:1  %a_offset_address_read = call i32 @_ssdm_op_Read.ap_auto.i32(i32 %a_offset_address)
+
+ST_1: c_offset_address_channel [1/1] 0.00ns
+codeRepl:2  %c_offset_address_channel = alloca i32, align 4
+
+ST_1: a_fifo_V [1/1] 0.00ns
+codeRepl:6  %a_fifo_V = alloca i32, align 4
+
+ST_1: c_fifo_V [1/1] 0.00ns
+codeRepl:9  %c_fifo_V = alloca i32, align 4
+
+ST_1: stg_12 [2/2] 4.38ns
+codeRepl:14  call fastcc void @matrix_mult_large_mxv_Loop_1_proc50(i32 %a_offset_address_read, i32* %memory_0, i32* %a_fifo_V, i32 %c_offset_address_read, i32* %c_offset_address_channel)
+
+
+ <State 2>: 0.00ns
+ST_2: stg_13 [1/2] 0.00ns
+codeRepl:14  call fastcc void @matrix_mult_large_mxv_Loop_1_proc50(i32 %a_offset_address_read, i32* %memory_0, i32* %a_fifo_V, i32 %c_offset_address_read, i32* %c_offset_address_channel)
+
+
+ <State 3>: 0.00ns
+ST_3: stg_14 [2/2] 0.00ns
+codeRepl:15  call fastcc void @matrix_mult_large_mxv_Loop_2_proc(i32* %a_fifo_V, i32* %c_fifo_V, [8192 x i32]* %B)
+
+
+ <State 4>: 0.00ns
+ST_4: stg_15 [1/2] 0.00ns
+codeRepl:15  call fastcc void @matrix_mult_large_mxv_Loop_2_proc(i32* %a_fifo_V, i32* %c_fifo_V, [8192 x i32]* %B)
+
+
+ <State 5>: 0.00ns
+ST_5: stg_16 [2/2] 0.00ns
+codeRepl:16  call fastcc void @matrix_mult_large_mxv_Loop_3_proc(i32* nocapture %c_offset_address_channel, i32* %c_fifo_V, i32* %memory_3)
+
+
+ <State 6>: 0.00ns
+ST_6: stg_17 [1/1] 0.00ns
+codeRepl:3  call void (...)* @_ssdm_op_SpecDataflowPipeline(i32 -1, [1 x i8]* @p_str2) nounwind
+
+ST_6: stg_18 [1/1] 0.00ns
+codeRepl:4  call void (...)* @_ssdm_op_SpecInterface(i32* %memory_3, [6 x i8]* @p_str3, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str2, [1 x i8]* @p_str2, [1 x i8]* @p_str2, i32 16, i32 16, i32 16, i32 16, [1 x i8]* @p_str2) nounwind
+
+ST_6: stg_19 [1/1] 0.00ns
+codeRepl:5  call void (...)* @_ssdm_op_SpecInterface(i32* %memory_0, [6 x i8]* @p_str3, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str2, [1 x i8]* @p_str2, [1 x i8]* @p_str2, i32 16, i32 16, i32 16, i32 16, [1 x i8]* @p_str2) nounwind
+
+ST_6: empty [1/1] 0.00ns
+codeRepl:7  %empty = call i32 (...)* @_ssdm_op_SpecChannel([9 x i8]* @a_fifo_OC_V_str, i32 1, [1 x i8]* @p_str40, [1 x i8]* @p_str40, i32 1, i32 1, i32* %a_fifo_V, i32* %a_fifo_V)
+
+ST_6: stg_21 [1/1] 0.00ns
+codeRepl:8  call void (...)* @_ssdm_op_SpecInterface(i32* %a_fifo_V, [8 x i8]* @ap_fifo_str, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str41, [1 x i8]* @p_str42, [1 x i8]* @p_str43, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str44)
+
+ST_6: empty_9 [1/1] 0.00ns
+codeRepl:10  %empty_9 = call i32 (...)* @_ssdm_op_SpecChannel([9 x i8]* @c_fifo_OC_V_str, i32 1, [1 x i8]* @p_str45, [1 x i8]* @p_str45, i32 1, i32 1, i32* %c_fifo_V, i32* %c_fifo_V)
+
+ST_6: stg_23 [1/1] 0.00ns
+codeRepl:11  call void (...)* @_ssdm_op_SpecInterface(i32* %c_fifo_V, [8 x i8]* @ap_fifo_str, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str46, [1 x i8]* @p_str47, [1 x i8]* @p_str48, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str49)
+
+ST_6: empty_10 [1/1] 0.00ns
+codeRepl:12  %empty_10 = call i32 (...)* @_ssdm_op_SpecChannel([25 x i8]* @c_offset_address_channel_str, i32 1, [1 x i8]* @p_str56, [1 x i8]* @p_str56, i32 2, i32 0, i32* %c_offset_address_channel, i32* %c_offset_address_channel)
+
+ST_6: stg_25 [1/1] 0.00ns
+codeRepl:13  call void (...)* @_ssdm_op_SpecInterface(i32* %c_offset_address_channel, [8 x i8]* @ap_fifo_str, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str57, [1 x i8]* @p_str58, [1 x i8]* @p_str59, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str60)
+
+ST_6: stg_26 [1/2] 0.00ns
+codeRepl:16  call fastcc void @matrix_mult_large_mxv_Loop_3_proc(i32* nocapture %c_offset_address_channel, i32* %c_fifo_V, i32* %memory_3)
+
+ST_6: stg_27 [1/1] 0.00ns
+codeRepl:17  ret void
+
+
+
+============================================================
++ Verbose Summary: Timing violations
+============================================================
+Target clock period: 10ns, clock uncertainty: 1.25ns.
+
+ No timing violations. 
+
+
+============================================================
++ Verbose Summary: Binding
+============================================================
+N/A
+* FSMD analyzer results:
+  - Output states:
+ - Input state : 
+  - Chain level:
+	State 1
+	State 2
+	State 3
+	State 4
+	State 5
+	State 6
+
+
+============================================================
++ Verbose Summary: Datapath Resource usage 
+============================================================
+N/A

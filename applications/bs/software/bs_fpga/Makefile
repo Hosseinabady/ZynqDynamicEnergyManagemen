@@ -1,0 +1,4 @@
+BlackScholes: BlackScholes.cpp  accel.cpp black_schole_golden.cpp BlackScholes.h
+	g++ BlackScholes.cpp accel.cpp  black_schole_golden.cpp -O3 -fopenmp -DSDEPCX=5 -DITERATION_NUM=1  -DCPUUTIL=100 -DSDEPCG=1 -DVOLTAGE_SCALING -DPOWER_MONITORING -DFREQUENCY_SCALING -lfpgaclmeasurement -lfpgacl_memory -pthread -o BlackScholes  -I/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/include/  -L/opt/Mohammad/bristol_projects/measurement/power_monitor_usermode/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib -I/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/dev-final -L/opt/Mohammad/bristol_projects/linux_drivers/zynq_opencl_pattern_based/lib
+
+	
