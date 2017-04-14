@@ -1,0 +1,4078 @@
+VCCINT voltage = 0.830000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 11 
+------------------------------
+vccint_voltage_average = 0.831758 count = 1016
+vccint_current_average = 0.176519 count = 1016
+vccint_power_average = 0.146824 count = 1016
+vccpint_voltage_average = 1.004089 count = 1016
+vccpint_current_average = 0.377968 count = 1016
+vccpint_power_average = 0.379509 count = 1016
+vccaux_voltage_average = 1.805038 count = 1016
+vccaux_current_average = 0.025852 count = 1016
+vccaux_power_average = 0.046667 count = 1016
+vccpaux_voltage_average = 1.798756 count = 1016
+vccpaux_current_average = 0.097056 count = 1016
+vccpaux_power_average = 0.174576 count = 1016
+vcc1v5_voltage_average = 1.508875 count = 1016
+vcc1v5_current_average = 0.902482 count = 1016
+vcc1v5_power_average = 1.361731 count = 1016
+Validation PASSED!
+
+ hardware execution time  7.249400 ms elapsed
+==============================================
+frequency factor = 12 
+------------------------------
+vccint_voltage_average = 0.831708 count = 1038
+vccint_current_average = 0.163656 count = 1038
+vccint_power_average = 0.136115 count = 1038
+vccpint_voltage_average = 1.004276 count = 1038
+vccpint_current_average = 0.374142 count = 1038
+vccpint_power_average = 0.375742 count = 1038
+vccaux_voltage_average = 1.804950 count = 1038
+vccaux_current_average = 0.026267 count = 1038
+vccaux_power_average = 0.047410 count = 1038
+vccpaux_voltage_average = 1.798794 count = 1038
+vccpaux_current_average = 0.097032 count = 1038
+vccpaux_power_average = 0.174538 count = 1038
+vcc1v5_voltage_average = 1.508820 count = 1038
+vcc1v5_current_average = 0.873751 count = 1038
+vcc1v5_power_average = 1.318329 count = 1038
+Validation PASSED!
+
+ hardware execution time  7.908800 ms elapsed
+==============================================
+frequency factor = 13 
+------------------------------
+vccint_voltage_average = 0.831691 count = 1035
+vccint_current_average = 0.152642 count = 1035
+vccint_power_average = 0.126950 count = 1035
+vccpint_voltage_average = 1.004090 count = 1035
+vccpint_current_average = 0.372524 count = 1035
+vccpint_power_average = 0.374042 count = 1035
+vccaux_voltage_average = 1.804838 count = 1035
+vccaux_current_average = 0.026781 count = 1035
+vccaux_power_average = 0.048336 count = 1035
+vccpaux_voltage_average = 1.798807 count = 1035
+vccpaux_current_average = 0.094807 count = 1035
+vccpaux_power_average = 0.170545 count = 1035
+vcc1v5_voltage_average = 1.508815 count = 1035
+vcc1v5_current_average = 0.817135 count = 1035
+vcc1v5_power_average = 1.232905 count = 1035
+Validation PASSED!
+
+ hardware execution time  8.556500 ms elapsed
+==============================================
+frequency factor = 14 
+------------------------------
+vccint_voltage_average = 0.831683 count = 1018
+vccint_current_average = 0.148560 count = 1018
+vccint_power_average = 0.123556 count = 1018
+vccpint_voltage_average = 1.004135 count = 1018
+vccpint_current_average = 0.366650 count = 1018
+vccpint_power_average = 0.368163 count = 1018
+vccaux_voltage_average = 1.804924 count = 1018
+vccaux_current_average = 0.027858 count = 1018
+vccaux_power_average = 0.050279 count = 1018
+vccpaux_voltage_average = 1.798765 count = 1018
+vccpaux_current_average = 0.093197 count = 1018
+vccpaux_power_average = 0.167641 count = 1018
+vcc1v5_voltage_average = 1.508882 count = 1018
+vcc1v5_current_average = 0.809998 count = 1018
+vcc1v5_power_average = 1.222187 count = 1018
+Validation PASSED!
+
+ hardware execution time  9.210700 ms elapsed
+==============================================
+frequency factor = 15 
+------------------------------
+vccint_voltage_average = 0.831632 count = 1024
+vccint_current_average = 0.141693 count = 1024
+vccint_power_average = 0.117836 count = 1024
+vccpint_voltage_average = 1.004100 count = 1024
+vccpint_current_average = 0.361694 count = 1024
+vccpint_power_average = 0.363178 count = 1024
+vccaux_voltage_average = 1.804973 count = 1024
+vccaux_current_average = 0.026749 count = 1024
+vccaux_power_average = 0.048280 count = 1024
+vccpaux_voltage_average = 1.798770 count = 1024
+vccpaux_current_average = 0.092484 count = 1024
+vccpaux_power_average = 0.166354 count = 1024
+vcc1v5_voltage_average = 1.508849 count = 1024
+vcc1v5_current_average = 0.754944 count = 1024
+vcc1v5_power_average = 1.139097 count = 1024
+Validation PASSED!
+
+ hardware execution time  9.865900 ms elapsed
+==============================================
+frequency factor = 16 
+------------------------------
+vccint_voltage_average = 0.831686 count = 1029
+vccint_current_average = 0.137041 count = 1029
+vccint_power_average = 0.113978 count = 1029
+vccpint_voltage_average = 1.004084 count = 1029
+vccpint_current_average = 0.359299 count = 1029
+vccpint_power_average = 0.360764 count = 1029
+vccaux_voltage_average = 1.804941 count = 1029
+vccaux_current_average = 0.025981 count = 1029
+vccaux_power_average = 0.046895 count = 1029
+vccpaux_voltage_average = 1.798845 count = 1029
+vccpaux_current_average = 0.092034 count = 1029
+vccpaux_power_average = 0.165559 count = 1029
+vcc1v5_voltage_average = 1.508915 count = 1029
+vcc1v5_current_average = 0.741330 count = 1029
+vcc1v5_power_average = 1.118603 count = 1029
+Validation PASSED!
+
+ hardware execution time  10.515000 ms elapsed
+==============================================
+frequency factor = 17 
+------------------------------
+vccint_voltage_average = 0.831699 count = 1031
+vccint_current_average = 0.131517 count = 1031
+vccint_power_average = 0.109384 count = 1031
+vccpint_voltage_average = 1.004255 count = 1031
+vccpint_current_average = 0.353949 count = 1031
+vccpint_power_average = 0.355453 count = 1031
+vccaux_voltage_average = 1.805010 count = 1031
+vccaux_current_average = 0.026173 count = 1031
+vccaux_power_average = 0.047245 count = 1031
+vccpaux_voltage_average = 1.798818 count = 1031
+vccpaux_current_average = 0.090264 count = 1031
+vccpaux_power_average = 0.162370 count = 1031
+vcc1v5_voltage_average = 1.508885 count = 1031
+vcc1v5_current_average = 0.700443 count = 1031
+vcc1v5_power_average = 1.056889 count = 1031
+Validation PASSED!
+
+ hardware execution time  11.174800 ms elapsed
+==============================================
+frequency factor = 18 
+------------------------------
+vccint_voltage_average = 0.831762 count = 1035
+vccint_current_average = 0.127325 count = 1035
+vccint_power_average = 0.105904 count = 1035
+vccpint_voltage_average = 1.003888 count = 1035
+vccpint_current_average = 0.356658 count = 1035
+vccpint_power_average = 0.358044 count = 1035
+vccaux_voltage_average = 1.804307 count = 1035
+vccaux_current_average = 0.027853 count = 1035
+vccaux_power_average = 0.050240 count = 1035
+vccpaux_voltage_average = 1.798942 count = 1035
+vccpaux_current_average = 0.089749 count = 1035
+vccpaux_power_average = 0.161453 count = 1035
+vcc1v5_voltage_average = 1.508893 count = 1035
+vcc1v5_current_average = 0.700861 count = 1035
+vcc1v5_power_average = 1.057522 count = 1035
+Validation PASSED!
+
+ hardware execution time  11.822200 ms elapsed
+==============================================
+frequency factor = 19 
+------------------------------
+vccint_voltage_average = 0.831776 count = 1037
+vccint_current_average = 0.122604 count = 1037
+vccint_power_average = 0.101978 count = 1037
+vccpint_voltage_average = 1.004075 count = 1037
+vccpint_current_average = 0.351510 count = 1037
+vccpint_power_average = 0.352938 count = 1037
+vccaux_voltage_average = 1.804972 count = 1037
+vccaux_current_average = 0.027483 count = 1037
+vccaux_power_average = 0.049606 count = 1037
+vccpaux_voltage_average = 1.798808 count = 1037
+vccpaux_current_average = 0.089772 count = 1037
+vccpaux_power_average = 0.161481 count = 1037
+vcc1v5_voltage_average = 1.508873 count = 1037
+vcc1v5_current_average = 0.677043 count = 1037
+vcc1v5_power_average = 1.021569 count = 1037
+Validation PASSED!
+
+ hardware execution time  12.481100 ms elapsed
+==============================================
+frequency factor = 20 
+------------------------------
+vccint_voltage_average = 0.831663 count = 1032
+vccint_current_average = 0.119080 count = 1032
+vccint_power_average = 0.099034 count = 1032
+vccpint_voltage_average = 1.003990 count = 1032
+vccpint_current_average = 0.347490 count = 1032
+vccpint_power_average = 0.348872 count = 1032
+vccaux_voltage_average = 1.805097 count = 1032
+vccaux_current_average = 0.026829 count = 1032
+vccaux_power_average = 0.048430 count = 1032
+vccpaux_voltage_average = 1.798954 count = 1032
+vccpaux_current_average = 0.087860 count = 1032
+vccpaux_power_average = 0.158056 count = 1032
+vcc1v5_voltage_average = 1.508869 count = 1032
+vcc1v5_current_average = 0.656629 count = 1032
+vcc1v5_power_average = 0.990764 count = 1032
+Validation PASSED!
+
+ hardware execution time  13.132600 ms elapsed
+==============================================
+frequency factor = 21 
+------------------------------
+vccint_voltage_average = 0.831687 count = 1044
+vccint_current_average = 0.114179 count = 1044
+vccint_power_average = 0.094959 count = 1044
+vccpint_voltage_average = 1.004019 count = 1044
+vccpint_current_average = 0.347522 count = 1044
+vccpint_power_average = 0.348917 count = 1044
+vccaux_voltage_average = 1.804985 count = 1044
+vccaux_current_average = 0.028376 count = 1044
+vccaux_power_average = 0.051223 count = 1044
+vccpaux_voltage_average = 1.798748 count = 1044
+vccpaux_current_average = 0.086057 count = 1044
+vccpaux_power_average = 0.154793 count = 1044
+vcc1v5_voltage_average = 1.508833 count = 1044
+vcc1v5_current_average = 0.642810 count = 1044
+vcc1v5_power_average = 0.969890 count = 1044
+Validation PASSED!
+
+ hardware execution time  13.792500 ms elapsed
+==============================================
+frequency factor = 22 
+------------------------------
+vccint_voltage_average = 0.831794 count = 1010
+vccint_current_average = 0.110087 count = 1010
+vccint_power_average = 0.091568 count = 1010
+vccpint_voltage_average = 1.003964 count = 1010
+vccpint_current_average = 0.345096 count = 1010
+vccpint_power_average = 0.346461 count = 1010
+vccaux_voltage_average = 1.805026 count = 1010
+vccaux_current_average = 0.027460 count = 1010
+vccaux_power_average = 0.049568 count = 1010
+vccpaux_voltage_average = 1.798737 count = 1010
+vccpaux_current_average = 0.089078 count = 1010
+vccpaux_power_average = 0.160227 count = 1010
+vcc1v5_voltage_average = 1.508888 count = 1010
+vcc1v5_current_average = 0.657302 count = 1010
+vcc1v5_power_average = 0.991792 count = 1010
+Validation PASSED!
+
+ hardware execution time  14.433000 ms elapsed
+==============================================
+frequency factor = 23 
+------------------------------
+vccint_voltage_average = 0.831733 count = 1023
+vccint_current_average = 0.106030 count = 1023
+vccint_power_average = 0.088187 count = 1023
+vccpint_voltage_average = 1.004091 count = 1023
+vccpint_current_average = 0.343765 count = 1023
+vccpint_power_average = 0.345171 count = 1023
+vccaux_voltage_average = 1.805006 count = 1023
+vccaux_current_average = 0.026439 count = 1023
+vccaux_power_average = 0.047722 count = 1023
+vccpaux_voltage_average = 1.798814 count = 1023
+vccpaux_current_average = 0.086235 count = 1023
+vccpaux_power_average = 0.155121 count = 1023
+vcc1v5_voltage_average = 1.508821 count = 1023
+vcc1v5_current_average = 0.637845 count = 1023
+vcc1v5_power_average = 0.962393 count = 1023
+Validation PASSED!
+
+ hardware execution time  15.092400 ms elapsed
+==============================================
+frequency factor = 24 
+------------------------------
+vccint_voltage_average = 0.831687 count = 1028
+vccint_current_average = 0.101912 count = 1028
+vccint_power_average = 0.084760 count = 1028
+vccpint_voltage_average = 1.003759 count = 1028
+vccpint_current_average = 0.344905 count = 1028
+vccpint_power_average = 0.346197 count = 1028
+vccaux_voltage_average = 1.805049 count = 1028
+vccaux_current_average = 0.026949 count = 1028
+vccaux_power_average = 0.048644 count = 1028
+vccpaux_voltage_average = 1.798805 count = 1028
+vccpaux_current_average = 0.085512 count = 1028
+vccpaux_power_average = 0.153819 count = 1028
+vcc1v5_voltage_average = 1.508870 count = 1028
+vcc1v5_current_average = 0.618251 count = 1028
+vcc1v5_power_average = 0.932858 count = 1028
+Validation PASSED!
+
+ hardware execution time  15.745800 ms elapsed
+==============================================
+frequency factor = 25 
+------------------------------
+vccint_voltage_average = 0.831636 count = 1011
+vccint_current_average = 0.099515 count = 1011
+vccint_power_average = 0.082759 count = 1011
+vccpint_voltage_average = 1.004108 count = 1011
+vccpint_current_average = 0.341633 count = 1011
+vccpint_power_average = 0.343034 count = 1011
+vccaux_voltage_average = 1.804947 count = 1011
+vccaux_current_average = 0.025810 count = 1011
+vccaux_power_average = 0.046592 count = 1011
+vccpaux_voltage_average = 1.798821 count = 1011
+vccpaux_current_average = 0.087290 count = 1011
+vccpaux_power_average = 0.157017 count = 1011
+vcc1v5_voltage_average = 1.508787 count = 1011
+vcc1v5_current_average = 0.613563 count = 1011
+vcc1v5_power_average = 0.925734 count = 1011
+Validation PASSED!
+
+ hardware execution time  16.403600 ms elapsed
+==============================================
+frequency factor = 26 
+------------------------------
+vccint_voltage_average = 0.831676 count = 1016
+vccint_current_average = 0.098733 count = 1016
+vccint_power_average = 0.082112 count = 1016
+vccpint_voltage_average = 1.003993 count = 1016
+vccpint_current_average = 0.341212 count = 1016
+vccpint_power_average = 0.342576 count = 1016
+vccaux_voltage_average = 1.804095 count = 1016
+vccaux_current_average = 0.026252 count = 1016
+vccaux_power_average = 0.047381 count = 1016
+vccpaux_voltage_average = 1.798776 count = 1016
+vccpaux_current_average = 0.087291 count = 1016
+vccpaux_power_average = 0.157014 count = 1016
+vcc1v5_voltage_average = 1.508783 count = 1016
+vcc1v5_current_average = 0.604561 count = 1016
+vcc1v5_power_average = 0.912151 count = 1016
+Validation PASSED!
+
+ hardware execution time  17.055300 ms elapsed
+==============================================
+frequency factor = 27 
+------------------------------
+vccint_voltage_average = 0.831649 count = 1011
+vccint_current_average = 0.094523 count = 1011
+vccint_power_average = 0.078608 count = 1011
+vccpint_voltage_average = 1.003971 count = 1011
+vccpint_current_average = 0.338233 count = 1011
+vccpint_power_average = 0.339570 count = 1011
+vccaux_voltage_average = 1.804950 count = 1011
+vccaux_current_average = 0.027046 count = 1011
+vccaux_power_average = 0.048817 count = 1011
+vccpaux_voltage_average = 1.798871 count = 1011
+vccpaux_current_average = 0.084817 count = 1011
+vccpaux_power_average = 0.152568 count = 1011
+vcc1v5_voltage_average = 1.508764 count = 1011
+vcc1v5_current_average = 0.592282 count = 1011
+vcc1v5_power_average = 0.893614 count = 1011
+Validation PASSED!
+
+ hardware execution time  17.710100 ms elapsed
+==============================================
+frequency factor = 28 
+------------------------------
+vccint_voltage_average = 0.831614 count = 1039
+vccint_current_average = 0.090005 count = 1039
+vccint_power_average = 0.074851 count = 1039
+vccpint_voltage_average = 1.004037 count = 1039
+vccpint_current_average = 0.336005 count = 1039
+vccpint_power_average = 0.337361 count = 1039
+vccaux_voltage_average = 1.804853 count = 1039
+vccaux_current_average = 0.027821 count = 1039
+vccaux_power_average = 0.050213 count = 1039
+vccpaux_voltage_average = 1.798830 count = 1039
+vccpaux_current_average = 0.084140 count = 1039
+vccpaux_power_average = 0.151350 count = 1039
+vcc1v5_voltage_average = 1.508768 count = 1039
+vcc1v5_current_average = 0.580411 count = 1039
+vcc1v5_power_average = 0.875707 count = 1039
+Validation PASSED!
+
+ hardware execution time  18.363700 ms elapsed
+==============================================
+frequency factor = 29 
+------------------------------
+vccint_voltage_average = 0.831627 count = 1045
+vccint_current_average = 0.088786 count = 1045
+vccint_power_average = 0.073836 count = 1045
+vccpint_voltage_average = 1.003890 count = 1045
+vccpint_current_average = 0.340341 count = 1045
+vccpint_power_average = 0.341669 count = 1045
+vccaux_voltage_average = 1.805058 count = 1045
+vccaux_current_average = 0.026809 count = 1045
+vccaux_power_average = 0.048397 count = 1045
+vccpaux_voltage_average = 1.798867 count = 1045
+vccpaux_current_average = 0.083941 count = 1045
+vccpaux_power_average = 0.151001 count = 1045
+vcc1v5_voltage_average = 1.508956 count = 1045
+vcc1v5_current_average = 0.578723 count = 1045
+vcc1v5_power_average = 0.873268 count = 1045
+Validation PASSED!
+
+ hardware execution time  19.011800 ms elapsed
+==============================================
+frequency factor = 30 
+------------------------------
+vccint_voltage_average = 0.831583 count = 1028
+vccint_current_average = 0.085649 count = 1028
+vccint_power_average = 0.071224 count = 1028
+vccpint_voltage_average = 1.004184 count = 1028
+vccpint_current_average = 0.336424 count = 1028
+vccpint_power_average = 0.337832 count = 1028
+vccaux_voltage_average = 1.804873 count = 1028
+vccaux_current_average = 0.027830 count = 1028
+vccaux_power_average = 0.050231 count = 1028
+vccpaux_voltage_average = 1.798905 count = 1028
+vccpaux_current_average = 0.083840 count = 1028
+vccpaux_power_average = 0.150820 count = 1028
+vcc1v5_voltage_average = 1.508827 count = 1028
+vcc1v5_current_average = 0.585132 count = 1028
+vcc1v5_power_average = 0.882860 count = 1028
+Validation PASSED!
+
+ hardware execution time  19.670500 ms elapsed
+==============================================
+frequency factor = 31 
+------------------------------
+vccint_voltage_average = 0.831528 count = 1022
+vccint_current_average = 0.085250 count = 1022
+vccint_power_average = 0.070886 count = 1022
+vccpint_voltage_average = 1.003775 count = 1022
+vccpint_current_average = 0.334760 count = 1022
+vccpint_power_average = 0.336015 count = 1022
+vccaux_voltage_average = 1.804817 count = 1022
+vccaux_current_average = 0.025838 count = 1022
+vccaux_power_average = 0.046633 count = 1022
+vccpaux_voltage_average = 1.798812 count = 1022
+vccpaux_current_average = 0.083094 count = 1022
+vccpaux_power_average = 0.149469 count = 1022
+vcc1v5_voltage_average = 1.508920 count = 1022
+vcc1v5_current_average = 0.573447 count = 1022
+vcc1v5_power_average = 0.865284 count = 1022
+Validation PASSED!
+
+ hardware execution time  20.322800 ms elapsed
+==============================================
+frequency factor = 32 
+------------------------------
+vccint_voltage_average = 0.831528 count = 1029
+vccint_current_average = 0.082362 count = 1029
+vccint_power_average = 0.068485 count = 1029
+vccpint_voltage_average = 1.003965 count = 1029
+vccpint_current_average = 0.334366 count = 1029
+vccpint_power_average = 0.335688 count = 1029
+vccaux_voltage_average = 1.805150 count = 1029
+vccaux_current_average = 0.026679 count = 1029
+vccaux_power_average = 0.048158 count = 1029
+vccpaux_voltage_average = 1.798737 count = 1029
+vccpaux_current_average = 0.084594 count = 1029
+vccpaux_power_average = 0.152164 count = 1029
+vcc1v5_voltage_average = 1.508850 count = 1029
+vcc1v5_current_average = 0.567708 count = 1029
+vcc1v5_power_average = 0.856587 count = 1029
+Validation PASSED!
+
+ hardware execution time  20.978300 ms elapsed
+==============================================
+frequency factor = 33 
+------------------------------
+vccint_voltage_average = 0.831538 count = 1029
+vccint_current_average = 0.080433 count = 1029
+vccint_power_average = 0.066883 count = 1029
+vccpint_voltage_average = 1.004211 count = 1029
+vccpint_current_average = 0.330357 count = 1029
+vccpint_power_average = 0.331743 count = 1029
+vccaux_voltage_average = 1.804906 count = 1029
+vccaux_current_average = 0.026634 count = 1029
+vccaux_power_average = 0.048073 count = 1029
+vccpaux_voltage_average = 1.798903 count = 1029
+vccpaux_current_average = 0.083166 count = 1029
+vccpaux_power_average = 0.149609 count = 1029
+vcc1v5_voltage_average = 1.508925 count = 1029
+vcc1v5_current_average = 0.566372 count = 1029
+vcc1v5_power_average = 0.854613 count = 1029
+Validation PASSED!
+
+ hardware execution time  21.634000 ms elapsed
+==============================================
+frequency factor = 34 
+------------------------------
+vccint_voltage_average = 0.831550 count = 1031
+vccint_current_average = 0.077928 count = 1031
+vccint_power_average = 0.064800 count = 1031
+vccpint_voltage_average = 1.004057 count = 1031
+vccpint_current_average = 0.334142 count = 1031
+vccpint_power_average = 0.335496 count = 1031
+vccaux_voltage_average = 1.804839 count = 1031
+vccaux_current_average = 0.026870 count = 1031
+vccaux_power_average = 0.048498 count = 1031
+vccpaux_voltage_average = 1.798882 count = 1031
+vccpaux_current_average = 0.082065 count = 1031
+vccpaux_power_average = 0.147627 count = 1031
+vcc1v5_voltage_average = 1.508891 count = 1031
+vcc1v5_current_average = 0.545890 count = 1031
+vcc1v5_power_average = 0.823689 count = 1031
+Validation PASSED!
+
+ hardware execution time  22.288900 ms elapsed
+==============================================
+frequency factor = 35 
+------------------------------
+vccint_voltage_average = 0.831623 count = 1029
+vccint_current_average = 0.077715 count = 1029
+vccint_power_average = 0.064628 count = 1029
+vccpint_voltage_average = 1.004142 count = 1029
+vccpint_current_average = 0.332073 count = 1029
+vccpint_power_average = 0.333446 count = 1029
+vccaux_voltage_average = 1.804838 count = 1029
+vccaux_current_average = 0.026634 count = 1029
+vccaux_power_average = 0.048073 count = 1029
+vccpaux_voltage_average = 1.798871 count = 1029
+vccpaux_current_average = 0.083591 count = 1029
+vccpaux_power_average = 0.150369 count = 1029
+vcc1v5_voltage_average = 1.508827 count = 1029
+vcc1v5_current_average = 0.544597 count = 1029
+vcc1v5_power_average = 0.821701 count = 1029
+Validation PASSED!
+
+ hardware execution time  22.943500 ms elapsed
+==============================================
+frequency factor = 36 
+------------------------------
+vccint_voltage_average = 0.831582 count = 1041
+vccint_current_average = 0.073622 count = 1041
+vccint_power_average = 0.061223 count = 1041
+vccpint_voltage_average = 1.003912 count = 1041
+vccpint_current_average = 0.330196 count = 1041
+vccpint_power_average = 0.331491 count = 1041
+vccaux_voltage_average = 1.804947 count = 1041
+vccaux_current_average = 0.026597 count = 1041
+vccaux_power_average = 0.048006 count = 1041
+vccpaux_voltage_average = 1.798625 count = 1041
+vccpaux_current_average = 0.080887 count = 1041
+vccpaux_power_average = 0.145479 count = 1041
+vcc1v5_voltage_average = 1.508797 count = 1041
+vcc1v5_current_average = 0.522394 count = 1041
+vcc1v5_power_average = 0.788186 count = 1041
+Validation PASSED!
+
+ hardware execution time  23.598600 ms elapsed
+==============================================
+frequency factor = 37 
+------------------------------
+vccint_voltage_average = 0.831578 count = 1016
+vccint_current_average = 0.074988 count = 1016
+vccint_power_average = 0.062357 count = 1016
+vccpint_voltage_average = 1.004016 count = 1016
+vccpint_current_average = 0.328771 count = 1016
+vccpint_power_average = 0.330092 count = 1016
+vccaux_voltage_average = 1.804937 count = 1016
+vccaux_current_average = 0.026329 count = 1016
+vccaux_power_average = 0.047521 count = 1016
+vccpaux_voltage_average = 1.798822 count = 1016
+vccpaux_current_average = 0.082877 count = 1016
+vccpaux_power_average = 0.149083 count = 1016
+vcc1v5_voltage_average = 1.508927 count = 1016
+vcc1v5_current_average = 0.531742 count = 1016
+vcc1v5_power_average = 0.802359 count = 1016
+Validation PASSED!
+
+ hardware execution time  24.253400 ms elapsed
+==============================================
+frequency factor = 38 
+------------------------------
+vccint_voltage_average = 0.831461 count = 1035
+vccint_current_average = 0.072630 count = 1035
+vccint_power_average = 0.060390 count = 1035
+vccpint_voltage_average = 1.003975 count = 1035
+vccpint_current_average = 0.329589 count = 1035
+vccpint_power_average = 0.330898 count = 1035
+vccaux_voltage_average = 1.804846 count = 1035
+vccaux_current_average = 0.027642 count = 1035
+vccaux_power_average = 0.049892 count = 1035
+vccpaux_voltage_average = 1.798775 count = 1035
+vccpaux_current_average = 0.081069 count = 1035
+vccpaux_power_average = 0.145828 count = 1035
+vcc1v5_voltage_average = 1.508767 count = 1035
+vcc1v5_current_average = 0.529091 count = 1035
+vcc1v5_power_average = 0.798273 count = 1035
+Validation PASSED!
+
+ hardware execution time  24.908500 ms elapsed
+==============================================
+frequency factor = 39 
+------------------------------
+vccint_voltage_average = 0.831504 count = 1030
+vccint_current_average = 0.071875 count = 1030
+vccint_power_average = 0.059764 count = 1030
+vccpint_voltage_average = 1.003969 count = 1030
+vccpint_current_average = 0.328899 count = 1030
+vccpint_power_average = 0.330204 count = 1030
+vccaux_voltage_average = 1.805037 count = 1030
+vccaux_current_average = 0.027351 count = 1030
+vccaux_power_average = 0.049374 count = 1030
+vccpaux_voltage_average = 1.798901 count = 1030
+vccpaux_current_average = 0.082721 count = 1030
+vccpaux_power_average = 0.148802 count = 1030
+vcc1v5_voltage_average = 1.508817 count = 1030
+vcc1v5_current_average = 0.528049 count = 1030
+vcc1v5_power_average = 0.796729 count = 1030
+Validation PASSED!
+
+ hardware execution time  25.563900 ms elapsed
+==============================================
+frequency factor = 40 
+------------------------------
+vccint_voltage_average = 0.831543 count = 1022
+vccint_current_average = 0.069410 count = 1022
+vccint_power_average = 0.057717 count = 1022
+vccpint_voltage_average = 1.004082 count = 1022
+vccpint_current_average = 0.329761 count = 1022
+vccpint_power_average = 0.331105 count = 1022
+vccaux_voltage_average = 1.805039 count = 1022
+vccaux_current_average = 0.027596 count = 1022
+vccaux_power_average = 0.049814 count = 1022
+vccpaux_voltage_average = 1.798877 count = 1022
+vccpaux_current_average = 0.082069 count = 1022
+vccpaux_power_average = 0.147633 count = 1022
+vcc1v5_voltage_average = 1.508756 count = 1022
+vcc1v5_current_average = 0.519417 count = 1022
+vcc1v5_power_average = 0.783672 count = 1022
+Validation PASSED!
+
+ hardware execution time  26.218900 ms elapsed
+==============================================
+frequency factor = 41 
+------------------------------
+vccint_voltage_average = 0.831538 count = 1032
+vccint_current_average = 0.068798 count = 1032
+vccint_power_average = 0.057210 count = 1032
+vccpint_voltage_average = 1.003847 count = 1032
+vccpint_current_average = 0.327504 count = 1032
+vccpint_power_average = 0.328755 count = 1032
+vccaux_voltage_average = 1.804774 count = 1032
+vccaux_current_average = 0.026708 count = 1032
+vccaux_power_average = 0.048201 count = 1032
+vccpaux_voltage_average = 1.798729 count = 1032
+vccpaux_current_average = 0.082258 count = 1032
+vccpaux_power_average = 0.147964 count = 1032
+vcc1v5_voltage_average = 1.508805 count = 1032
+vcc1v5_current_average = 0.515867 count = 1032
+vcc1v5_power_average = 0.778342 count = 1032
+Validation PASSED!
+
+ hardware execution time  26.875200 ms elapsed
+==============================================
+frequency factor = 42 
+------------------------------
+vccint_voltage_average = 0.831549 count = 1040
+vccint_current_average = 0.069171 count = 1040
+vccint_power_average = 0.057518 count = 1040
+vccpint_voltage_average = 1.004198 count = 1040
+vccpint_current_average = 0.327719 count = 1040
+vccpint_power_average = 0.329089 count = 1040
+vccaux_voltage_average = 1.804909 count = 1040
+vccaux_current_average = 0.027569 count = 1040
+vccaux_power_average = 0.049765 count = 1040
+vccpaux_voltage_average = 1.798633 count = 1040
+vccpaux_current_average = 0.083113 count = 1040
+vccpaux_power_average = 0.149494 count = 1040
+vcc1v5_voltage_average = 1.508789 count = 1040
+vcc1v5_current_average = 0.515790 count = 1040
+vcc1v5_power_average = 0.778219 count = 1040
+Validation PASSED!
+
+ hardware execution time  27.524900 ms elapsed
+==============================================
+frequency factor = 43 
+------------------------------
+vccint_voltage_average = 0.831551 count = 1017
+vccint_current_average = 0.064820 count = 1017
+vccint_power_average = 0.053902 count = 1017
+vccpint_voltage_average = 1.004069 count = 1017
+vccpint_current_average = 0.325390 count = 1017
+vccpint_power_average = 0.326715 count = 1017
+vccaux_voltage_average = 1.804874 count = 1017
+vccaux_current_average = 0.027301 count = 1017
+vccaux_power_average = 0.049278 count = 1017
+vccpaux_voltage_average = 1.798988 count = 1017
+vccpaux_current_average = 0.081520 count = 1017
+vccpaux_power_average = 0.146657 count = 1017
+vcc1v5_voltage_average = 1.508819 count = 1017
+vcc1v5_current_average = 0.488262 count = 1017
+vcc1v5_power_average = 0.736698 count = 1017
+Validation PASSED!
+
+ hardware execution time  28.173400 ms elapsed
+==============================================
+frequency factor = 44 
+------------------------------
+vccint_voltage_average = 0.831603 count = 1029
+vccint_current_average = 0.064854 count = 1029
+vccint_power_average = 0.053932 count = 1029
+vccpint_voltage_average = 1.004109 count = 1029
+vccpint_current_average = 0.326682 count = 1029
+vccpint_power_average = 0.328024 count = 1029
+vccaux_voltage_average = 1.804992 count = 1029
+vccaux_current_average = 0.027302 count = 1029
+vccaux_power_average = 0.049280 count = 1029
+vccpaux_voltage_average = 1.798909 count = 1029
+vccpaux_current_average = 0.081739 count = 1029
+vccpaux_power_average = 0.147046 count = 1029
+vcc1v5_voltage_average = 1.508901 count = 1029
+vcc1v5_current_average = 0.511161 count = 1029
+vcc1v5_power_average = 0.771289 count = 1029
+Validation PASSED!
+
+ hardware execution time  28.828800 ms elapsed
+==============================================
+frequency factor = 45 
+------------------------------
+vccint_voltage_average = 0.831503 count = 1023
+vccint_current_average = 0.065203 count = 1023
+vccint_power_average = 0.054218 count = 1023
+vccpint_voltage_average = 1.004267 count = 1023
+vccpint_current_average = 0.324551 count = 1023
+vccpint_power_average = 0.325934 count = 1023
+vccaux_voltage_average = 1.804287 count = 1023
+vccaux_current_average = 0.027401 count = 1023
+vccaux_power_average = 0.049458 count = 1023
+vccpaux_voltage_average = 1.798965 count = 1023
+vccpaux_current_average = 0.082081 count = 1023
+vccpaux_power_average = 0.147663 count = 1023
+vcc1v5_voltage_average = 1.508897 count = 1023
+vcc1v5_current_average = 0.510569 count = 1023
+vcc1v5_power_average = 0.770394 count = 1023
+Validation PASSED!
+
+ hardware execution time  29.482200 ms elapsed
+==============================================
+frequency factor = 46 
+------------------------------
+vccint_voltage_average = 0.831587 count = 1037
+vccint_current_average = 0.066357 count = 1037
+vccint_power_average = 0.055183 count = 1037
+vccpint_voltage_average = 1.003985 count = 1037
+vccpint_current_average = 0.328050 count = 1037
+vccpint_power_average = 0.329356 count = 1037
+vccaux_voltage_average = 1.804984 count = 1037
+vccaux_current_average = 0.027137 count = 1037
+vccaux_power_average = 0.048981 count = 1037
+vccpaux_voltage_average = 1.798864 count = 1037
+vccpaux_current_average = 0.080626 count = 1037
+vccpaux_power_average = 0.145037 count = 1037
+vcc1v5_voltage_average = 1.508835 count = 1037
+vcc1v5_current_average = 0.506087 count = 1037
+vcc1v5_power_average = 0.763601 count = 1037
+Validation PASSED!
+
+ hardware execution time  30.137500 ms elapsed
+==============================================
+frequency factor = 47 
+------------------------------
+vccint_voltage_average = 0.831609 count = 1024
+vccint_current_average = 0.064453 count = 1024
+vccint_power_average = 0.053599 count = 1024
+vccpint_voltage_average = 1.004252 count = 1024
+vccpint_current_average = 0.324081 count = 1024
+vccpint_power_average = 0.325457 count = 1024
+vccaux_voltage_average = 1.804830 count = 1024
+vccaux_current_average = 0.026672 count = 1024
+vccaux_power_average = 0.048141 count = 1024
+vccpaux_voltage_average = 1.799023 count = 1024
+vccpaux_current_average = 0.081024 count = 1024
+vccpaux_power_average = 0.145763 count = 1024
+vcc1v5_voltage_average = 1.508850 count = 1024
+vcc1v5_current_average = 0.500137 count = 1024
+vcc1v5_power_average = 0.754632 count = 1024
+Validation PASSED!
+
+ hardware execution time  30.793400 ms elapsed
+==============================================
+frequency factor = 48 
+------------------------------
+vccint_voltage_average = 0.831608 count = 1042
+vccint_current_average = 0.063445 count = 1042
+vccint_power_average = 0.052762 count = 1042
+vccpint_voltage_average = 1.004029 count = 1042
+vccpint_current_average = 0.324241 count = 1042
+vccpint_power_average = 0.325541 count = 1042
+vccaux_voltage_average = 1.804652 count = 1042
+vccaux_current_average = 0.028086 count = 1042
+vccaux_power_average = 0.050686 count = 1042
+vccpaux_voltage_average = 1.798896 count = 1042
+vccpaux_current_average = 0.082639 count = 1042
+vccpaux_power_average = 0.148656 count = 1042
+vcc1v5_voltage_average = 1.508812 count = 1042
+vcc1v5_current_average = 0.502189 count = 1042
+vcc1v5_power_average = 0.757711 count = 1042
+Validation PASSED!
+
+ hardware execution time  31.448400 ms elapsed
+==============================================
+frequency factor = 49 
+------------------------------
+vccint_voltage_average = 0.831578 count = 1037
+vccint_current_average = 0.060993 count = 1037
+vccint_power_average = 0.050721 count = 1037
+vccpint_voltage_average = 1.004040 count = 1037
+vccpint_current_average = 0.326046 count = 1037
+vccpint_power_average = 0.327356 count = 1037
+vccaux_voltage_average = 1.803972 count = 1037
+vccaux_current_average = 0.025539 count = 1037
+vccaux_power_average = 0.046058 count = 1037
+vccpaux_voltage_average = 1.798843 count = 1037
+vccpaux_current_average = 0.080837 count = 1037
+vccpaux_power_average = 0.145411 count = 1037
+vcc1v5_voltage_average = 1.508746 count = 1037
+vcc1v5_current_average = 0.495224 count = 1037
+vcc1v5_power_average = 0.747167 count = 1037
+Validation PASSED!
+
+ hardware execution time  32.103300 ms elapsed
+==============================================
+VCCINT voltage = 0.820000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 11 
+------------------------------
+vccint_voltage_average = 0.821712 count = 1028
+vccint_current_average = 0.176070 count = 1028
+vccint_power_average = 0.144679 count = 1028
+vccpint_voltage_average = 1.004211 count = 1028
+vccpint_current_average = 0.379849 count = 1028
+vccpint_power_average = 0.381447 count = 1028
+vccaux_voltage_average = 1.804881 count = 1028
+vccaux_current_average = 0.026173 count = 1028
+vccaux_power_average = 0.047243 count = 1028
+vccpaux_voltage_average = 1.798810 count = 1028
+vccpaux_current_average = 0.099070 count = 1028
+vccpaux_power_average = 0.178206 count = 1028
+vcc1v5_voltage_average = 1.508719 count = 1028
+vcc1v5_current_average = 0.901553 count = 1028
+vcc1v5_power_average = 1.360193 count = 1028
+Validation PASSED!
+
+ hardware execution time  7.251000 ms elapsed
+==============================================
+frequency factor = 12 
+------------------------------
+vccint_voltage_average = 0.821738 count = 1031
+vccint_current_average = 0.159327 count = 1031
+vccint_power_average = 0.130926 count = 1031
+vccpint_voltage_average = 1.004124 count = 1031
+vccpint_current_average = 0.379637 count = 1031
+vccpint_power_average = 0.381205 count = 1031
+vccaux_voltage_average = 1.804944 count = 1031
+vccaux_current_average = 0.026764 count = 1031
+vccaux_power_average = 0.048308 count = 1031
+vccpaux_voltage_average = 1.798889 count = 1031
+vccpaux_current_average = 0.096205 count = 1031
+vccpaux_power_average = 0.173062 count = 1031
+vcc1v5_voltage_average = 1.508831 count = 1031
+vcc1v5_current_average = 0.874651 count = 1031
+vcc1v5_power_average = 1.319703 count = 1031
+Validation PASSED!
+
+ hardware execution time  7.907000 ms elapsed
+==============================================
+frequency factor = 13 
+------------------------------
+vccint_voltage_average = 0.821912 count = 1032
+vccint_current_average = 0.151314 count = 1032
+vccint_power_average = 0.124366 count = 1032
+vccpint_voltage_average = 1.003991 count = 1032
+vccpint_current_average = 0.371018 count = 1032
+vccpint_power_average = 0.372488 count = 1032
+vccaux_voltage_average = 1.804881 count = 1032
+vccaux_current_average = 0.025921 count = 1032
+vccaux_power_average = 0.046785 count = 1032
+vccpaux_voltage_average = 1.798812 count = 1032
+vccpaux_current_average = 0.094356 count = 1032
+vccpaux_power_average = 0.169727 count = 1032
+vcc1v5_voltage_average = 1.508868 count = 1032
+vcc1v5_current_average = 0.819798 count = 1032
+vcc1v5_power_average = 1.236967 count = 1032
+Validation PASSED!
+
+ hardware execution time  8.558100 ms elapsed
+==============================================
+frequency factor = 14 
+------------------------------
+vccint_voltage_average = 0.821868 count = 1025
+vccint_current_average = 0.144909 count = 1025
+vccint_power_average = 0.119096 count = 1025
+vccpint_voltage_average = 1.004088 count = 1025
+vccpint_current_average = 0.367043 count = 1025
+vccpint_power_average = 0.368538 count = 1025
+vccaux_voltage_average = 1.804203 count = 1025
+vccaux_current_average = 0.026784 count = 1025
+vccaux_power_average = 0.048348 count = 1025
+vccpaux_voltage_average = 1.798894 count = 1025
+vccpaux_current_average = 0.094314 count = 1025
+vccpaux_power_average = 0.169665 count = 1025
+vcc1v5_voltage_average = 1.508774 count = 1025
+vcc1v5_current_average = 0.807424 count = 1025
+vcc1v5_power_average = 1.218221 count = 1025
+Validation PASSED!
+
+ hardware execution time  9.206900 ms elapsed
+==============================================
+frequency factor = 15 
+------------------------------
+vccint_voltage_average = 0.821807 count = 1024
+vccint_current_average = 0.139297 count = 1024
+vccint_power_average = 0.114474 count = 1024
+vccpint_voltage_average = 1.004063 count = 1024
+vccpint_current_average = 0.360718 count = 1024
+vccpint_power_average = 0.362182 count = 1024
+vccaux_voltage_average = 1.804145 count = 1024
+vccaux_current_average = 0.027542 count = 1024
+vccaux_power_average = 0.049676 count = 1024
+vccpaux_voltage_average = 1.798922 count = 1024
+vccpaux_current_average = 0.092209 count = 1024
+vccpaux_power_average = 0.165881 count = 1024
+vcc1v5_voltage_average = 1.508809 count = 1024
+vcc1v5_current_average = 0.754669 count = 1024
+vcc1v5_power_average = 1.138654 count = 1024
+Validation PASSED!
+
+ hardware execution time  9.865700 ms elapsed
+==============================================
+frequency factor = 16 
+------------------------------
+vccint_voltage_average = 0.821782 count = 1015
+vccint_current_average = 0.136053 count = 1015
+vccint_power_average = 0.111805 count = 1015
+vccpint_voltage_average = 1.004147 count = 1015
+vccpint_current_average = 0.357774 count = 1015
+vccpint_power_average = 0.359258 count = 1015
+vccaux_voltage_average = 1.804986 count = 1015
+vccaux_current_average = 0.026709 count = 1015
+vccaux_power_average = 0.048210 count = 1015
+vccpaux_voltage_average = 1.798808 count = 1015
+vccpaux_current_average = 0.089809 count = 1015
+vccpaux_power_average = 0.161549 count = 1015
+vcc1v5_voltage_average = 1.508870 count = 1015
+vcc1v5_current_average = 0.740810 count = 1015
+vcc1v5_power_average = 1.117781 count = 1015
+Validation PASSED!
+
+ hardware execution time  10.519500 ms elapsed
+==============================================
+frequency factor = 17 
+------------------------------
+vccint_voltage_average = 0.821757 count = 1032
+vccint_current_average = 0.130133 count = 1032
+vccint_power_average = 0.106938 count = 1032
+vccpint_voltage_average = 1.003989 count = 1032
+vccpint_current_average = 0.356074 count = 1032
+vccpint_power_average = 0.357501 count = 1032
+vccaux_voltage_average = 1.804227 count = 1032
+vccaux_current_average = 0.025981 count = 1032
+vccaux_power_average = 0.046897 count = 1032
+vccpaux_voltage_average = 1.798727 count = 1032
+vccpaux_current_average = 0.088027 count = 1032
+vccpaux_power_average = 0.158341 count = 1032
+vcc1v5_voltage_average = 1.508787 count = 1032
+vcc1v5_current_average = 0.702201 count = 1032
+vcc1v5_power_average = 1.059472 count = 1032
+Validation PASSED!
+
+ hardware execution time  11.177900 ms elapsed
+==============================================
+frequency factor = 18 
+------------------------------
+vccint_voltage_average = 0.821746 count = 1033
+vccint_current_average = 0.125741 count = 1033
+vccint_power_average = 0.103328 count = 1033
+vccpint_voltage_average = 1.004024 count = 1033
+vccpint_current_average = 0.353431 count = 1033
+vccpint_power_average = 0.354852 count = 1033
+vccaux_voltage_average = 1.804844 count = 1033
+vccaux_current_average = 0.026924 count = 1033
+vccaux_power_average = 0.048597 count = 1033
+vccpaux_voltage_average = 1.798689 count = 1033
+vccpaux_current_average = 0.090150 count = 1033
+vccpaux_power_average = 0.162156 count = 1033
+vcc1v5_voltage_average = 1.508885 count = 1033
+vcc1v5_current_average = 0.700750 count = 1033
+vcc1v5_power_average = 1.057348 count = 1033
+Validation PASSED!
+
+ hardware execution time  11.820600 ms elapsed
+==============================================
+frequency factor = 19 
+------------------------------
+vccint_voltage_average = 0.821740 count = 1033
+vccint_current_average = 0.120447 count = 1033
+vccint_power_average = 0.098976 count = 1033
+vccpint_voltage_average = 1.004120 count = 1033
+vccpint_current_average = 0.350088 count = 1033
+vccpint_power_average = 0.351526 count = 1033
+vccaux_voltage_average = 1.804982 count = 1033
+vccaux_current_average = 0.025381 count = 1033
+vccaux_power_average = 0.045816 count = 1033
+vccpaux_voltage_average = 1.798996 count = 1033
+vccpaux_current_average = 0.088108 count = 1033
+vccpaux_power_average = 0.158505 count = 1033
+vcc1v5_voltage_average = 1.508885 count = 1033
+vcc1v5_current_average = 0.678712 count = 1033
+vcc1v5_power_average = 1.024099 count = 1033
+Validation PASSED!
+
+ hardware execution time  12.473800 ms elapsed
+==============================================
+frequency factor = 20 
+------------------------------
+vccint_voltage_average = 0.821679 count = 1023
+vccint_current_average = 0.116905 count = 1023
+vccint_power_average = 0.096057 count = 1023
+vccpint_voltage_average = 1.003898 count = 1023
+vccpint_current_average = 0.348240 count = 1023
+vccpint_power_average = 0.349593 count = 1023
+vccaux_voltage_average = 1.804844 count = 1023
+vccaux_current_average = 0.026744 count = 1023
+vccaux_power_average = 0.048269 count = 1023
+vccpaux_voltage_average = 1.798814 count = 1023
+vccpaux_current_average = 0.087747 count = 1023
+vccpaux_power_average = 0.157846 count = 1023
+vcc1v5_voltage_average = 1.508838 count = 1023
+vcc1v5_current_average = 0.656617 count = 1023
+vcc1v5_power_average = 0.990726 count = 1023
+Validation PASSED!
+
+ hardware execution time  13.130000 ms elapsed
+==============================================
+frequency factor = 21 
+------------------------------
+vccint_voltage_average = 0.821699 count = 1028
+vccint_current_average = 0.112354 count = 1028
+vccint_power_average = 0.092321 count = 1028
+vccpint_voltage_average = 1.004044 count = 1028
+vccpint_current_average = 0.345878 count = 1028
+vccpint_power_average = 0.347279 count = 1028
+vccaux_voltage_average = 1.804787 count = 1028
+vccaux_current_average = 0.027861 count = 1028
+vccaux_power_average = 0.050285 count = 1028
+vccpaux_voltage_average = 1.798878 count = 1028
+vccpaux_current_average = 0.087685 count = 1028
+vccpaux_power_average = 0.157741 count = 1028
+vcc1v5_voltage_average = 1.508861 count = 1028
+vcc1v5_current_average = 0.642312 count = 1028
+vcc1v5_power_average = 0.969159 count = 1028
+Validation PASSED!
+
+ hardware execution time  13.788400 ms elapsed
+==============================================
+frequency factor = 22 
+------------------------------
+vccint_voltage_average = 0.821650 count = 1030
+vccint_current_average = 0.108450 count = 1030
+vccint_power_average = 0.089110 count = 1030
+vccpint_voltage_average = 1.003862 count = 1030
+vccpint_current_average = 0.344964 count = 1030
+vccpint_power_average = 0.346298 count = 1030
+vccaux_voltage_average = 1.804955 count = 1030
+vccaux_current_average = 0.027200 count = 1030
+vccaux_power_average = 0.049093 count = 1030
+vccpaux_voltage_average = 1.798883 count = 1030
+vccpaux_current_average = 0.086924 count = 1030
+vccpaux_power_average = 0.156368 count = 1030
+vcc1v5_voltage_average = 1.508814 count = 1030
+vcc1v5_current_average = 0.658040 count = 1030
+vcc1v5_power_average = 0.992860 count = 1030
+Validation PASSED!
+
+ hardware execution time  14.437900 ms elapsed
+==============================================
+frequency factor = 23 
+------------------------------
+vccint_voltage_average = 0.821588 count = 1015
+vccint_current_average = 0.106265 count = 1015
+vccint_power_average = 0.087306 count = 1015
+vccpint_voltage_average = 1.003934 count = 1015
+vccpint_current_average = 0.344920 count = 1015
+vccpint_power_average = 0.346276 count = 1015
+vccaux_voltage_average = 1.804869 count = 1015
+vccaux_current_average = 0.027201 count = 1015
+vccaux_power_average = 0.049099 count = 1015
+vccpaux_voltage_average = 1.798764 count = 1015
+vccpaux_current_average = 0.087762 count = 1015
+vccpaux_power_average = 0.157862 count = 1015
+vcc1v5_voltage_average = 1.508855 count = 1015
+vcc1v5_current_average = 0.640209 count = 1015
+vcc1v5_power_average = 0.965981 count = 1015
+Validation PASSED!
+
+ hardware execution time  15.093100 ms elapsed
+==============================================
+frequency factor = 24 
+------------------------------
+vccint_voltage_average = 0.821607 count = 1022
+vccint_current_average = 0.101241 count = 1022
+vccint_power_average = 0.083180 count = 1022
+vccpint_voltage_average = 1.004020 count = 1022
+vccpint_current_average = 0.344438 count = 1022
+vccpint_power_average = 0.345823 count = 1022
+vccaux_voltage_average = 1.804860 count = 1022
+vccaux_current_average = 0.026633 count = 1022
+vccaux_power_average = 0.048072 count = 1022
+vccpaux_voltage_average = 1.798778 count = 1022
+vccpaux_current_average = 0.085479 count = 1022
+vccpaux_power_average = 0.153759 count = 1022
+vcc1v5_voltage_average = 1.508815 count = 1022
+vcc1v5_current_average = 0.624465 count = 1022
+vcc1v5_power_average = 0.942200 count = 1022
+Validation PASSED!
+
+ hardware execution time  15.744900 ms elapsed
+==============================================
+frequency factor = 25 
+------------------------------
+vccint_voltage_average = 0.821631 count = 1024
+vccint_current_average = 0.098846 count = 1024
+vccint_power_average = 0.081214 count = 1024
+vccpint_voltage_average = 1.003610 count = 1024
+vccpint_current_average = 0.344315 count = 1024
+vccpint_power_average = 0.345559 count = 1024
+vccaux_voltage_average = 1.805006 count = 1024
+vccaux_current_average = 0.025223 count = 1024
+vccaux_power_average = 0.045531 count = 1024
+vccpaux_voltage_average = 1.798935 count = 1024
+vccpaux_current_average = 0.089371 count = 1024
+vccpaux_power_average = 0.160781 count = 1024
+vcc1v5_voltage_average = 1.508808 count = 1024
+vcc1v5_current_average = 0.620621 count = 1024
+vcc1v5_power_average = 0.936395 count = 1024
+Validation PASSED!
+
+ hardware execution time  16.400600 ms elapsed
+==============================================
+frequency factor = 26 
+------------------------------
+vccint_voltage_average = 0.821758 count = 1016
+vccint_current_average = 0.093996 count = 1016
+vccint_power_average = 0.077240 count = 1016
+vccpint_voltage_average = 1.004052 count = 1016
+vccpint_current_average = 0.339336 count = 1016
+vccpint_power_average = 0.340711 count = 1016
+vccaux_voltage_average = 1.804929 count = 1016
+vccaux_current_average = 0.026298 count = 1016
+vccaux_power_average = 0.047465 count = 1016
+vccpaux_voltage_average = 1.798642 count = 1016
+vccpaux_current_average = 0.086445 count = 1016
+vccpaux_power_average = 0.155485 count = 1016
+vcc1v5_voltage_average = 1.508862 count = 1016
+vcc1v5_current_average = 0.613650 count = 1016
+vcc1v5_power_average = 0.925911 count = 1016
+Validation PASSED!
+
+ hardware execution time  17.054700 ms elapsed
+==============================================
+frequency factor = 27 
+------------------------------
+vccint_voltage_average = 0.821654 count = 1016
+vccint_current_average = 0.091551 count = 1016
+vccint_power_average = 0.075222 count = 1016
+vccpint_voltage_average = 1.004041 count = 1016
+vccpint_current_average = 0.339413 count = 1016
+vccpint_power_average = 0.340782 count = 1016
+vccaux_voltage_average = 1.804201 count = 1016
+vccaux_current_average = 0.026636 count = 1016
+vccaux_power_average = 0.048067 count = 1016
+vccpaux_voltage_average = 1.798932 count = 1016
+vccpaux_current_average = 0.085461 count = 1016
+vccpaux_power_average = 0.153744 count = 1016
+vcc1v5_voltage_average = 1.508851 count = 1016
+vcc1v5_current_average = 0.590428 count = 1016
+vcc1v5_power_average = 0.890868 count = 1016
+Validation PASSED!
+
+ hardware execution time  17.708300 ms elapsed
+==============================================
+frequency factor = 28 
+------------------------------
+vccint_voltage_average = 0.821585 count = 984
+vccint_current_average = 0.087478 count = 984
+vccint_power_average = 0.071872 count = 984
+vccpint_voltage_average = 1.003881 count = 984
+vccpint_current_average = 0.338748 count = 984
+vccpint_power_average = 0.340075 count = 984
+vccaux_voltage_average = 1.804833 count = 984
+vccaux_current_average = 0.026629 count = 984
+vccaux_power_average = 0.048062 count = 984
+vccpaux_voltage_average = 1.798911 count = 984
+vccpaux_current_average = 0.085271 count = 984
+vccpaux_power_average = 0.153396 count = 984
+vcc1v5_voltage_average = 1.508941 count = 984
+vcc1v5_current_average = 0.577601 count = 984
+vcc1v5_power_average = 0.871568 count = 984
+Validation PASSED!
+
+ hardware execution time  18.364100 ms elapsed
+==============================================
+frequency factor = 29 
+------------------------------
+vccint_voltage_average = 0.821670 count = 1025
+vccint_current_average = 0.085854 count = 1025
+vccint_power_average = 0.070544 count = 1025
+vccpint_voltage_average = 1.004166 count = 1025
+vccpint_current_average = 0.335015 count = 1025
+vccpint_power_average = 0.336409 count = 1025
+vccaux_voltage_average = 1.804923 count = 1025
+vccaux_current_average = 0.025473 count = 1025
+vccaux_power_average = 0.045978 count = 1025
+vccpaux_voltage_average = 1.798757 count = 1025
+vccpaux_current_average = 0.086189 count = 1025
+vccpaux_power_average = 0.155032 count = 1025
+vcc1v5_voltage_average = 1.508928 count = 1025
+vcc1v5_current_average = 0.578430 count = 1025
+vcc1v5_power_average = 0.872809 count = 1025
+Validation PASSED!
+
+ hardware execution time  19.020400 ms elapsed
+==============================================
+frequency factor = 30 
+------------------------------
+vccint_voltage_average = 0.821619 count = 1025
+vccint_current_average = 0.083918 count = 1025
+vccint_power_average = 0.068950 count = 1025
+vccpint_voltage_average = 1.003827 count = 1025
+vccpint_current_average = 0.335518 count = 1025
+vccpint_power_average = 0.336806 count = 1025
+vccaux_voltage_average = 1.804834 count = 1025
+vccaux_current_average = 0.025808 count = 1025
+vccaux_power_average = 0.046583 count = 1025
+vccpaux_voltage_average = 1.798830 count = 1025
+vccpaux_current_average = 0.084527 count = 1025
+vccpaux_power_average = 0.152047 count = 1025
+vcc1v5_voltage_average = 1.508861 count = 1025
+vcc1v5_current_average = 0.586966 count = 1025
+vcc1v5_power_average = 0.885651 count = 1025
+Validation PASSED!
+
+ hardware execution time  19.671000 ms elapsed
+==============================================
+frequency factor = 31 
+------------------------------
+vccint_voltage_average = 0.821662 count = 1013
+vccint_current_average = 0.083909 count = 1013
+vccint_power_average = 0.068946 count = 1013
+vccpint_voltage_average = 1.004089 count = 1013
+vccpint_current_average = 0.334249 count = 1013
+vccpint_power_average = 0.335617 count = 1013
+vccaux_voltage_average = 1.804717 count = 1013
+vccaux_current_average = 0.025435 count = 1013
+vccaux_power_average = 0.045901 count = 1013
+vccpaux_voltage_average = 1.798654 count = 1013
+vccpaux_current_average = 0.086161 count = 1013
+vccpaux_power_average = 0.154973 count = 1013
+vcc1v5_voltage_average = 1.508965 count = 1013
+vcc1v5_current_average = 0.573683 count = 1013
+vcc1v5_power_average = 0.865667 count = 1013
+Validation PASSED!
+
+ hardware execution time  20.322900 ms elapsed
+==============================================
+frequency factor = 32 
+------------------------------
+vccint_voltage_average = 0.821687 count = 1032
+vccint_current_average = 0.080169 count = 1032
+vccint_power_average = 0.065874 count = 1032
+vccpint_voltage_average = 1.004017 count = 1032
+vccpint_current_average = 0.332773 count = 1032
+vccpint_power_average = 0.334108 count = 1032
+vccaux_voltage_average = 1.804688 count = 1032
+vccaux_current_average = 0.026390 count = 1032
+vccaux_power_average = 0.047626 count = 1032
+vccpaux_voltage_average = 1.798800 count = 1032
+vccpaux_current_average = 0.084257 count = 1032
+vccpaux_power_average = 0.151563 count = 1032
+vcc1v5_voltage_average = 1.508885 count = 1032
+vcc1v5_current_average = 0.570267 count = 1032
+vcc1v5_power_average = 0.860466 count = 1032
+Validation PASSED!
+
+ hardware execution time  20.978400 ms elapsed
+==============================================
+frequency factor = 33 
+------------------------------
+vccint_voltage_average = 0.821703 count = 1039
+vccint_current_average = 0.078892 count = 1039
+vccint_power_average = 0.064825 count = 1039
+vccpint_voltage_average = 1.003861 count = 1039
+vccpint_current_average = 0.332456 count = 1039
+vccpint_power_average = 0.333740 count = 1039
+vccaux_voltage_average = 1.805051 count = 1039
+vccaux_current_average = 0.026874 count = 1039
+vccaux_power_average = 0.048511 count = 1039
+vccpaux_voltage_average = 1.798877 count = 1039
+vccpaux_current_average = 0.085374 count = 1039
+vccpaux_power_average = 0.153574 count = 1039
+vcc1v5_voltage_average = 1.508860 count = 1039
+vcc1v5_current_average = 0.556936 count = 1039
+vcc1v5_power_average = 0.840338 count = 1039
+Validation PASSED!
+
+ hardware execution time  21.632700 ms elapsed
+==============================================
+frequency factor = 34 
+------------------------------
+vccint_voltage_average = 0.821674 count = 1034
+vccint_current_average = 0.078216 count = 1034
+vccint_power_average = 0.064269 count = 1034
+vccpint_voltage_average = 1.004034 count = 1034
+vccpint_current_average = 0.330951 count = 1034
+vccpint_power_average = 0.332287 count = 1034
+vccaux_voltage_average = 1.804752 count = 1034
+vccaux_current_average = 0.025462 count = 1034
+vccaux_power_average = 0.045955 count = 1034
+vccpaux_voltage_average = 1.798854 count = 1034
+vccpaux_current_average = 0.083761 count = 1034
+vccpaux_power_average = 0.150672 count = 1034
+vcc1v5_voltage_average = 1.508890 count = 1034
+vcc1v5_current_average = 0.557211 count = 1034
+vcc1v5_power_average = 0.840769 count = 1034
+Validation PASSED!
+
+ hardware execution time  22.288100 ms elapsed
+==============================================
+frequency factor = 35 
+------------------------------
+vccint_voltage_average = 0.821644 count = 1019
+vccint_current_average = 0.073571 count = 1019
+vccint_power_average = 0.060449 count = 1019
+vccpint_voltage_average = 1.003980 count = 1019
+vccpint_current_average = 0.331514 count = 1019
+vccpint_power_average = 0.332830 count = 1019
+vccaux_voltage_average = 1.804926 count = 1019
+vccaux_current_average = 0.026067 count = 1019
+vccaux_power_average = 0.047051 count = 1019
+vccpaux_voltage_average = 1.798717 count = 1019
+vccpaux_current_average = 0.082848 count = 1019
+vccpaux_power_average = 0.149028 count = 1019
+vcc1v5_voltage_average = 1.508932 count = 1019
+vcc1v5_current_average = 0.551628 count = 1019
+vcc1v5_power_average = 0.832370 count = 1019
+Validation PASSED!
+
+ hardware execution time  22.943400 ms elapsed
+==============================================
+frequency factor = 36 
+------------------------------
+vccint_voltage_average = 0.821687 count = 1020
+vccint_current_average = 0.074617 count = 1020
+vccint_power_average = 0.061311 count = 1020
+vccpint_voltage_average = 1.004113 count = 1020
+vccpint_current_average = 0.327068 count = 1020
+vccpint_power_average = 0.328415 count = 1020
+vccaux_voltage_average = 1.804760 count = 1020
+vccaux_current_average = 0.026961 count = 1020
+vccaux_power_average = 0.048654 count = 1020
+vccpaux_voltage_average = 1.798571 count = 1020
+vccpaux_current_average = 0.082629 count = 1020
+vccpaux_power_average = 0.148616 count = 1020
+vcc1v5_voltage_average = 1.508826 count = 1020
+vcc1v5_current_average = 0.517004 count = 1020
+vcc1v5_power_average = 0.780068 count = 1020
+Validation PASSED!
+
+ hardware execution time  23.598900 ms elapsed
+==============================================
+frequency factor = 37 
+------------------------------
+vccint_voltage_average = 0.821720 count = 1033
+vccint_current_average = 0.072181 count = 1033
+vccint_power_average = 0.059313 count = 1033
+vccpint_voltage_average = 1.004135 count = 1033
+vccpint_current_average = 0.330787 count = 1033
+vccpint_power_average = 0.332150 count = 1033
+vccaux_voltage_average = 1.804993 count = 1033
+vccaux_current_average = 0.025351 count = 1033
+vccaux_power_average = 0.045760 count = 1033
+vccpaux_voltage_average = 1.798807 count = 1033
+vccpaux_current_average = 0.084720 count = 1033
+vccpaux_power_average = 0.152395 count = 1033
+vcc1v5_voltage_average = 1.508823 count = 1033
+vcc1v5_current_average = 0.536650 count = 1033
+vcc1v5_power_average = 0.809709 count = 1033
+Validation PASSED!
+
+ hardware execution time  24.254400 ms elapsed
+==============================================
+frequency factor = 38 
+------------------------------
+vccint_voltage_average = 0.821708 count = 1035
+vccint_current_average = 0.073883 count = 1035
+vccint_power_average = 0.060710 count = 1035
+vccpint_voltage_average = 1.004092 count = 1035
+vccpint_current_average = 0.329061 count = 1035
+vccpint_power_average = 0.330407 count = 1035
+vccaux_voltage_average = 1.804938 count = 1035
+vccaux_current_average = 0.026359 count = 1035
+vccaux_power_average = 0.047574 count = 1035
+vccpaux_voltage_average = 1.798778 count = 1035
+vccpaux_current_average = 0.084300 count = 1035
+vccpaux_power_average = 0.151637 count = 1035
+vcc1v5_voltage_average = 1.508867 count = 1035
+vcc1v5_current_average = 0.534858 count = 1035
+vcc1v5_power_average = 0.807030 count = 1035
+Validation PASSED!
+
+ hardware execution time  24.908900 ms elapsed
+==============================================
+frequency factor = 39 
+------------------------------
+vccint_voltage_average = 0.821750 count = 1026
+vccint_current_average = 0.069384 count = 1026
+vccint_power_average = 0.057015 count = 1026
+vccpint_voltage_average = 1.004223 count = 1026
+vccpint_current_average = 0.328384 count = 1026
+vccpint_power_average = 0.329770 count = 1026
+vccaux_voltage_average = 1.804785 count = 1026
+vccaux_current_average = 0.026377 count = 1026
+vccaux_power_average = 0.047605 count = 1026
+vccpaux_voltage_average = 1.798760 count = 1026
+vccpaux_current_average = 0.084673 count = 1026
+vccpaux_power_average = 0.152310 count = 1026
+vcc1v5_voltage_average = 1.508846 count = 1026
+vcc1v5_current_average = 0.528296 count = 1026
+vcc1v5_power_average = 0.797115 count = 1026
+Validation PASSED!
+
+ hardware execution time  25.564000 ms elapsed
+==============================================
+frequency factor = 40 
+------------------------------
+vccint_voltage_average = 0.821816 count = 1029
+vccint_current_average = 0.068468 count = 1029
+vccint_power_average = 0.056269 count = 1029
+vccpint_voltage_average = 1.004008 count = 1029
+vccpint_current_average = 0.327290 count = 1029
+vccpint_power_average = 0.328602 count = 1029
+vccaux_voltage_average = 1.804883 count = 1029
+vccaux_current_average = 0.026649 count = 1029
+vccaux_power_average = 0.048097 count = 1029
+vccpaux_voltage_average = 1.798911 count = 1029
+vccpaux_current_average = 0.085717 count = 1029
+vccpaux_power_average = 0.154197 count = 1029
+vcc1v5_voltage_average = 1.508797 count = 1029
+vcc1v5_current_average = 0.525632 count = 1029
+vcc1v5_power_average = 0.793071 count = 1029
+Validation PASSED!
+
+ hardware execution time  26.220300 ms elapsed
+==============================================
+frequency factor = 41 
+------------------------------
+vccint_voltage_average = 0.821641 count = 1028
+vccint_current_average = 0.068337 count = 1028
+vccint_power_average = 0.056149 count = 1028
+vccpint_voltage_average = 1.004215 count = 1028
+vccpint_current_average = 0.329083 count = 1028
+vccpint_power_average = 0.330470 count = 1028
+vccaux_voltage_average = 1.804933 count = 1028
+vccaux_current_average = 0.025915 count = 1028
+vccaux_power_average = 0.046772 count = 1028
+vccpaux_voltage_average = 1.798897 count = 1028
+vccpaux_current_average = 0.083688 count = 1028
+vccpaux_power_average = 0.150544 count = 1028
+vcc1v5_voltage_average = 1.508933 count = 1028
+vcc1v5_current_average = 0.513801 count = 1028
+vcc1v5_power_average = 0.775290 count = 1028
+Validation PASSED!
+
+ hardware execution time  26.874500 ms elapsed
+==============================================
+frequency factor = 42 
+------------------------------
+vccint_voltage_average = 0.821699 count = 1040
+vccint_current_average = 0.066181 count = 1040
+vccint_power_average = 0.054381 count = 1040
+vccpint_voltage_average = 1.004057 count = 1040
+vccpint_current_average = 0.327148 count = 1040
+vccpint_power_average = 0.328477 count = 1040
+vccaux_voltage_average = 1.804718 count = 1040
+vccaux_current_average = 0.025871 count = 1040
+vccaux_power_average = 0.046692 count = 1040
+vccpaux_voltage_average = 1.798840 count = 1040
+vccpaux_current_average = 0.084029 count = 1040
+vccpaux_power_average = 0.151158 count = 1040
+vcc1v5_voltage_average = 1.508829 count = 1040
+vcc1v5_current_average = 0.516031 count = 1040
+vcc1v5_power_average = 0.778602 count = 1040
+Validation PASSED!
+
+ hardware execution time  27.528200 ms elapsed
+==============================================
+frequency factor = 43 
+------------------------------
+vccint_voltage_average = 0.821726 count = 1038
+vccint_current_average = 0.065782 count = 1038
+vccint_power_average = 0.054055 count = 1038
+vccpint_voltage_average = 1.004085 count = 1038
+vccpint_current_average = 0.328215 count = 1038
+vccpint_power_average = 0.329552 count = 1038
+vccaux_voltage_average = 1.804668 count = 1038
+vccaux_current_average = 0.026885 count = 1038
+vccaux_power_average = 0.048522 count = 1038
+vccpaux_voltage_average = 1.798726 count = 1038
+vccpaux_current_average = 0.082791 count = 1038
+vccpaux_power_average = 0.148927 count = 1038
+vcc1v5_voltage_average = 1.508919 count = 1038
+vcc1v5_current_average = 0.506834 count = 1038
+vcc1v5_power_average = 0.764772 count = 1038
+Validation PASSED!
+
+ hardware execution time  28.174300 ms elapsed
+==============================================
+frequency factor = 44 
+------------------------------
+vccint_voltage_average = 0.821659 count = 1039
+vccint_current_average = 0.065237 count = 1039
+vccint_power_average = 0.053604 count = 1039
+vccpint_voltage_average = 1.004142 count = 1039
+vccpint_current_average = 0.325478 count = 1039
+vccpint_power_average = 0.326823 count = 1039
+vccaux_voltage_average = 1.805027 count = 1039
+vccaux_current_average = 0.026618 count = 1039
+vccaux_power_average = 0.048044 count = 1039
+vccpaux_voltage_average = 1.798769 count = 1039
+vccpaux_current_average = 0.082606 count = 1039
+vccpaux_power_average = 0.148591 count = 1039
+vcc1v5_voltage_average = 1.508731 count = 1039
+vcc1v5_current_average = 0.516753 count = 1039
+vcc1v5_power_average = 0.779641 count = 1039
+Validation PASSED!
+
+ hardware execution time  28.828300 ms elapsed
+==============================================
+frequency factor = 45 
+------------------------------
+vccint_voltage_average = 0.821767 count = 1030
+vccint_current_average = 0.064123 count = 1030
+vccint_power_average = 0.052694 count = 1030
+vccpint_voltage_average = 1.003940 count = 1030
+vccpint_current_average = 0.327549 count = 1030
+vccpint_power_average = 0.328842 count = 1030
+vccaux_voltage_average = 1.804741 count = 1030
+vccaux_current_average = 0.026836 count = 1030
+vccaux_power_average = 0.048433 count = 1030
+vccpaux_voltage_average = 1.798946 count = 1030
+vccpaux_current_average = 0.083723 count = 1030
+vccpaux_power_average = 0.150615 count = 1030
+vcc1v5_voltage_average = 1.508818 count = 1030
+vcc1v5_current_average = 0.511666 count = 1030
+vcc1v5_power_average = 0.772014 count = 1030
+Validation PASSED!
+
+ hardware execution time  29.483800 ms elapsed
+==============================================
+frequency factor = 46 
+------------------------------
+vccint_voltage_average = 0.821734 count = 1032
+vccint_current_average = 0.064862 count = 1032
+vccint_power_average = 0.053298 count = 1032
+vccpint_voltage_average = 1.004112 count = 1032
+vccpint_current_average = 0.324915 count = 1032
+vccpint_power_average = 0.326253 count = 1032
+vccaux_voltage_average = 1.804815 count = 1032
+vccaux_current_average = 0.027601 count = 1032
+vccaux_power_average = 0.049814 count = 1032
+vccpaux_voltage_average = 1.798722 count = 1032
+vccpaux_current_average = 0.081441 count = 1032
+vccpaux_power_average = 0.146487 count = 1032
+vcc1v5_voltage_average = 1.508891 count = 1032
+vcc1v5_current_average = 0.510023 count = 1032
+vcc1v5_power_average = 0.769570 count = 1032
+Validation PASSED!
+
+ hardware execution time  30.137900 ms elapsed
+==============================================
+frequency factor = 47 
+------------------------------
+vccint_voltage_average = 0.821735 count = 1021
+vccint_current_average = 0.062393 count = 1021
+vccint_power_average = 0.051269 count = 1021
+vccpint_voltage_average = 1.004151 count = 1021
+vccpint_current_average = 0.326105 count = 1021
+vccpint_power_average = 0.327457 count = 1021
+vccaux_voltage_average = 1.804735 count = 1021
+vccaux_current_average = 0.026185 count = 1021
+vccaux_power_average = 0.047253 count = 1021
+vccpaux_voltage_average = 1.798752 count = 1021
+vccpaux_current_average = 0.083588 count = 1021
+vccpaux_power_average = 0.150355 count = 1021
+vcc1v5_voltage_average = 1.508813 count = 1021
+vcc1v5_current_average = 0.503474 count = 1021
+vcc1v5_power_average = 0.759649 count = 1021
+Validation PASSED!
+
+ hardware execution time  30.794000 ms elapsed
+==============================================
+frequency factor = 48 
+------------------------------
+vccint_voltage_average = 0.821686 count = 1041
+vccint_current_average = 0.062845 count = 1041
+vccint_power_average = 0.051638 count = 1041
+vccpint_voltage_average = 1.004023 count = 1041
+vccpint_current_average = 0.324403 count = 1041
+vccpint_power_average = 0.325702 count = 1041
+vccaux_voltage_average = 1.804887 count = 1041
+vccaux_current_average = 0.027017 count = 1041
+vccaux_power_average = 0.048764 count = 1041
+vccpaux_voltage_average = 1.798693 count = 1041
+vccpaux_current_average = 0.080722 count = 1041
+vccpaux_power_average = 0.145196 count = 1041
+vcc1v5_voltage_average = 1.508869 count = 1041
+vcc1v5_current_average = 0.502972 count = 1041
+vcc1v5_power_average = 0.758918 count = 1041
+Validation PASSED!
+
+ hardware execution time  31.448300 ms elapsed
+==============================================
+frequency factor = 49 
+------------------------------
+vccint_voltage_average = 0.821696 count = 1005
+vccint_current_average = 0.062298 count = 1005
+vccint_power_average = 0.051191 count = 1005
+vccpint_voltage_average = 1.004217 count = 1005
+vccpint_current_average = 0.321393 count = 1005
+vccpint_power_average = 0.322747 count = 1005
+vccaux_voltage_average = 1.804635 count = 1005
+vccaux_current_average = 0.025140 count = 1005
+vccaux_power_average = 0.045370 count = 1005
+vccpaux_voltage_average = 1.798699 count = 1005
+vccpaux_current_average = 0.083131 count = 1005
+vccpaux_power_average = 0.149529 count = 1005
+vcc1v5_voltage_average = 1.508924 count = 1005
+vcc1v5_current_average = 0.499254 count = 1005
+vcc1v5_power_average = 0.753336 count = 1005
+Validation PASSED!
+
+ hardware execution time  32.103000 ms elapsed
+==============================================
+VCCINT voltage = 0.810000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 11 
+------------------------------
+vccint_voltage_average = 0.811678 count = 1015
+vccint_current_average = 0.171367 count = 1015
+vccint_power_average = 0.139093 count = 1015
+vccpint_voltage_average = 1.003851 count = 1015
+vccpint_current_average = 0.380650 count = 1015
+vccpint_power_average = 0.382110 count = 1015
+vccaux_voltage_average = 1.805033 count = 1015
+vccaux_current_average = 0.026786 count = 1015
+vccaux_power_average = 0.048351 count = 1015
+vccpaux_voltage_average = 1.798828 count = 1015
+vccpaux_current_average = 0.098645 count = 1015
+vccpaux_power_average = 0.177452 count = 1015
+vcc1v5_voltage_average = 1.508676 count = 1015
+vcc1v5_current_average = 0.902078 count = 1015
+vcc1v5_power_average = 1.360945 count = 1015
+Validation PASSED!
+
+ hardware execution time  7.249000 ms elapsed
+==============================================
+frequency factor = 12 
+------------------------------
+vccint_voltage_average = 0.811595 count = 1012
+vccint_current_average = 0.158458 count = 1012
+vccint_power_average = 0.128601 count = 1012
+vccpint_voltage_average = 1.004127 count = 1012
+vccpint_current_average = 0.378088 count = 1012
+vccpint_power_average = 0.379645 count = 1012
+vccaux_voltage_average = 1.803901 count = 1012
+vccaux_current_average = 0.027730 count = 1012
+vccaux_power_average = 0.050008 count = 1012
+vccpaux_voltage_average = 1.798917 count = 1012
+vccpaux_current_average = 0.098382 count = 1012
+vccpaux_power_average = 0.176987 count = 1012
+vcc1v5_voltage_average = 1.508727 count = 1012
+vcc1v5_current_average = 0.877378 count = 1012
+vcc1v5_power_average = 1.323724 count = 1012
+Validation PASSED!
+
+ hardware execution time  7.906900 ms elapsed
+==============================================
+frequency factor = 13 
+------------------------------
+vccint_voltage_average = 0.811617 count = 1027
+vccint_current_average = 0.149845 count = 1027
+vccint_power_average = 0.121615 count = 1027
+vccpint_voltage_average = 1.003968 count = 1027
+vccpint_current_average = 0.369371 count = 1027
+vccpint_power_average = 0.370836 count = 1027
+vccaux_voltage_average = 1.804253 count = 1027
+vccaux_current_average = 0.025864 count = 1027
+vccaux_power_average = 0.046664 count = 1027
+vccpaux_voltage_average = 1.798860 count = 1027
+vccpaux_current_average = 0.095089 count = 1027
+vccpaux_power_average = 0.171045 count = 1027
+vcc1v5_voltage_average = 1.508732 count = 1027
+vcc1v5_current_average = 0.819848 count = 1027
+vcc1v5_power_average = 1.236932 count = 1027
+Validation PASSED!
+
+ hardware execution time  8.558700 ms elapsed
+==============================================
+frequency factor = 14 
+------------------------------
+vccint_voltage_average = 0.811601 count = 1012
+vccint_current_average = 0.144639 count = 1012
+vccint_power_average = 0.117388 count = 1012
+vccpint_voltage_average = 1.004027 count = 1012
+vccpint_current_average = 0.367635 count = 1012
+vccpint_power_average = 0.369114 count = 1012
+vccaux_voltage_average = 1.804761 count = 1012
+vccaux_current_average = 0.025800 count = 1012
+vccaux_power_average = 0.046562 count = 1012
+vccpaux_voltage_average = 1.798965 count = 1012
+vccpaux_current_average = 0.096051 count = 1012
+vccpaux_power_average = 0.172798 count = 1012
+vcc1v5_voltage_average = 1.508833 count = 1012
+vcc1v5_current_average = 0.807158 count = 1012
+vcc1v5_power_average = 1.217865 count = 1012
+Validation PASSED!
+
+ hardware execution time  9.206600 ms elapsed
+==============================================
+frequency factor = 15 
+------------------------------
+vccint_voltage_average = 0.811615 count = 1028
+vccint_current_average = 0.139439 count = 1028
+vccint_power_average = 0.113173 count = 1028
+vccpint_voltage_average = 1.004307 count = 1028
+vccpint_current_average = 0.361579 count = 1028
+vccpint_power_average = 0.363133 count = 1028
+vccaux_voltage_average = 1.804978 count = 1028
+vccaux_current_average = 0.028013 count = 1028
+vccaux_power_average = 0.050561 count = 1028
+vccpaux_voltage_average = 1.798682 count = 1028
+vccpaux_current_average = 0.094677 count = 1028
+vccpaux_power_average = 0.170297 count = 1028
+vcc1v5_voltage_average = 1.508775 count = 1028
+vcc1v5_current_average = 0.756946 count = 1028
+vcc1v5_power_average = 1.142059 count = 1028
+Validation PASSED!
+
+ hardware execution time  9.860700 ms elapsed
+==============================================
+frequency factor = 16 
+------------------------------
+vccint_voltage_average = 0.811622 count = 1026
+vccint_current_average = 0.131762 count = 1026
+vccint_power_average = 0.106942 count = 1026
+vccpint_voltage_average = 1.004044 count = 1026
+vccpint_current_average = 0.360822 count = 1026
+vccpint_power_average = 0.362282 count = 1026
+vccaux_voltage_average = 1.804984 count = 1026
+vccaux_current_average = 0.025417 count = 1026
+vccaux_power_average = 0.045877 count = 1026
+vccpaux_voltage_average = 1.798850 count = 1026
+vccpaux_current_average = 0.094405 count = 1026
+vccpaux_power_average = 0.169819 count = 1026
+vcc1v5_voltage_average = 1.508930 count = 1026
+vcc1v5_current_average = 0.740406 count = 1026
+vcc1v5_power_average = 1.117223 count = 1026
+Validation PASSED!
+
+ hardware execution time  10.520100 ms elapsed
+==============================================
+frequency factor = 17 
+------------------------------
+vccint_voltage_average = 0.811593 count = 1029
+vccint_current_average = 0.128052 count = 1029
+vccint_power_average = 0.103924 count = 1029
+vccpint_voltage_average = 1.003853 count = 1029
+vccpint_current_average = 0.355518 count = 1029
+vccpint_power_average = 0.356886 count = 1029
+vccaux_voltage_average = 1.805051 count = 1029
+vccaux_current_average = 0.028426 count = 1029
+vccaux_power_average = 0.051317 count = 1029
+vccpaux_voltage_average = 1.798648 count = 1029
+vccpaux_current_average = 0.092687 count = 1029
+vccpaux_power_average = 0.166714 count = 1029
+vcc1v5_voltage_average = 1.508876 count = 1029
+vcc1v5_current_average = 0.702001 count = 1029
+vcc1v5_power_average = 1.059232 count = 1029
+Validation PASSED!
+
+ hardware execution time  11.173600 ms elapsed
+==============================================
+frequency factor = 18 
+------------------------------
+vccint_voltage_average = 0.811678 count = 1023
+vccint_current_average = 0.123717 count = 1023
+vccint_power_average = 0.100417 count = 1023
+vccpint_voltage_average = 1.004185 count = 1023
+vccpint_current_average = 0.355984 count = 1023
+vccpint_power_average = 0.357477 count = 1023
+vccaux_voltage_average = 1.804846 count = 1023
+vccaux_current_average = 0.026225 count = 1023
+vccaux_power_average = 0.047329 count = 1023
+vccpaux_voltage_average = 1.798704 count = 1023
+vccpaux_current_average = 0.093200 count = 1023
+vccpaux_power_average = 0.167639 count = 1023
+vcc1v5_voltage_average = 1.508893 count = 1023
+vcc1v5_current_average = 0.700162 count = 1023
+vcc1v5_power_average = 1.056462 count = 1023
+Validation PASSED!
+
+ hardware execution time  11.823400 ms elapsed
+==============================================
+frequency factor = 19 
+------------------------------
+vccint_voltage_average = 0.811715 count = 1040
+vccint_current_average = 0.119231 count = 1040
+vccint_power_average = 0.096780 count = 1040
+vccpint_voltage_average = 1.003812 count = 1040
+vccpint_current_average = 0.352344 count = 1040
+vccpint_power_average = 0.353689 count = 1040
+vccaux_voltage_average = 1.804816 count = 1040
+vccaux_current_average = 0.027674 count = 1040
+vccaux_power_average = 0.049950 count = 1040
+vccpaux_voltage_average = 1.798755 count = 1040
+vccpaux_current_average = 0.090249 count = 1040
+vccpaux_power_average = 0.162340 count = 1040
+vcc1v5_voltage_average = 1.508868 count = 1040
+vcc1v5_current_average = 0.679492 count = 1040
+vcc1v5_power_average = 1.025262 count = 1040
+Validation PASSED!
+
+ hardware execution time  12.479100 ms elapsed
+==============================================
+frequency factor = 20 
+------------------------------
+vccint_voltage_average = 0.811698 count = 1035
+vccint_current_average = 0.114463 count = 1035
+vccint_power_average = 0.092908 count = 1035
+vccpint_voltage_average = 1.003981 count = 1035
+vccpint_current_average = 0.348566 count = 1035
+vccpint_power_average = 0.349953 count = 1035
+vccaux_voltage_average = 1.804931 count = 1035
+vccaux_current_average = 0.026932 count = 1035
+vccaux_power_average = 0.048612 count = 1035
+vccpaux_voltage_average = 1.798884 count = 1035
+vccpaux_current_average = 0.090489 count = 1035
+vccpaux_power_average = 0.162782 count = 1035
+vcc1v5_voltage_average = 1.508862 count = 1035
+vcc1v5_current_average = 0.654604 count = 1035
+vcc1v5_power_average = 0.987707 count = 1035
+Validation PASSED!
+
+ hardware execution time  13.136600 ms elapsed
+==============================================
+frequency factor = 21 
+------------------------------
+vccint_voltage_average = 0.811681 count = 1026
+vccint_current_average = 0.110304 count = 1026
+vccint_power_average = 0.089531 count = 1026
+vccpint_voltage_average = 1.003936 count = 1026
+vccpint_current_average = 0.343263 count = 1026
+vccpint_power_average = 0.344612 count = 1026
+vccaux_voltage_average = 1.804063 count = 1026
+vccaux_current_average = 0.026788 count = 1026
+vccaux_power_average = 0.048348 count = 1026
+vccpaux_voltage_average = 1.798788 count = 1026
+vccpaux_current_average = 0.088344 count = 1026
+vccpaux_power_average = 0.158911 count = 1026
+vcc1v5_voltage_average = 1.508800 count = 1026
+vcc1v5_current_average = 0.640823 count = 1026
+vcc1v5_power_average = 0.966874 count = 1026
+Validation PASSED!
+
+ hardware execution time  13.791800 ms elapsed
+==============================================
+frequency factor = 22 
+------------------------------
+vccint_voltage_average = 0.811626 count = 1021
+vccint_current_average = 0.108334 count = 1021
+vccint_power_average = 0.087927 count = 1021
+vccpint_voltage_average = 1.003807 count = 1021
+vccpint_current_average = 0.349244 count = 1021
+vccpint_power_average = 0.350573 count = 1021
+vccaux_voltage_average = 1.804696 count = 1021
+vccaux_current_average = 0.026185 count = 1021
+vccaux_power_average = 0.047252 count = 1021
+vccpaux_voltage_average = 1.799024 count = 1021
+vccpaux_current_average = 0.090291 count = 1021
+vccpaux_power_average = 0.162438 count = 1021
+vcc1v5_voltage_average = 1.508889 count = 1021
+vcc1v5_current_average = 0.653419 count = 1021
+vcc1v5_power_average = 0.985940 count = 1021
+Validation PASSED!
+
+ hardware execution time  14.438500 ms elapsed
+==============================================
+frequency factor = 23 
+------------------------------
+vccint_voltage_average = 0.811611 count = 1016
+vccint_current_average = 0.102685 count = 1016
+vccint_power_average = 0.083341 count = 1016
+vccpint_voltage_average = 1.004035 count = 1016
+vccpint_current_average = 0.342781 count = 1016
+vccpint_power_average = 0.344164 count = 1016
+vccaux_voltage_average = 1.804856 count = 1016
+vccaux_current_average = 0.026113 count = 1016
+vccaux_power_average = 0.047127 count = 1016
+vccpaux_voltage_average = 1.798724 count = 1016
+vccpaux_current_average = 0.090797 count = 1016
+vccpaux_power_average = 0.163321 count = 1016
+vcc1v5_voltage_average = 1.508822 count = 1016
+vcc1v5_current_average = 0.640317 count = 1016
+vcc1v5_power_average = 0.966123 count = 1016
+Validation PASSED!
+
+ hardware execution time  15.091200 ms elapsed
+==============================================
+frequency factor = 24 
+------------------------------
+vccint_voltage_average = 0.811720 count = 1016
+vccint_current_average = 0.098271 count = 1016
+vccint_power_average = 0.079768 count = 1016
+vccpint_voltage_average = 1.003593 count = 1016
+vccpint_current_average = 0.345534 count = 1016
+vccpint_power_average = 0.346787 count = 1016
+vccaux_voltage_average = 1.804787 count = 1016
+vccaux_current_average = 0.025606 count = 1016
+vccaux_power_average = 0.046217 count = 1016
+vccpaux_voltage_average = 1.798812 count = 1016
+vccpaux_current_average = 0.091628 count = 1016
+vccpaux_power_average = 0.164821 count = 1016
+vcc1v5_voltage_average = 1.508810 count = 1016
+vcc1v5_current_average = 0.622586 count = 1016
+vcc1v5_power_average = 0.939357 count = 1016
+Validation PASSED!
+
+ hardware execution time  15.746100 ms elapsed
+==============================================
+frequency factor = 25 
+------------------------------
+vccint_voltage_average = 0.811618 count = 1029
+vccint_current_average = 0.096255 count = 1029
+vccint_power_average = 0.078121 count = 1029
+vccpint_voltage_average = 1.004060 count = 1029
+vccpint_current_average = 0.341639 count = 1029
+vccpint_power_average = 0.343027 count = 1029
+vccaux_voltage_average = 1.804831 count = 1029
+vccaux_current_average = 0.025541 count = 1029
+vccaux_power_average = 0.046097 count = 1029
+vccpaux_voltage_average = 1.798947 count = 1029
+vccpaux_current_average = 0.090333 count = 1029
+vccpaux_power_average = 0.162505 count = 1029
+vcc1v5_voltage_average = 1.508870 count = 1029
+vcc1v5_current_average = 0.611622 count = 1029
+vcc1v5_power_average = 0.922856 count = 1029
+Validation PASSED!
+
+ hardware execution time  16.400400 ms elapsed
+==============================================
+frequency factor = 26 
+------------------------------
+vccint_voltage_average = 0.811655 count = 1005
+vccint_current_average = 0.091713 count = 1005
+vccint_power_average = 0.074440 count = 1005
+vccpint_voltage_average = 1.004046 count = 1005
+vccpint_current_average = 0.340299 count = 1005
+vccpint_power_average = 0.341674 count = 1005
+vccaux_voltage_average = 1.804122 count = 1005
+vccaux_current_average = 0.025669 count = 1005
+vccaux_power_average = 0.046328 count = 1005
+vccpaux_voltage_average = 1.798832 count = 1005
+vccpaux_current_average = 0.089801 count = 1005
+vccpaux_power_average = 0.161534 count = 1005
+vcc1v5_voltage_average = 1.508806 count = 1005
+vcc1v5_current_average = 0.603125 count = 1005
+vcc1v5_power_average = 0.909994 count = 1005
+Validation PASSED!
+
+ hardware execution time  17.056500 ms elapsed
+==============================================
+frequency factor = 27 
+------------------------------
+vccint_voltage_average = 0.811643 count = 1014
+vccint_current_average = 0.090129 count = 1014
+vccint_power_average = 0.073153 count = 1014
+vccpint_voltage_average = 1.004004 count = 1014
+vccpint_current_average = 0.339250 count = 1014
+vccpint_power_average = 0.340615 count = 1014
+vccaux_voltage_average = 1.804991 count = 1014
+vccaux_current_average = 0.026288 count = 1014
+vccaux_power_average = 0.047453 count = 1014
+vccpaux_voltage_average = 1.798922 count = 1014
+vccpaux_current_average = 0.088727 count = 1014
+vccpaux_power_average = 0.159612 count = 1014
+vcc1v5_voltage_average = 1.508881 count = 1014
+vcc1v5_current_average = 0.583041 count = 1014
+vcc1v5_power_average = 0.879735 count = 1014
+Validation PASSED!
+
+ hardware execution time  17.710400 ms elapsed
+==============================================
+frequency factor = 28 
+------------------------------
+vccint_voltage_average = 0.811602 count = 1024
+vccint_current_average = 0.087311 count = 1024
+vccint_power_average = 0.070862 count = 1024
+vccpint_voltage_average = 1.004004 count = 1024
+vccpint_current_average = 0.338074 count = 1024
+vccpint_power_average = 0.339437 count = 1024
+vccaux_voltage_average = 1.804814 count = 1024
+vccaux_current_average = 0.024582 count = 1024
+vccaux_power_average = 0.044367 count = 1024
+vccpaux_voltage_average = 1.798671 count = 1024
+vccpaux_current_average = 0.089706 count = 1024
+vccpaux_power_average = 0.161350 count = 1024
+vcc1v5_voltage_average = 1.508816 count = 1024
+vcc1v5_current_average = 0.579315 count = 1024
+vcc1v5_power_average = 0.874081 count = 1024
+Validation PASSED!
+
+ hardware execution time  18.364900 ms elapsed
+==============================================
+frequency factor = 29 
+------------------------------
+vccint_voltage_average = 0.811562 count = 1033
+vccint_current_average = 0.085809 count = 1033
+vccint_power_average = 0.069640 count = 1033
+vccpint_voltage_average = 1.004040 count = 1033
+vccpint_current_average = 0.336853 count = 1033
+vccpint_power_average = 0.338207 count = 1033
+vccaux_voltage_average = 1.804858 count = 1033
+vccaux_current_average = 0.025759 count = 1033
+vccaux_power_average = 0.046490 count = 1033
+vccpaux_voltage_average = 1.798754 count = 1033
+vccpaux_current_average = 0.089893 count = 1033
+vccpaux_power_average = 0.161694 count = 1033
+vcc1v5_voltage_average = 1.508832 count = 1033
+vcc1v5_current_average = 0.588184 count = 1033
+vcc1v5_power_average = 0.887470 count = 1033
+Validation PASSED!
+
+ hardware execution time  19.016400 ms elapsed
+==============================================
+frequency factor = 30 
+------------------------------
+vccint_voltage_average = 0.811643 count = 1027
+vccint_current_average = 0.081335 count = 1027
+vccint_power_average = 0.066013 count = 1027
+vccpint_voltage_average = 1.003978 count = 1027
+vccpint_current_average = 0.334728 count = 1027
+vccpint_power_average = 0.336060 count = 1027
+vccaux_voltage_average = 1.804758 count = 1027
+vccaux_current_average = 0.026868 count = 1027
+vccaux_power_average = 0.048490 count = 1027
+vccpaux_voltage_average = 1.798904 count = 1027
+vccpaux_current_average = 0.088866 count = 1027
+vccpaux_power_average = 0.159864 count = 1027
+vcc1v5_voltage_average = 1.508849 count = 1027
+vcc1v5_current_average = 0.585245 count = 1027
+vcc1v5_power_average = 0.883045 count = 1027
+Validation PASSED!
+
+ hardware execution time  19.667700 ms elapsed
+==============================================
+frequency factor = 31 
+------------------------------
+vccint_voltage_average = 0.811683 count = 1020
+vccint_current_average = 0.080178 count = 1020
+vccint_power_average = 0.065078 count = 1020
+vccpint_voltage_average = 1.004025 count = 1020
+vccpint_current_average = 0.333793 count = 1020
+vccpint_power_average = 0.335131 count = 1020
+vccaux_voltage_average = 1.804772 count = 1020
+vccaux_current_average = 0.029136 count = 1020
+vccaux_power_average = 0.052582 count = 1020
+vccpaux_voltage_average = 1.798902 count = 1020
+vccpaux_current_average = 0.089170 count = 1020
+vccpaux_power_average = 0.160411 count = 1020
+vcc1v5_voltage_average = 1.508886 count = 1020
+vcc1v5_current_average = 0.573729 count = 1020
+vcc1v5_power_average = 0.865695 count = 1020
+Validation PASSED!
+
+ hardware execution time  20.322800 ms elapsed
+==============================================
+frequency factor = 32 
+------------------------------
+vccint_voltage_average = 0.811543 count = 1030
+vccint_current_average = 0.078944 count = 1030
+vccint_power_average = 0.064067 count = 1030
+vccpint_voltage_average = 1.004032 count = 1030
+vccpint_current_average = 0.335240 count = 1030
+vccpint_power_average = 0.336588 count = 1030
+vccaux_voltage_average = 1.804043 count = 1030
+vccaux_current_average = 0.027958 count = 1030
+vccaux_power_average = 0.050460 count = 1030
+vccpaux_voltage_average = 1.798767 count = 1030
+vccpaux_current_average = 0.089154 count = 1030
+vccpaux_power_average = 0.160368 count = 1030
+vcc1v5_voltage_average = 1.508908 count = 1030
+vcc1v5_current_average = 0.570995 count = 1030
+vcc1v5_power_average = 0.861577 count = 1030
+Validation PASSED!
+
+ hardware execution time  20.981900 ms elapsed
+==============================================
+frequency factor = 33 
+------------------------------
+vccint_voltage_average = 0.811642 count = 1001
+vccint_current_average = 0.076705 count = 1001
+vccint_power_average = 0.062258 count = 1001
+vccpint_voltage_average = 1.004209 count = 1001
+vccpint_current_average = 0.333541 count = 1001
+vccpint_power_average = 0.334944 count = 1001
+vccaux_voltage_average = 1.803918 count = 1001
+vccaux_current_average = 0.027925 count = 1001
+vccaux_power_average = 0.050396 count = 1001
+vccpaux_voltage_average = 1.798872 count = 1001
+vccpaux_current_average = 0.087772 count = 1001
+vccpaux_power_average = 0.157897 count = 1001
+vcc1v5_voltage_average = 1.508824 count = 1001
+vcc1v5_current_average = 0.553181 count = 1001
+vcc1v5_power_average = 0.834652 count = 1001
+Validation PASSED!
+
+ hardware execution time  21.632800 ms elapsed
+==============================================
+frequency factor = 34 
+------------------------------
+vccint_voltage_average = 0.811570 count = 1038
+vccint_current_average = 0.075671 count = 1038
+vccint_power_average = 0.061411 count = 1038
+vccpint_voltage_average = 1.004085 count = 1038
+vccpint_current_average = 0.331587 count = 1038
+vccpint_power_average = 0.332946 count = 1038
+vccaux_voltage_average = 1.804990 count = 1038
+vccaux_current_average = 0.027472 count = 1038
+vccaux_power_average = 0.049588 count = 1038
+vccpaux_voltage_average = 1.798880 count = 1038
+vccpaux_current_average = 0.088572 count = 1038
+vccpaux_power_average = 0.159329 count = 1038
+vcc1v5_voltage_average = 1.508915 count = 1038
+vcc1v5_current_average = 0.547718 count = 1038
+vcc1v5_power_average = 0.826460 count = 1038
+Validation PASSED!
+
+ hardware execution time  22.288100 ms elapsed
+==============================================
+frequency factor = 35 
+------------------------------
+vccint_voltage_average = 0.811606 count = 1042
+vccint_current_average = 0.073776 count = 1042
+vccint_power_average = 0.059877 count = 1042
+vccpint_voltage_average = 1.004039 count = 1042
+vccpint_current_average = 0.331184 count = 1042
+vccpint_power_average = 0.332522 count = 1042
+vccaux_voltage_average = 1.804883 count = 1042
+vccaux_current_average = 0.027321 count = 1042
+vccaux_power_average = 0.049315 count = 1042
+vccpaux_voltage_average = 1.798864 count = 1042
+vccpaux_current_average = 0.087902 count = 1042
+vccpaux_power_average = 0.158128 count = 1042
+vcc1v5_voltage_average = 1.508859 count = 1042
+vcc1v5_current_average = 0.554673 count = 1042
+vcc1v5_power_average = 0.836921 count = 1042
+Validation PASSED!
+
+ hardware execution time  22.943800 ms elapsed
+==============================================
+frequency factor = 36 
+------------------------------
+vccint_voltage_average = 0.811599 count = 1038
+vccint_current_average = 0.070599 count = 1038
+vccint_power_average = 0.057298 count = 1038
+vccpint_voltage_average = 1.004152 count = 1038
+vccpint_current_average = 0.330865 count = 1038
+vccpint_power_average = 0.332237 count = 1038
+vccaux_voltage_average = 1.804750 count = 1038
+vccaux_current_average = 0.026132 count = 1038
+vccaux_power_average = 0.047160 count = 1038
+vccpaux_voltage_average = 1.798713 count = 1038
+vccpaux_current_average = 0.085877 count = 1038
+vccpaux_power_average = 0.154470 count = 1038
+vcc1v5_voltage_average = 1.508790 count = 1038
+vcc1v5_current_average = 0.539574 count = 1038
+vcc1v5_power_average = 0.814104 count = 1038
+Validation PASSED!
+
+ hardware execution time  23.598100 ms elapsed
+==============================================
+frequency factor = 37 
+------------------------------
+vccint_voltage_average = 0.811628 count = 1033
+vccint_current_average = 0.069004 count = 1033
+vccint_power_average = 0.056005 count = 1033
+vccpint_voltage_average = 1.003957 count = 1033
+vccpint_current_average = 0.327717 count = 1033
+vccpint_power_average = 0.329012 count = 1033
+vccaux_voltage_average = 1.804816 count = 1033
+vccaux_current_average = 0.025260 count = 1033
+vccaux_power_average = 0.045590 count = 1033
+vccpaux_voltage_average = 1.798742 count = 1033
+vccpaux_current_average = 0.087140 count = 1033
+vccpaux_power_average = 0.156743 count = 1033
+vcc1v5_voltage_average = 1.508786 count = 1033
+vcc1v5_current_average = 0.515822 count = 1033
+vcc1v5_power_average = 0.778264 count = 1033
+Validation PASSED!
+
+ hardware execution time  24.253300 ms elapsed
+==============================================
+frequency factor = 38 
+------------------------------
+vccint_voltage_average = 0.811543 count = 1043
+vccint_current_average = 0.068238 count = 1043
+vccint_power_average = 0.055377 count = 1043
+vccpint_voltage_average = 1.004050 count = 1043
+vccpint_current_average = 0.331421 count = 1043
+vccpint_power_average = 0.332763 count = 1043
+vccaux_voltage_average = 1.804914 count = 1043
+vccaux_current_average = 0.027475 count = 1043
+vccaux_power_average = 0.049590 count = 1043
+vccpaux_voltage_average = 1.798820 count = 1043
+vccpaux_current_average = 0.088926 count = 1043
+vccpaux_power_average = 0.159966 count = 1043
+vcc1v5_voltage_average = 1.508819 count = 1043
+vcc1v5_current_average = 0.535445 count = 1043
+vcc1v5_power_average = 0.807889 count = 1043
+Validation PASSED!
+
+ hardware execution time  24.908600 ms elapsed
+==============================================
+frequency factor = 39 
+------------------------------
+vccint_voltage_average = 0.811595 count = 1034
+vccint_current_average = 0.068590 count = 1034
+vccint_power_average = 0.055667 count = 1034
+vccpint_voltage_average = 1.003973 count = 1034
+vccpint_current_average = 0.329848 count = 1034
+vccpint_power_average = 0.331156 count = 1034
+vccaux_voltage_average = 1.804835 count = 1034
+vccaux_current_average = 0.026686 count = 1034
+vccaux_power_average = 0.048168 count = 1034
+vccpaux_voltage_average = 1.798829 count = 1034
+vccpaux_current_average = 0.088295 count = 1034
+vccpaux_power_average = 0.158829 count = 1034
+vcc1v5_voltage_average = 1.508802 count = 1034
+vcc1v5_current_average = 0.528258 count = 1034
+vcc1v5_power_average = 0.797037 count = 1034
+Validation PASSED!
+
+ hardware execution time  25.563600 ms elapsed
+==============================================
+frequency factor = 40 
+------------------------------
+vccint_voltage_average = 0.811565 count = 1044
+vccint_current_average = 0.067409 count = 1044
+vccint_power_average = 0.054709 count = 1044
+vccpint_voltage_average = 1.003858 count = 1044
+vccpint_current_average = 0.331433 count = 1044
+vccpint_power_average = 0.332708 count = 1044
+vccaux_voltage_average = 1.804885 count = 1044
+vccaux_current_average = 0.027224 count = 1044
+vccaux_power_average = 0.049138 count = 1044
+vccpaux_voltage_average = 1.798789 count = 1044
+vccpaux_current_average = 0.086641 count = 1044
+vccpaux_power_average = 0.155853 count = 1044
+vcc1v5_voltage_average = 1.508810 count = 1044
+vcc1v5_current_average = 0.519965 count = 1044
+vcc1v5_power_average = 0.784529 count = 1044
+Validation PASSED!
+
+ hardware execution time  26.219300 ms elapsed
+==============================================
+frequency factor = 41 
+------------------------------
+vccint_voltage_average = 0.811610 count = 1038
+vccint_current_average = 0.065255 count = 1038
+vccint_power_average = 0.052961 count = 1038
+vccpint_voltage_average = 1.004089 count = 1038
+vccpint_current_average = 0.327056 count = 1038
+vccpint_power_average = 0.328394 count = 1038
+vccaux_voltage_average = 1.804788 count = 1038
+vccaux_current_average = 0.025695 count = 1038
+vccaux_power_average = 0.046376 count = 1038
+vccpaux_voltage_average = 1.798734 count = 1038
+vccpaux_current_average = 0.086720 count = 1038
+vccpaux_power_average = 0.155987 count = 1038
+vcc1v5_voltage_average = 1.508807 count = 1038
+vcc1v5_current_average = 0.512268 count = 1038
+vcc1v5_power_average = 0.772910 count = 1038
+Validation PASSED!
+
+ hardware execution time  26.874500 ms elapsed
+==============================================
+frequency factor = 42 
+------------------------------
+vccint_voltage_average = 0.811597 count = 1044
+vccint_current_average = 0.065912 count = 1044
+vccint_power_average = 0.053493 count = 1044
+vccpint_voltage_average = 1.003888 count = 1044
+vccpint_current_average = 0.328200 count = 1044
+vccpint_power_average = 0.329478 count = 1044
+vccaux_voltage_average = 1.804949 count = 1044
+vccaux_current_average = 0.026730 count = 1044
+vccaux_power_average = 0.048242 count = 1044
+vccpaux_voltage_average = 1.798617 count = 1044
+vccpaux_current_average = 0.086761 count = 1044
+vccpaux_power_average = 0.156054 count = 1044
+vcc1v5_voltage_average = 1.508786 count = 1044
+vcc1v5_current_average = 0.515595 count = 1044
+vcc1v5_power_average = 0.777923 count = 1044
+Validation PASSED!
+
+ hardware execution time  27.529700 ms elapsed
+==============================================
+frequency factor = 43 
+------------------------------
+vccint_voltage_average = 0.811600 count = 1029
+vccint_current_average = 0.066691 count = 1029
+vccint_power_average = 0.054126 count = 1029
+vccpint_voltage_average = 1.004117 count = 1029
+vccpint_current_average = 0.324860 count = 1029
+vccpint_power_average = 0.326198 count = 1029
+vccaux_voltage_average = 1.804894 count = 1029
+vccaux_current_average = 0.026892 count = 1029
+vccaux_power_average = 0.048537 count = 1029
+vccpaux_voltage_average = 1.798650 count = 1029
+vccpaux_current_average = 0.087221 count = 1029
+vccpaux_power_average = 0.156880 count = 1029
+vcc1v5_voltage_average = 1.508762 count = 1029
+vcc1v5_current_average = 0.512877 count = 1029
+vcc1v5_power_average = 0.773807 count = 1029
+Validation PASSED!
+
+ hardware execution time  28.175700 ms elapsed
+==============================================
+frequency factor = 44 
+------------------------------
+vccint_voltage_average = 0.811608 count = 1026
+vccint_current_average = 0.064845 count = 1026
+vccint_power_average = 0.052629 count = 1026
+vccpint_voltage_average = 1.004096 count = 1026
+vccpint_current_average = 0.327485 count = 1026
+vccpint_power_average = 0.328823 count = 1026
+vccaux_voltage_average = 1.804818 count = 1026
+vccaux_current_average = 0.025295 count = 1026
+vccaux_power_average = 0.045653 count = 1026
+vccpaux_voltage_average = 1.798805 count = 1026
+vccpaux_current_average = 0.087963 count = 1026
+vccpaux_power_average = 0.158226 count = 1026
+vcc1v5_voltage_average = 1.508838 count = 1026
+vcc1v5_current_average = 0.516447 count = 1026
+vcc1v5_power_average = 0.779235 count = 1026
+Validation PASSED!
+
+ hardware execution time  28.827800 ms elapsed
+==============================================
+frequency factor = 45 
+------------------------------
+vccint_voltage_average = 0.811566 count = 1034
+vccint_current_average = 0.063422 count = 1034
+vccint_power_average = 0.051471 count = 1034
+vccpint_voltage_average = 1.004032 count = 1034
+vccpint_current_average = 0.326055 count = 1034
+vccpint_power_average = 0.327369 count = 1034
+vccaux_voltage_average = 1.804812 count = 1034
+vccaux_current_average = 0.025054 count = 1034
+vccaux_power_average = 0.045220 count = 1034
+vccpaux_voltage_average = 1.798824 count = 1034
+vccpaux_current_average = 0.085968 count = 1034
+vccpaux_power_average = 0.154641 count = 1034
+vcc1v5_voltage_average = 1.508761 count = 1034
+vcc1v5_current_average = 0.512829 count = 1034
+vcc1v5_power_average = 0.773736 count = 1034
+Validation PASSED!
+
+ hardware execution time  29.483100 ms elapsed
+==============================================
+frequency factor = 46 
+------------------------------
+vccint_voltage_average = 0.811628 count = 1024
+vccint_current_average = 0.064026 count = 1024
+vccint_power_average = 0.051965 count = 1024
+vccpint_voltage_average = 1.003859 count = 1024
+vccpint_current_average = 0.325897 count = 1024
+vccpint_power_average = 0.327152 count = 1024
+vccaux_voltage_average = 1.804858 count = 1024
+vccaux_current_average = 0.026154 count = 1024
+vccaux_power_average = 0.047209 count = 1024
+vccpaux_voltage_average = 1.798806 count = 1024
+vccpaux_current_average = 0.087097 count = 1024
+vccpaux_power_average = 0.156671 count = 1024
+vcc1v5_voltage_average = 1.508861 count = 1024
+vcc1v5_current_average = 0.510147 count = 1024
+vcc1v5_power_average = 0.769740 count = 1024
+Validation PASSED!
+
+ hardware execution time  30.140700 ms elapsed
+==============================================
+frequency factor = 47 
+------------------------------
+vccint_voltage_average = 0.811564 count = 1035
+vccint_current_average = 0.060537 count = 1035
+vccint_power_average = 0.049132 count = 1035
+vccpint_voltage_average = 1.003898 count = 1035
+vccpint_current_average = 0.324834 count = 1035
+vccpint_power_average = 0.326103 count = 1035
+vccaux_voltage_average = 1.804962 count = 1035
+vccaux_current_average = 0.027461 count = 1035
+vccaux_power_average = 0.049568 count = 1035
+vccpaux_voltage_average = 1.798654 count = 1035
+vccpaux_current_average = 0.086187 count = 1035
+vccpaux_power_average = 0.155021 count = 1035
+vcc1v5_voltage_average = 1.508773 count = 1035
+vcc1v5_current_average = 0.500649 count = 1035
+vcc1v5_power_average = 0.755366 count = 1035
+Validation PASSED!
+
+ hardware execution time  30.793400 ms elapsed
+==============================================
+frequency factor = 48 
+------------------------------
+vccint_voltage_average = 0.811610 count = 1037
+vccint_current_average = 0.060330 count = 1037
+vccint_power_average = 0.048963 count = 1037
+vccpint_voltage_average = 1.004110 count = 1037
+vccpint_current_average = 0.325548 count = 1037
+vccpint_power_average = 0.326884 count = 1037
+vccaux_voltage_average = 1.804810 count = 1037
+vccaux_current_average = 0.026549 count = 1037
+vccaux_power_average = 0.047917 count = 1037
+vccpaux_voltage_average = 1.798778 count = 1037
+vccpaux_current_average = 0.086774 count = 1037
+vccpaux_power_average = 0.156087 count = 1037
+vcc1v5_voltage_average = 1.508802 count = 1037
+vcc1v5_current_average = 0.501552 count = 1037
+vcc1v5_power_average = 0.756743 count = 1037
+Validation PASSED!
+
+ hardware execution time  31.448500 ms elapsed
+==============================================
+frequency factor = 49 
+------------------------------
+vccint_voltage_average = 0.811703 count = 1032
+vccint_current_average = 0.060517 count = 1032
+vccint_power_average = 0.049119 count = 1032
+vccpint_voltage_average = 1.004201 count = 1032
+vccpint_current_average = 0.325112 count = 1032
+vccpint_power_average = 0.326479 count = 1032
+vccaux_voltage_average = 1.804711 count = 1032
+vccaux_current_average = 0.025618 count = 1032
+vccaux_power_average = 0.046234 count = 1032
+vccpaux_voltage_average = 1.798706 count = 1032
+vccpaux_current_average = 0.087558 count = 1032
+vccpaux_power_average = 0.157490 count = 1032
+vcc1v5_voltage_average = 1.508880 count = 1032
+vcc1v5_current_average = 0.499243 count = 1032
+vcc1v5_power_average = 0.753297 count = 1032
+Validation PASSED!
+
+ hardware execution time  32.103000 ms elapsed
+==============================================
+VCCINT voltage = 0.800000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 11 
+------------------------------
+
+ hardware execution time  10000.104000 ms elapsed
+==============================================
+frequency factor = 12 
+------------------------------
+vccint_voltage_average = 0.801743 count = 1032
+vccint_current_average = 0.157083 count = 1032
+vccint_power_average = 0.125941 count = 1032
+vccpint_voltage_average = 1.003896 count = 1032
+vccpint_current_average = 0.376771 count = 1032
+vccpint_power_average = 0.378238 count = 1032
+vccaux_voltage_average = 1.804987 count = 1032
+vccaux_current_average = 0.026466 count = 1032
+vccaux_power_average = 0.047771 count = 1032
+vccpaux_voltage_average = 1.798940 count = 1032
+vccpaux_current_average = 0.099322 count = 1032
+vccpaux_power_average = 0.178679 count = 1032
+vcc1v5_voltage_average = 1.508768 count = 1032
+vcc1v5_current_average = 0.872956 count = 1032
+vcc1v5_power_average = 1.317092 count = 1032
+Validation PASSED!
+
+ hardware execution time  7.910000 ms elapsed
+==============================================
+frequency factor = 13 
+------------------------------
+vccint_voltage_average = 0.801646 count = 1035
+vccint_current_average = 0.148385 count = 1035
+vccint_power_average = 0.118953 count = 1035
+vccpint_voltage_average = 1.004203 count = 1035
+vccpint_current_average = 0.370260 count = 1035
+vccpint_power_average = 0.371820 count = 1035
+vccaux_voltage_average = 1.805062 count = 1035
+vccaux_current_average = 0.026162 count = 1035
+vccaux_power_average = 0.047226 count = 1035
+vccpaux_voltage_average = 1.798833 count = 1035
+vccpaux_current_average = 0.099713 count = 1035
+vccpaux_power_average = 0.179365 count = 1035
+vcc1v5_voltage_average = 1.508906 count = 1035
+vcc1v5_current_average = 0.819203 count = 1035
+vcc1v5_power_average = 1.236100 count = 1035
+Validation PASSED!
+
+ hardware execution time  8.560000 ms elapsed
+==============================================
+frequency factor = 14 
+------------------------------
+vccint_voltage_average = 0.801698 count = 1023
+vccint_current_average = 0.143680 count = 1023
+vccint_power_average = 0.115189 count = 1023
+vccpint_voltage_average = 1.003917 count = 1023
+vccpint_current_average = 0.369013 count = 1023
+vccpint_power_average = 0.370446 count = 1023
+vccaux_voltage_average = 1.804982 count = 1023
+vccaux_current_average = 0.025965 count = 1023
+vccaux_power_average = 0.046868 count = 1023
+vccpaux_voltage_average = 1.798637 count = 1023
+vccpaux_current_average = 0.098317 count = 1023
+vccpaux_power_average = 0.176841 count = 1023
+vcc1v5_voltage_average = 1.508799 count = 1023
+vcc1v5_current_average = 0.805092 count = 1023
+vcc1v5_power_average = 1.214723 count = 1023
+Validation PASSED!
+
+ hardware execution time  9.213200 ms elapsed
+==============================================
+frequency factor = 15 
+------------------------------
+vccint_voltage_average = 0.801711 count = 1012
+vccint_current_average = 0.138186 count = 1012
+vccint_power_average = 0.110785 count = 1012
+vccpint_voltage_average = 1.003984 count = 1012
+vccpint_current_average = 0.362972 count = 1012
+vccpint_power_average = 0.364415 count = 1012
+vccaux_voltage_average = 1.804994 count = 1012
+vccaux_current_average = 0.026510 count = 1012
+vccaux_power_average = 0.047853 count = 1012
+vccpaux_voltage_average = 1.798756 count = 1012
+vccpaux_current_average = 0.097486 count = 1012
+vccpaux_power_average = 0.175355 count = 1012
+vcc1v5_voltage_average = 1.508806 count = 1012
+vcc1v5_current_average = 0.756407 count = 1012
+vcc1v5_power_average = 1.141272 count = 1012
+Validation PASSED!
+
+ hardware execution time  9.869100 ms elapsed
+==============================================
+frequency factor = 16 
+------------------------------
+vccint_voltage_average = 0.801735 count = 1014
+vccint_current_average = 0.131765 count = 1014
+vccint_power_average = 0.105642 count = 1014
+vccpint_voltage_average = 1.004119 count = 1014
+vccpint_current_average = 0.359668 count = 1014
+vccpint_power_average = 0.361149 count = 1014
+vccaux_voltage_average = 1.804818 count = 1014
+vccaux_current_average = 0.027244 count = 1014
+vccaux_power_average = 0.049170 count = 1014
+vccpaux_voltage_average = 1.798657 count = 1014
+vccpaux_current_average = 0.096863 count = 1014
+vccpaux_power_average = 0.174226 count = 1014
+vcc1v5_voltage_average = 1.508788 count = 1014
+vcc1v5_current_average = 0.738844 count = 1014
+vcc1v5_power_average = 1.114759 count = 1014
+Validation PASSED!
+
+ hardware execution time  10.516100 ms elapsed
+==============================================
+frequency factor = 17 
+------------------------------
+vccint_voltage_average = 0.801771 count = 1026
+vccint_current_average = 0.128305 count = 1026
+vccint_power_average = 0.102869 count = 1026
+vccpint_voltage_average = 1.003976 count = 1026
+vccpint_current_average = 0.352689 count = 1026
+vccpint_power_average = 0.354090 count = 1026
+vccaux_voltage_average = 1.804101 count = 1026
+vccaux_current_average = 0.025752 count = 1026
+vccaux_power_average = 0.046469 count = 1026
+vccpaux_voltage_average = 1.798947 count = 1026
+vccpaux_current_average = 0.095044 count = 1026
+vccpaux_power_average = 0.170977 count = 1026
+vcc1v5_voltage_average = 1.508771 count = 1026
+vcc1v5_current_average = 0.702531 count = 1026
+vcc1v5_power_average = 1.059958 count = 1026
+Validation PASSED!
+
+ hardware execution time  11.171600 ms elapsed
+==============================================
+frequency factor = 18 
+------------------------------
+vccint_voltage_average = 0.801779 count = 1030
+vccint_current_average = 0.122163 count = 1030
+vccint_power_average = 0.097948 count = 1030
+vccpint_voltage_average = 1.004060 count = 1030
+vccpint_current_average = 0.354551 count = 1030
+vccpint_power_average = 0.355994 count = 1030
+vccaux_voltage_average = 1.804907 count = 1030
+vccaux_current_average = 0.025228 count = 1030
+vccaux_power_average = 0.045533 count = 1030
+vccpaux_voltage_average = 1.798591 count = 1030
+vccpaux_current_average = 0.096481 count = 1030
+vccpaux_power_average = 0.173533 count = 1030
+vcc1v5_voltage_average = 1.508773 count = 1030
+vcc1v5_current_average = 0.701820 count = 1030
+vcc1v5_power_average = 1.058885 count = 1030
+Validation PASSED!
+
+ hardware execution time  11.824000 ms elapsed
+==============================================
+frequency factor = 19 
+------------------------------
+vccint_voltage_average = 0.801838 count = 1024
+vccint_current_average = 0.117661 count = 1024
+vccint_power_average = 0.094346 count = 1024
+vccpint_voltage_average = 1.004170 count = 1024
+vccpint_current_average = 0.349670 count = 1024
+vccpint_power_average = 0.351129 count = 1024
+vccaux_voltage_average = 1.804866 count = 1024
+vccaux_current_average = 0.026535 count = 1024
+vccaux_power_average = 0.047890 count = 1024
+vccpaux_voltage_average = 1.798828 count = 1024
+vccpaux_current_average = 0.094498 count = 1024
+vccpaux_power_average = 0.169987 count = 1024
+vcc1v5_voltage_average = 1.508944 count = 1024
+vcc1v5_current_average = 0.678253 count = 1024
+vcc1v5_power_average = 1.023446 count = 1024
+Validation PASSED!
+
+ hardware execution time  12.480500 ms elapsed
+==============================================
+frequency factor = 20 
+------------------------------
+vccint_voltage_average = 0.801820 count = 1012
+vccint_current_average = 0.112664 count = 1012
+vccint_power_average = 0.090336 count = 1012
+vccpint_voltage_average = 1.003858 count = 1012
+vccpint_current_average = 0.347517 count = 1012
+vccpint_power_average = 0.348857 count = 1012
+vccaux_voltage_average = 1.804985 count = 1012
+vccaux_current_average = 0.027297 count = 1012
+vccaux_power_average = 0.049273 count = 1012
+vccpaux_voltage_average = 1.798741 count = 1012
+vccpaux_current_average = 0.094167 count = 1012
+vccpaux_power_average = 0.169380 count = 1012
+vcc1v5_voltage_average = 1.508794 count = 1012
+vcc1v5_current_average = 0.656065 count = 1012
+vcc1v5_power_average = 0.989863 count = 1012
+Validation PASSED!
+
+ hardware execution time  13.133200 ms elapsed
+==============================================
+frequency factor = 21 
+------------------------------
+vccint_voltage_average = 0.801719 count = 1019
+vccint_current_average = 0.109574 count = 1019
+vccint_power_average = 0.087847 count = 1019
+vccpint_voltage_average = 1.004051 count = 1019
+vccpint_current_average = 0.346111 count = 1019
+vccpint_power_average = 0.347513 count = 1019
+vccaux_voltage_average = 1.804708 count = 1019
+vccaux_current_average = 0.026221 count = 1019
+vccaux_power_average = 0.047320 count = 1019
+vccpaux_voltage_average = 1.798717 count = 1019
+vccpaux_current_average = 0.092891 count = 1019
+vccpaux_power_average = 0.167089 count = 1019
+vcc1v5_voltage_average = 1.508826 count = 1019
+vcc1v5_current_average = 0.641714 count = 1019
+vcc1v5_power_average = 0.968235 count = 1019
+Validation PASSED!
+
+ hardware execution time  13.785300 ms elapsed
+==============================================
+frequency factor = 22 
+------------------------------
+vccint_voltage_average = 0.801779 count = 1029
+vccint_current_average = 0.105412 count = 1029
+vccint_power_average = 0.084518 count = 1029
+vccpint_voltage_average = 1.003855 count = 1029
+vccpint_current_average = 0.345876 count = 1029
+vccpint_power_average = 0.347211 count = 1029
+vccaux_voltage_average = 1.804935 count = 1029
+vccaux_current_average = 0.026436 count = 1029
+vccaux_power_average = 0.047715 count = 1029
+vccpaux_voltage_average = 1.798749 count = 1029
+vccpaux_current_average = 0.094828 count = 1029
+vccpaux_power_average = 0.170572 count = 1029
+vcc1v5_voltage_average = 1.508799 count = 1029
+vcc1v5_current_average = 0.654777 count = 1029
+vcc1v5_power_average = 0.987929 count = 1029
+Validation PASSED!
+
+ hardware execution time  14.437000 ms elapsed
+==============================================
+frequency factor = 23 
+------------------------------
+vccint_voltage_average = 0.801710 count = 1038
+vccint_current_average = 0.102902 count = 1038
+vccint_power_average = 0.082498 count = 1038
+vccpint_voltage_average = 1.003798 count = 1038
+vccpint_current_average = 0.344698 count = 1038
+vccpint_power_average = 0.346002 count = 1038
+vccaux_voltage_average = 1.805021 count = 1038
+vccaux_current_average = 0.025575 count = 1038
+vccaux_power_average = 0.046164 count = 1038
+vccpaux_voltage_average = 1.798830 count = 1038
+vccpaux_current_average = 0.094533 count = 1038
+vccpaux_power_average = 0.170050 count = 1038
+vcc1v5_voltage_average = 1.508857 count = 1038
+vcc1v5_current_average = 0.638352 count = 1038
+vcc1v5_power_average = 0.963182 count = 1038
+Validation PASSED!
+
+ hardware execution time  15.091500 ms elapsed
+==============================================
+frequency factor = 24 
+------------------------------
+vccint_voltage_average = 0.801703 count = 1016
+vccint_current_average = 0.098579 count = 1016
+vccint_power_average = 0.079033 count = 1016
+vccpint_voltage_average = 1.003908 count = 1016
+vccpint_current_average = 0.345149 count = 1016
+vccpint_power_average = 0.346507 count = 1016
+vccaux_voltage_average = 1.804126 count = 1016
+vccaux_current_average = 0.026037 count = 1016
+vccaux_power_average = 0.046986 count = 1016
+vccpaux_voltage_average = 1.798910 count = 1016
+vccpaux_current_average = 0.092950 count = 1016
+vccpaux_power_average = 0.167210 count = 1016
+vcc1v5_voltage_average = 1.508772 count = 1016
+vcc1v5_current_average = 0.619617 count = 1016
+vcc1v5_power_average = 0.934859 count = 1016
+Validation PASSED!
+
+ hardware execution time  15.746100 ms elapsed
+==============================================
+frequency factor = 25 
+------------------------------
+vccint_voltage_average = 0.801683 count = 1040
+vccint_current_average = 0.092939 count = 1040
+vccint_power_average = 0.074511 count = 1040
+vccpint_voltage_average = 1.003925 count = 1040
+vccpint_current_average = 0.342323 count = 1040
+vccpint_power_average = 0.343669 count = 1040
+vccaux_voltage_average = 1.804814 count = 1040
+vccaux_current_average = 0.025451 count = 1040
+vccaux_power_average = 0.045938 count = 1040
+vccpaux_voltage_average = 1.798815 count = 1040
+vccpaux_current_average = 0.093720 count = 1040
+vccpaux_power_average = 0.168583 count = 1040
+vcc1v5_voltage_average = 1.508859 count = 1040
+vcc1v5_current_average = 0.612876 count = 1040
+vcc1v5_power_average = 0.924742 count = 1040
+Validation PASSED!
+
+ hardware execution time  16.400600 ms elapsed
+==============================================
+frequency factor = 26 
+------------------------------
+vccint_voltage_average = 0.801723 count = 1030
+vccint_current_average = 0.089502 count = 1030
+vccint_power_average = 0.071758 count = 1030
+vccpint_voltage_average = 1.004048 count = 1030
+vccpint_current_average = 0.341459 count = 1030
+vccpint_power_average = 0.342840 count = 1030
+vccaux_voltage_average = 1.804878 count = 1030
+vccaux_current_average = 0.027002 count = 1030
+vccaux_power_average = 0.048733 count = 1030
+vccpaux_voltage_average = 1.798760 count = 1030
+vccpaux_current_average = 0.092400 count = 1030
+vccpaux_power_average = 0.166204 count = 1030
+vcc1v5_voltage_average = 1.508877 count = 1030
+vcc1v5_current_average = 0.606705 count = 1030
+vcc1v5_power_average = 0.915440 count = 1030
+Validation PASSED!
+
+ hardware execution time  17.055300 ms elapsed
+==============================================
+frequency factor = 27 
+------------------------------
+vccint_voltage_average = 0.801816 count = 994
+vccint_current_average = 0.089773 count = 994
+vccint_power_average = 0.071981 count = 994
+vccpint_voltage_average = 1.003729 count = 994
+vccpint_current_average = 0.340260 count = 994
+vccpint_power_average = 0.341542 count = 994
+vccaux_voltage_average = 1.804827 count = 994
+vccaux_current_average = 0.028373 count = 994
+vccaux_power_average = 0.051211 count = 994
+vccpaux_voltage_average = 1.798618 count = 994
+vccpaux_current_average = 0.092147 count = 994
+vccpaux_power_average = 0.165739 count = 994
+vcc1v5_voltage_average = 1.508816 count = 994
+vcc1v5_current_average = 0.588453 count = 994
+vcc1v5_power_average = 0.887864 count = 994
+Validation PASSED!
+
+ hardware execution time  17.709900 ms elapsed
+==============================================
+frequency factor = 28 
+------------------------------
+vccint_voltage_average = 0.801761 count = 1039
+vccint_current_average = 0.085449 count = 1039
+vccint_power_average = 0.068509 count = 1039
+vccpint_voltage_average = 1.004013 count = 1039
+vccpint_current_average = 0.338998 count = 1039
+vccpint_power_average = 0.340354 count = 1039
+vccaux_voltage_average = 1.805051 count = 1039
+vccaux_current_average = 0.026092 count = 1039
+vccaux_power_average = 0.047102 count = 1039
+vccpaux_voltage_average = 1.798978 count = 1039
+vccpaux_current_average = 0.091675 count = 1039
+vccpaux_power_average = 0.164922 count = 1039
+vcc1v5_voltage_average = 1.508822 count = 1039
+vcc1v5_current_average = 0.585900 count = 1039
+vcc1v5_power_average = 0.884020 count = 1039
+Validation PASSED!
+
+ hardware execution time  18.365300 ms elapsed
+==============================================
+frequency factor = 29 
+------------------------------
+vccint_voltage_average = 0.801659 count = 1040
+vccint_current_average = 0.083038 count = 1040
+vccint_power_average = 0.066568 count = 1040
+vccpint_voltage_average = 1.004151 count = 1040
+vccpint_current_average = 0.338717 count = 1040
+vccpint_power_average = 0.340123 count = 1040
+vccaux_voltage_average = 1.804825 count = 1040
+vccaux_current_average = 0.025090 count = 1040
+vccaux_power_average = 0.045282 count = 1040
+vccpaux_voltage_average = 1.798846 count = 1040
+vccpaux_current_average = 0.094261 count = 1040
+vccpaux_power_average = 0.169561 count = 1040
+vcc1v5_voltage_average = 1.508905 count = 1040
+vcc1v5_current_average = 0.587410 count = 1040
+vcc1v5_power_average = 0.886344 count = 1040
+Validation PASSED!
+
+ hardware execution time  19.015500 ms elapsed
+==============================================
+frequency factor = 30 
+------------------------------
+vccint_voltage_average = 0.801666 count = 1037
+vccint_current_average = 0.080430 count = 1037
+vccint_power_average = 0.064481 count = 1037
+vccpint_voltage_average = 1.003976 count = 1037
+vccpint_current_average = 0.335629 count = 1037
+vccpint_power_average = 0.336963 count = 1037
+vccaux_voltage_average = 1.804956 count = 1037
+vccaux_current_average = 0.025901 count = 1037
+vccaux_power_average = 0.046749 count = 1037
+vccpaux_voltage_average = 1.798712 count = 1037
+vccpaux_current_average = 0.094443 count = 1037
+vccpaux_power_average = 0.169880 count = 1037
+vcc1v5_voltage_average = 1.508874 count = 1037
+vcc1v5_current_average = 0.581108 count = 1037
+vcc1v5_power_average = 0.876818 count = 1037
+Validation PASSED!
+
+ hardware execution time  19.667300 ms elapsed
+==============================================
+frequency factor = 31 
+------------------------------
+vccint_voltage_average = 0.801713 count = 1024
+vccint_current_average = 0.080917 count = 1024
+vccint_power_average = 0.064875 count = 1024
+vccpint_voltage_average = 1.004123 count = 1024
+vccpint_current_average = 0.334686 count = 1024
+vccpint_power_average = 0.336063 count = 1024
+vccaux_voltage_average = 1.804841 count = 1024
+vccaux_current_average = 0.026733 count = 1024
+vccaux_power_average = 0.048249 count = 1024
+vccpaux_voltage_average = 1.798822 count = 1024
+vccpaux_current_average = 0.092957 count = 1024
+vccpaux_power_average = 0.167212 count = 1024
+vcc1v5_voltage_average = 1.508821 count = 1024
+vcc1v5_current_average = 0.576538 count = 1024
+vcc1v5_power_average = 0.869893 count = 1024
+Validation PASSED!
+
+ hardware execution time  20.323200 ms elapsed
+==============================================
+frequency factor = 32 
+------------------------------
+vccint_voltage_average = 0.801656 count = 1016
+vccint_current_average = 0.077602 count = 1016
+vccint_power_average = 0.062211 count = 1016
+vccpint_voltage_average = 1.004134 count = 1016
+vccpint_current_average = 0.334000 count = 1016
+vccpint_power_average = 0.335381 count = 1016
+vccaux_voltage_average = 1.804017 count = 1016
+vccaux_current_average = 0.028005 count = 1016
+vccaux_power_average = 0.050497 count = 1016
+vccpaux_voltage_average = 1.798805 count = 1016
+vccpaux_current_average = 0.092458 count = 1016
+vccpaux_power_average = 0.166316 count = 1016
+vcc1v5_voltage_average = 1.508930 count = 1016
+vcc1v5_current_average = 0.574772 count = 1016
+vcc1v5_power_average = 0.867292 count = 1016
+Validation PASSED!
+
+ hardware execution time  20.977500 ms elapsed
+==============================================
+frequency factor = 33 
+------------------------------
+vccint_voltage_average = 0.801663 count = 1044
+vccint_current_average = 0.074533 count = 1044
+vccint_power_average = 0.059751 count = 1044
+vccpint_voltage_average = 1.003919 count = 1044
+vccpint_current_average = 0.335010 count = 1044
+vccpint_power_average = 0.336318 count = 1044
+vccaux_voltage_average = 1.804930 count = 1044
+vccaux_current_average = 0.026580 count = 1044
+vccaux_power_average = 0.047978 count = 1044
+vccpaux_voltage_average = 1.798833 count = 1044
+vccpaux_current_average = 0.093091 count = 1044
+vccpaux_power_average = 0.167458 count = 1044
+vcc1v5_voltage_average = 1.508779 count = 1044
+vcc1v5_current_average = 0.567783 count = 1044
+vcc1v5_power_average = 0.856659 count = 1044
+Validation PASSED!
+
+ hardware execution time  21.633000 ms elapsed
+==============================================
+frequency factor = 34 
+------------------------------
+vccint_voltage_average = 0.801689 count = 1022
+vccint_current_average = 0.075021 count = 1022
+vccint_power_average = 0.060145 count = 1022
+vccpint_voltage_average = 1.004111 count = 1022
+vccpint_current_average = 0.330663 count = 1022
+vccpint_power_average = 0.332026 count = 1022
+vccaux_voltage_average = 1.804135 count = 1022
+vccaux_current_average = 0.027199 count = 1022
+vccaux_power_average = 0.049079 count = 1022
+vccpaux_voltage_average = 1.798742 count = 1022
+vccpaux_current_average = 0.090188 count = 1022
+vccpaux_power_average = 0.162227 count = 1022
+vcc1v5_voltage_average = 1.508763 count = 1022
+vcc1v5_current_average = 0.541493 count = 1022
+vcc1v5_power_average = 0.816985 count = 1022
+Validation PASSED!
+
+ hardware execution time  22.289400 ms elapsed
+==============================================
+frequency factor = 35 
+------------------------------
+vccint_voltage_average = 0.801750 count = 1028
+vccint_current_average = 0.072212 count = 1028
+vccint_power_average = 0.057896 count = 1028
+vccpint_voltage_average = 1.004020 count = 1028
+vccpint_current_average = 0.331271 count = 1028
+vccpint_power_average = 0.332601 count = 1028
+vccaux_voltage_average = 1.804916 count = 1028
+vccaux_current_average = 0.026037 count = 1028
+vccaux_power_average = 0.046997 count = 1028
+vccpaux_voltage_average = 1.798830 count = 1028
+vccpaux_current_average = 0.090330 count = 1028
+vccpaux_power_average = 0.162489 count = 1028
+vcc1v5_voltage_average = 1.508823 count = 1028
+vcc1v5_current_average = 0.543972 count = 1028
+vcc1v5_power_average = 0.820757 count = 1028
+Validation PASSED!
+
+ hardware execution time  22.942900 ms elapsed
+==============================================
+frequency factor = 36 
+------------------------------
+vccint_voltage_average = 0.801721 count = 1042
+vccint_current_average = 0.071992 count = 1042
+vccint_power_average = 0.057717 count = 1042
+vccpint_voltage_average = 1.004053 count = 1042
+vccpint_current_average = 0.332159 count = 1042
+vccpint_power_average = 0.333504 count = 1042
+vccaux_voltage_average = 1.804875 count = 1042
+vccaux_current_average = 0.028341 count = 1042
+vccaux_power_average = 0.051153 count = 1042
+vccpaux_voltage_average = 1.798739 count = 1042
+vccpaux_current_average = 0.089596 count = 1042
+vccpaux_power_average = 0.161158 count = 1042
+vcc1v5_voltage_average = 1.508838 count = 1042
+vcc1v5_current_average = 0.528176 count = 1042
+vcc1v5_power_average = 0.796932 count = 1042
+Validation PASSED!
+
+ hardware execution time  23.598500 ms elapsed
+==============================================
+frequency factor = 37 
+------------------------------
+vccint_voltage_average = 0.801773 count = 1029
+vccint_current_average = 0.070593 count = 1029
+vccint_power_average = 0.056603 count = 1029
+vccpint_voltage_average = 1.004199 count = 1029
+vccpint_current_average = 0.327229 count = 1029
+vccpint_power_average = 0.328602 count = 1029
+vccaux_voltage_average = 1.804981 count = 1029
+vccaux_current_average = 0.027666 count = 1029
+vccaux_power_average = 0.049944 count = 1029
+vccpaux_voltage_average = 1.798879 count = 1029
+vccpaux_current_average = 0.090470 count = 1029
+vccpaux_power_average = 0.162744 count = 1029
+vcc1v5_voltage_average = 1.508682 count = 1029
+vcc1v5_current_average = 0.525829 count = 1029
+vcc1v5_power_average = 0.793308 count = 1029
+Validation PASSED!
+
+ hardware execution time  24.257600 ms elapsed
+==============================================
+frequency factor = 38 
+------------------------------
+vccint_voltage_average = 0.801723 count = 1032
+vccint_current_average = 0.067451 count = 1032
+vccint_power_average = 0.054076 count = 1032
+vccpint_voltage_average = 1.003914 count = 1032
+vccpint_current_average = 0.330608 count = 1032
+vccpint_power_average = 0.331902 count = 1032
+vccaux_voltage_average = 1.804871 count = 1032
+vccaux_current_average = 0.026254 count = 1032
+vccaux_power_average = 0.047384 count = 1032
+vccpaux_voltage_average = 1.798912 count = 1032
+vccpaux_current_average = 0.091449 count = 1032
+vccpaux_power_average = 0.164506 count = 1032
+vcc1v5_voltage_average = 1.508838 count = 1032
+vcc1v5_current_average = 0.530932 count = 1032
+vcc1v5_power_average = 0.801090 count = 1032
+Validation PASSED!
+
+ hardware execution time  24.908600 ms elapsed
+==============================================
+frequency factor = 39 
+------------------------------
+vccint_voltage_average = 0.801802 count = 1022
+vccint_current_average = 0.066215 count = 1022
+vccint_power_average = 0.053092 count = 1022
+vccpint_voltage_average = 1.003897 count = 1022
+vccpint_current_average = 0.329746 count = 1022
+vccpint_power_average = 0.331010 count = 1022
+vccaux_voltage_average = 1.804867 count = 1022
+vccaux_current_average = 0.026755 count = 1022
+vccaux_power_average = 0.048291 count = 1022
+vccpaux_voltage_average = 1.798801 count = 1022
+vccpaux_current_average = 0.091793 count = 1022
+vccpaux_power_average = 0.165117 count = 1022
+vcc1v5_voltage_average = 1.508820 count = 1022
+vcc1v5_current_average = 0.524569 count = 1022
+vcc1v5_power_average = 0.791480 count = 1022
+Validation PASSED!
+
+ hardware execution time  25.563500 ms elapsed
+==============================================
+frequency factor = 40 
+------------------------------
+vccint_voltage_average = 0.801741 count = 1035
+vccint_current_average = 0.065927 count = 1035
+vccint_power_average = 0.052858 count = 1035
+vccpint_voltage_average = 1.003956 count = 1035
+vccpint_current_average = 0.330586 count = 1035
+vccpint_power_average = 0.331896 count = 1035
+vccaux_voltage_average = 1.804866 count = 1035
+vccaux_current_average = 0.027174 count = 1035
+vccaux_power_average = 0.049050 count = 1035
+vccpaux_voltage_average = 1.798745 count = 1035
+vccpaux_current_average = 0.090640 count = 1035
+vccpaux_power_average = 0.163042 count = 1035
+vcc1v5_voltage_average = 1.508777 count = 1035
+vcc1v5_current_average = 0.525423 count = 1035
+vcc1v5_power_average = 0.792745 count = 1035
+Validation PASSED!
+
+ hardware execution time  26.219700 ms elapsed
+==============================================
+frequency factor = 41 
+------------------------------
+vccint_voltage_average = 0.801822 count = 1038
+vccint_current_average = 0.064668 count = 1038
+vccint_power_average = 0.051853 count = 1038
+vccpint_voltage_average = 1.003891 count = 1038
+vccpint_current_average = 0.329600 count = 1038
+vccpint_power_average = 0.330884 count = 1038
+vccaux_voltage_average = 1.804926 count = 1038
+vccaux_current_average = 0.026930 count = 1038
+vccaux_power_average = 0.048609 count = 1038
+vccpaux_voltage_average = 1.798712 count = 1038
+vccpaux_current_average = 0.089656 count = 1038
+vccpaux_power_average = 0.161266 count = 1038
+vcc1v5_voltage_average = 1.508817 count = 1038
+vcc1v5_current_average = 0.515700 count = 1038
+vcc1v5_power_average = 0.778098 count = 1038
+Validation PASSED!
+
+ hardware execution time  26.874700 ms elapsed
+==============================================
+frequency factor = 42 
+------------------------------
+vccint_voltage_average = 0.801731 count = 1041
+vccint_current_average = 0.064496 count = 1041
+vccint_power_average = 0.051708 count = 1041
+vccpint_voltage_average = 1.004115 count = 1041
+vccpint_current_average = 0.328545 count = 1041
+vccpint_power_average = 0.329898 count = 1041
+vccaux_voltage_average = 1.804965 count = 1041
+vccaux_current_average = 0.026732 count = 1041
+vccaux_power_average = 0.048255 count = 1041
+vccpaux_voltage_average = 1.798831 count = 1041
+vccpaux_current_average = 0.091649 count = 1041
+vccpaux_power_average = 0.164860 count = 1041
+vcc1v5_voltage_average = 1.508847 count = 1041
+vcc1v5_current_average = 0.514424 count = 1041
+vcc1v5_power_average = 0.776187 count = 1041
+Validation PASSED!
+
+ hardware execution time  27.529900 ms elapsed
+==============================================
+frequency factor = 43 
+------------------------------
+vccint_voltage_average = 0.801725 count = 1028
+vccint_current_average = 0.062880 count = 1028
+vccint_power_average = 0.050415 count = 1028
+vccpint_voltage_average = 1.003946 count = 1028
+vccpint_current_average = 0.325997 count = 1028
+vccpint_power_average = 0.327284 count = 1028
+vccaux_voltage_average = 1.804946 count = 1028
+vccaux_current_average = 0.026173 count = 1028
+vccaux_power_average = 0.047237 count = 1028
+vccpaux_voltage_average = 1.798847 count = 1028
+vccpaux_current_average = 0.090345 count = 1028
+vccpaux_power_average = 0.162516 count = 1028
+vcc1v5_voltage_average = 1.508833 count = 1028
+vcc1v5_current_average = 0.490698 count = 1028
+vcc1v5_power_average = 0.740381 count = 1028
+Validation PASSED!
+
+ hardware execution time  28.184800 ms elapsed
+==============================================
+frequency factor = 44 
+------------------------------
+vccint_voltage_average = 0.801748 count = 1041
+vccint_current_average = 0.061990 count = 1041
+vccint_power_average = 0.049702 count = 1041
+vccpint_voltage_average = 1.004041 count = 1041
+vccpint_current_average = 0.328515 count = 1041
+vccpint_power_average = 0.329840 count = 1041
+vccaux_voltage_average = 1.804773 count = 1041
+vccaux_current_average = 0.025561 count = 1041
+vccaux_power_average = 0.046137 count = 1041
+vccpaux_voltage_average = 1.798692 count = 1041
+vccpaux_current_average = 0.090583 count = 1041
+vccpaux_power_average = 0.162932 count = 1041
+vcc1v5_voltage_average = 1.508786 count = 1041
+vcc1v5_current_average = 0.516946 count = 1041
+vcc1v5_power_average = 0.779959 count = 1041
+Validation PASSED!
+
+ hardware execution time  28.828200 ms elapsed
+==============================================
+frequency factor = 45 
+------------------------------
+vccint_voltage_average = 0.801748 count = 1027
+vccint_current_average = 0.061968 count = 1027
+vccint_power_average = 0.049685 count = 1027
+vccpint_voltage_average = 1.004165 count = 1027
+vccpint_current_average = 0.326801 count = 1027
+vccpint_power_average = 0.328165 count = 1027
+vccaux_voltage_average = 1.804845 count = 1027
+vccaux_current_average = 0.025682 count = 1027
+vccaux_power_average = 0.046351 count = 1027
+vccpaux_voltage_average = 1.798804 count = 1027
+vccpaux_current_average = 0.091757 count = 1027
+vccpaux_power_average = 0.165056 count = 1027
+vcc1v5_voltage_average = 1.508805 count = 1027
+vcc1v5_current_average = 0.510817 count = 1027
+vcc1v5_power_average = 0.770722 count = 1027
+Validation PASSED!
+
+ hardware execution time  29.483800 ms elapsed
+==============================================
+frequency factor = 46 
+------------------------------
+vccint_voltage_average = 0.801749 count = 1037
+vccint_current_average = 0.062078 count = 1037
+vccint_power_average = 0.049772 count = 1037
+vccpint_voltage_average = 1.003911 count = 1037
+vccpint_current_average = 0.327899 count = 1037
+vccpint_power_average = 0.329176 count = 1037
+vccaux_voltage_average = 1.804854 count = 1037
+vccaux_current_average = 0.025796 count = 1037
+vccaux_power_average = 0.046558 count = 1037
+vccpaux_voltage_average = 1.798716 count = 1037
+vccpaux_current_average = 0.091294 count = 1037
+vccpaux_power_average = 0.164210 count = 1037
+vcc1v5_voltage_average = 1.508786 count = 1037
+vcc1v5_current_average = 0.508272 count = 1037
+vcc1v5_power_average = 0.766872 count = 1037
+Validation PASSED!
+
+ hardware execution time  30.138000 ms elapsed
+==============================================
+frequency factor = 47 
+------------------------------
+vccint_voltage_average = 0.801820 count = 1030
+vccint_current_average = 0.060664 count = 1030
+vccint_power_average = 0.048641 count = 1030
+vccpint_voltage_average = 1.004265 count = 1030
+vccpint_current_average = 0.324863 count = 1030
+vccpint_power_average = 0.326247 count = 1030
+vccaux_voltage_average = 1.804945 count = 1030
+vccaux_current_average = 0.026851 count = 1030
+vccaux_power_average = 0.048466 count = 1030
+vccpaux_voltage_average = 1.798784 count = 1030
+vccpaux_current_average = 0.089487 count = 1030
+vccpaux_power_average = 0.160973 count = 1030
+vcc1v5_voltage_average = 1.508877 count = 1030
+vcc1v5_current_average = 0.500819 count = 1030
+vcc1v5_power_average = 0.755675 count = 1030
+Validation PASSED!
+
+ hardware execution time  30.793500 ms elapsed
+==============================================
+frequency factor = 48 
+------------------------------
+vccint_voltage_average = 0.801728 count = 1014
+vccint_current_average = 0.061067 count = 1014
+vccint_power_average = 0.048959 count = 1014
+vccpint_voltage_average = 1.003998 count = 1014
+vccpint_current_average = 0.325613 count = 1014
+vccpint_power_average = 0.326913 count = 1014
+vccaux_voltage_average = 1.804031 count = 1014
+vccaux_current_average = 0.027536 count = 1014
+vccaux_power_average = 0.049687 count = 1014
+vccpaux_voltage_average = 1.798670 count = 1014
+vccpaux_current_average = 0.090083 count = 1014
+vccpaux_power_average = 0.162027 count = 1014
+vcc1v5_voltage_average = 1.508843 count = 1014
+vcc1v5_current_average = 0.497057 count = 1014
+vcc1v5_power_average = 0.749981 count = 1014
+Validation PASSED!
+
+ hardware execution time  31.448600 ms elapsed
+==============================================
+frequency factor = 49 
+------------------------------
+vccint_voltage_average = 0.801770 count = 1034
+vccint_current_average = 0.059432 count = 1034
+vccint_power_average = 0.047652 count = 1034
+vccpint_voltage_average = 1.004229 count = 1034
+vccpint_current_average = 0.326025 count = 1034
+vccpint_power_average = 0.327405 count = 1034
+vccaux_voltage_average = 1.805042 count = 1034
+vccaux_current_average = 0.026188 count = 1034
+vccaux_power_average = 0.047274 count = 1034
+vccpaux_voltage_average = 1.798802 count = 1034
+vccpaux_current_average = 0.091770 count = 1034
+vccpaux_power_average = 0.165077 count = 1034
+vcc1v5_voltage_average = 1.508769 count = 1034
+vcc1v5_current_average = 0.495588 count = 1034
+vcc1v5_power_average = 0.747728 count = 1034
+Validation PASSED!
+
+ hardware execution time  32.103300 ms elapsed
+==============================================
+VCCINT voltage = 0.790000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 12 
+------------------------------
+vccint_voltage_average = 0.791592 count = 1032
+vccint_current_average = 0.155917 count = 1032
+vccint_power_average = 0.123422 count = 1032
+vccpint_voltage_average = 1.004109 count = 1032
+vccpint_current_average = 0.377438 count = 1032
+vccpint_power_average = 0.378985 count = 1032
+vccaux_voltage_average = 1.804875 count = 1032
+vccaux_current_average = 0.027102 count = 1032
+vccaux_power_average = 0.048917 count = 1032
+vccpaux_voltage_average = 1.798739 count = 1032
+vccpaux_current_average = 0.101441 count = 1032
+vccpaux_power_average = 0.182468 count = 1032
+vcc1v5_voltage_average = 1.508760 count = 1032
+vcc1v5_current_average = 0.877695 count = 1032
+vcc1v5_power_average = 1.324235 count = 1032
+Validation PASSED!
+
+ hardware execution time  7.904900 ms elapsed
+==============================================
+frequency factor = 13 
+------------------------------
+vccint_voltage_average = 0.791656 count = 1005
+vccint_current_average = 0.148896 count = 1005
+vccint_power_average = 0.117876 count = 1005
+vccpint_voltage_average = 1.004088 count = 1005
+vccpint_current_average = 0.370693 count = 1005
+vccpint_power_average = 0.372211 count = 1005
+vccaux_voltage_average = 1.804902 count = 1005
+vccaux_current_average = 0.025777 count = 1005
+vccaux_power_average = 0.046528 count = 1005
+vccpaux_voltage_average = 1.798741 count = 1005
+vccpaux_current_average = 0.100482 count = 1005
+vccpaux_power_average = 0.180742 count = 1005
+vcc1v5_voltage_average = 1.508791 count = 1005
+vcc1v5_current_average = 0.819232 count = 1005
+vcc1v5_power_average = 1.236049 count = 1005
+Validation PASSED!
+
+ hardware execution time  8.557500 ms elapsed
+==============================================
+frequency factor = 14 
+------------------------------
+vccint_voltage_average = 0.791656 count = 1030
+vccint_current_average = 0.140716 count = 1030
+vccint_power_average = 0.111399 count = 1030
+vccpint_voltage_average = 1.004223 count = 1030
+vccpint_current_average = 0.366277 count = 1030
+vccpint_power_average = 0.367821 count = 1030
+vccaux_voltage_average = 1.804105 count = 1030
+vccaux_current_average = 0.026153 count = 1030
+vccaux_power_average = 0.047146 count = 1030
+vccpaux_voltage_average = 1.798730 count = 1030
+vccpaux_current_average = 0.099211 count = 1030
+vccpaux_power_average = 0.178456 count = 1030
+vcc1v5_voltage_average = 1.508846 count = 1030
+vcc1v5_current_average = 0.807919 count = 1030
+vcc1v5_power_average = 1.219024 count = 1030
+Validation PASSED!
+
+ hardware execution time  9.206700 ms elapsed
+==============================================
+frequency factor = 15 
+------------------------------
+vccint_voltage_average = 0.791632 count = 1039
+vccint_current_average = 0.136023 count = 1039
+vccint_power_average = 0.107683 count = 1039
+vccpint_voltage_average = 1.003988 count = 1039
+vccpint_current_average = 0.364112 count = 1039
+vccpint_power_average = 0.365562 count = 1039
+vccaux_voltage_average = 1.804814 count = 1039
+vccaux_current_average = 0.025280 count = 1039
+vccaux_power_average = 0.045622 count = 1039
+vccpaux_voltage_average = 1.798752 count = 1039
+vccpaux_current_average = 0.098066 count = 1039
+vccpaux_power_average = 0.176400 count = 1039
+vcc1v5_voltage_average = 1.508796 count = 1039
+vcc1v5_current_average = 0.753790 count = 1039
+vcc1v5_power_average = 1.137315 count = 1039
+Validation PASSED!
+
+ hardware execution time  9.864100 ms elapsed
+==============================================
+frequency factor = 16 
+------------------------------
+vccint_voltage_average = 0.791651 count = 1026
+vccint_current_average = 0.131503 count = 1026
+vccint_power_average = 0.104105 count = 1026
+vccpint_voltage_average = 1.004113 count = 1026
+vccpint_current_average = 0.362893 count = 1026
+vccpint_power_average = 0.364384 count = 1026
+vccaux_voltage_average = 1.804874 count = 1026
+vccaux_current_average = 0.027473 count = 1026
+vccaux_power_average = 0.049589 count = 1026
+vccpaux_voltage_average = 1.798671 count = 1026
+vccpaux_current_average = 0.098837 count = 1026
+vccpaux_power_average = 0.177776 count = 1026
+vcc1v5_voltage_average = 1.508838 count = 1026
+vcc1v5_current_average = 0.741121 count = 1026
+vcc1v5_power_average = 1.118232 count = 1026
+Validation PASSED!
+
+ hardware execution time  10.519100 ms elapsed
+==============================================
+frequency factor = 17 
+------------------------------
+vccint_voltage_average = 0.791637 count = 1039
+vccint_current_average = 0.124624 count = 1039
+vccint_power_average = 0.098657 count = 1039
+vccpint_voltage_average = 1.004052 count = 1039
+vccpint_current_average = 0.356879 count = 1039
+vccpint_power_average = 0.358323 count = 1039
+vccaux_voltage_average = 1.804823 count = 1039
+vccaux_current_average = 0.026408 count = 1039
+vccaux_power_average = 0.047665 count = 1039
+vccpaux_voltage_average = 1.799009 count = 1039
+vccpaux_current_average = 0.096367 count = 1039
+vccpaux_power_average = 0.173366 count = 1039
+vcc1v5_voltage_average = 1.508741 count = 1039
+vcc1v5_current_average = 0.702584 count = 1039
+vcc1v5_power_average = 1.060016 count = 1039
+Validation PASSED!
+
+ hardware execution time  11.176000 ms elapsed
+==============================================
+frequency factor = 18 
+------------------------------
+vccint_voltage_average = 0.791583 count = 1000
+vccint_current_average = 0.122281 count = 1000
+vccint_power_average = 0.096796 count = 1000
+vccpint_voltage_average = 1.003949 count = 1000
+vccpint_current_average = 0.355078 count = 1000
+vccpint_power_average = 0.356475 count = 1000
+vccaux_voltage_average = 1.804931 count = 1000
+vccaux_current_average = 0.027187 count = 1000
+vccaux_power_average = 0.049077 count = 1000
+vccpaux_voltage_average = 1.798877 count = 1000
+vccpaux_current_average = 0.098687 count = 1000
+vccpaux_power_average = 0.177529 count = 1000
+vcc1v5_voltage_average = 1.508879 count = 1000
+vcc1v5_current_average = 0.698828 count = 1000
+vcc1v5_power_average = 1.054448 count = 1000
+Validation PASSED!
+
+ hardware execution time  11.826500 ms elapsed
+==============================================
+frequency factor = 19 
+------------------------------
+vccint_voltage_average = 0.791585 count = 1015
+vccint_current_average = 0.118750 count = 1015
+vccint_power_average = 0.094001 count = 1015
+vccpint_voltage_average = 1.004108 count = 1015
+vccpint_current_average = 0.350877 count = 1015
+vccpint_power_average = 0.352318 count = 1015
+vccaux_voltage_average = 1.804945 count = 1015
+vccaux_current_average = 0.027248 count = 1015
+vccaux_power_average = 0.049183 count = 1015
+vccpaux_voltage_average = 1.798850 count = 1015
+vccpaux_current_average = 0.097260 count = 1015
+vccpaux_power_average = 0.174953 count = 1015
+vcc1v5_voltage_average = 1.508844 count = 1015
+vcc1v5_current_average = 0.677833 count = 1015
+vcc1v5_power_average = 1.022741 count = 1015
+Validation PASSED!
+
+ hardware execution time  12.479100 ms elapsed
+==============================================
+frequency factor = 20 
+------------------------------
+vccint_voltage_average = 0.791630 count = 1005
+vccint_current_average = 0.109359 count = 1005
+vccint_power_average = 0.086572 count = 1005
+vccpint_voltage_average = 1.003839 count = 1005
+vccpint_current_average = 0.349347 count = 1005
+vccpint_power_average = 0.350687 count = 1005
+vccaux_voltage_average = 1.804993 count = 1005
+vccaux_current_average = 0.025995 count = 1005
+vccaux_power_average = 0.046926 count = 1005
+vccpaux_voltage_average = 1.798812 count = 1005
+vccpaux_current_average = 0.094807 count = 1005
+vccpaux_power_average = 0.170540 count = 1005
+vcc1v5_voltage_average = 1.508924 count = 1005
+vcc1v5_current_average = 0.655721 count = 1005
+vcc1v5_power_average = 0.989433 count = 1005
+Validation PASSED!
+
+ hardware execution time  13.129400 ms elapsed
+==============================================
+frequency factor = 21 
+------------------------------
+vccint_voltage_average = 0.791547 count = 1037
+vccint_current_average = 0.108953 count = 1037
+vccint_power_average = 0.086245 count = 1037
+vccpint_voltage_average = 1.004109 count = 1037
+vccpint_current_average = 0.347909 count = 1037
+vccpint_power_average = 0.349340 count = 1037
+vccaux_voltage_average = 1.804910 count = 1037
+vccaux_current_average = 0.026052 count = 1037
+vccaux_power_average = 0.047026 count = 1037
+vccpaux_voltage_average = 1.798773 count = 1037
+vccpaux_current_average = 0.094684 count = 1037
+vccpaux_power_average = 0.170317 count = 1037
+vcc1v5_voltage_average = 1.508939 count = 1037
+vcc1v5_current_average = 0.642403 count = 1037
+vcc1v5_power_average = 0.969345 count = 1037
+Validation PASSED!
+
+ hardware execution time  13.787200 ms elapsed
+==============================================
+frequency factor = 22 
+------------------------------
+vccint_voltage_average = 0.791707 count = 1041
+vccint_current_average = 0.102396 count = 1041
+vccint_power_average = 0.081069 count = 1041
+vccpint_voltage_average = 1.004063 count = 1041
+vccpint_current_average = 0.346857 count = 1041
+vccpint_power_average = 0.348262 count = 1041
+vccaux_voltage_average = 1.804940 count = 1041
+vccaux_current_average = 0.027468 count = 1041
+vccaux_power_average = 0.049580 count = 1041
+vccpaux_voltage_average = 1.798546 count = 1041
+vccpaux_current_average = 0.096887 count = 1041
+vccpaux_power_average = 0.174254 count = 1041
+vcc1v5_voltage_average = 1.508791 count = 1041
+vcc1v5_current_average = 0.656730 count = 1041
+vcc1v5_power_average = 0.990870 count = 1041
+Validation PASSED!
+
+ hardware execution time  14.439700 ms elapsed
+==============================================
+frequency factor = 23 
+------------------------------
+vccint_voltage_average = 0.791629 count = 1038
+vccint_current_average = 0.100825 count = 1038
+vccint_power_average = 0.079815 count = 1038
+vccpint_voltage_average = 1.003965 count = 1038
+vccpint_current_average = 0.347363 count = 1038
+vccpint_power_average = 0.348742 count = 1038
+vccaux_voltage_average = 1.804720 count = 1038
+vccaux_current_average = 0.026538 count = 1038
+vccaux_power_average = 0.047896 count = 1038
+vccpaux_voltage_average = 1.798663 count = 1038
+vccpaux_current_average = 0.094668 count = 1038
+vccpaux_power_average = 0.170282 count = 1038
+vcc1v5_voltage_average = 1.508865 count = 1038
+vcc1v5_current_average = 0.639421 count = 1038
+vcc1v5_power_average = 0.964800 count = 1038
+Validation PASSED!
+
+ hardware execution time  15.092700 ms elapsed
+==============================================
+frequency factor = 24 
+------------------------------
+vccint_voltage_average = 0.791571 count = 1028
+vccint_current_average = 0.098386 count = 1028
+vccint_power_average = 0.077880 count = 1028
+vccpint_voltage_average = 1.004203 count = 1028
+vccpint_current_average = 0.342595 count = 1028
+vccpint_power_average = 0.344034 count = 1028
+vccaux_voltage_average = 1.804727 count = 1028
+vccaux_current_average = 0.026265 count = 1028
+vccaux_power_average = 0.047402 count = 1028
+vccpaux_voltage_average = 1.798958 count = 1028
+vccpaux_current_average = 0.093902 count = 1028
+vccpaux_power_average = 0.168927 count = 1028
+vcc1v5_voltage_average = 1.508787 count = 1028
+vcc1v5_current_average = 0.624362 count = 1028
+vcc1v5_power_average = 0.942030 count = 1028
+Validation PASSED!
+
+ hardware execution time  15.746600 ms elapsed
+==============================================
+frequency factor = 25 
+------------------------------
+vccint_voltage_average = 0.791607 count = 1024
+vccint_current_average = 0.092987 count = 1024
+vccint_power_average = 0.073611 count = 1024
+vccpint_voltage_average = 1.003977 count = 1024
+vccpint_current_average = 0.342834 count = 1024
+vccpint_power_average = 0.344198 count = 1024
+vccaux_voltage_average = 1.804839 count = 1024
+vccaux_current_average = 0.026260 count = 1024
+vccaux_power_average = 0.047395 count = 1024
+vccpaux_voltage_average = 1.798804 count = 1024
+vccpaux_current_average = 0.094147 count = 1024
+vccpaux_power_average = 0.169351 count = 1024
+vcc1v5_voltage_average = 1.508814 count = 1024
+vcc1v5_current_average = 0.616974 count = 1024
+vcc1v5_power_average = 0.930897 count = 1024
+Validation PASSED!
+
+ hardware execution time  16.400300 ms elapsed
+==============================================
+frequency factor = 26 
+------------------------------
+vccint_voltage_average = 0.791788 count = 1035
+vccint_current_average = 0.089689 count = 1035
+vccint_power_average = 0.071014 count = 1035
+vccpint_voltage_average = 1.004108 count = 1035
+vccpint_current_average = 0.342421 count = 1035
+vccpint_power_average = 0.343827 count = 1035
+vccaux_voltage_average = 1.804805 count = 1035
+vccaux_current_average = 0.025861 count = 1035
+vccaux_power_average = 0.046671 count = 1035
+vccpaux_voltage_average = 1.798923 count = 1035
+vccpaux_current_average = 0.095109 count = 1035
+vccpaux_power_average = 0.171096 count = 1035
+vcc1v5_voltage_average = 1.508897 count = 1035
+vcc1v5_current_average = 0.601630 count = 1035
+vcc1v5_power_average = 0.907797 count = 1035
+Validation PASSED!
+
+ hardware execution time  17.055300 ms elapsed
+==============================================
+frequency factor = 27 
+------------------------------
+vccint_voltage_average = 0.791741 count = 1012
+vccint_current_average = 0.087049 count = 1012
+vccint_power_average = 0.068921 count = 1012
+vccpint_voltage_average = 1.004046 count = 1012
+vccpint_current_average = 0.340230 count = 1012
+vccpint_power_average = 0.341609 count = 1012
+vccaux_voltage_average = 1.804657 count = 1012
+vccaux_current_average = 0.028039 count = 1012
+vccaux_power_average = 0.050602 count = 1012
+vccpaux_voltage_average = 1.798816 count = 1012
+vccpaux_current_average = 0.093812 count = 1012
+vccpaux_power_average = 0.168745 count = 1012
+vcc1v5_voltage_average = 1.508874 count = 1012
+vcc1v5_current_average = 0.588130 count = 1012
+vcc1v5_power_average = 0.887413 count = 1012
+Validation PASSED!
+
+ hardware execution time  17.712200 ms elapsed
+==============================================
+frequency factor = 28 
+------------------------------
+vccint_voltage_average = 0.791667 count = 1032
+vccint_current_average = 0.085574 count = 1032
+vccint_power_average = 0.067746 count = 1032
+vccpint_voltage_average = 1.003915 count = 1032
+vccpint_current_average = 0.337997 count = 1032
+vccpint_power_average = 0.339319 count = 1032
+vccaux_voltage_average = 1.804719 count = 1032
+vccaux_current_average = 0.025042 count = 1032
+vccaux_power_average = 0.045195 count = 1032
+vccpaux_voltage_average = 1.798782 count = 1032
+vccpaux_current_average = 0.093689 count = 1032
+vccpaux_power_average = 0.168530 count = 1032
+vcc1v5_voltage_average = 1.508822 count = 1032
+vcc1v5_current_average = 0.579942 count = 1032
+vcc1v5_power_average = 0.875028 count = 1032
+Validation PASSED!
+
+ hardware execution time  18.365100 ms elapsed
+==============================================
+frequency factor = 29 
+------------------------------
+vccint_voltage_average = 0.791711 count = 1022
+vccint_current_average = 0.083338 count = 1022
+vccint_power_average = 0.065980 count = 1022
+vccpint_voltage_average = 1.004090 count = 1022
+vccpint_current_average = 0.336289 count = 1022
+vccpint_power_average = 0.337662 count = 1022
+vccaux_voltage_average = 1.804900 count = 1022
+vccaux_current_average = 0.025379 count = 1022
+vccaux_power_average = 0.045808 count = 1022
+vccpaux_voltage_average = 1.798814 count = 1022
+vccpaux_current_average = 0.092787 count = 1022
+vccpaux_power_average = 0.166909 count = 1022
+vcc1v5_voltage_average = 1.508918 count = 1022
+vcc1v5_current_average = 0.580923 count = 1022
+vcc1v5_power_average = 0.876566 count = 1022
+Validation PASSED!
+
+ hardware execution time  19.019300 ms elapsed
+==============================================
+frequency factor = 30 
+------------------------------
+vccint_voltage_average = 0.791638 count = 1035
+vccint_current_average = 0.080918 count = 1035
+vccint_power_average = 0.064055 count = 1035
+vccpint_voltage_average = 1.003934 count = 1035
+vccpint_current_average = 0.336700 count = 1035
+vccpint_power_average = 0.338025 count = 1035
+vccaux_voltage_average = 1.805027 count = 1035
+vccaux_current_average = 0.026223 count = 1035
+vccaux_power_average = 0.047332 count = 1035
+vccpaux_voltage_average = 1.798792 count = 1035
+vccpaux_current_average = 0.092452 count = 1035
+vccpaux_power_average = 0.166303 count = 1035
+vcc1v5_voltage_average = 1.508895 count = 1035
+vcc1v5_current_average = 0.582699 count = 1035
+vcc1v5_power_average = 0.879231 count = 1035
+Validation PASSED!
+
+ hardware execution time  19.668000 ms elapsed
+==============================================
+frequency factor = 31 
+------------------------------
+vccint_voltage_average = 0.791747 count = 1031
+vccint_current_average = 0.077761 count = 1031
+vccint_power_average = 0.061567 count = 1031
+vccpint_voltage_average = 1.004126 count = 1031
+vccpint_current_average = 0.333975 count = 1031
+vccpint_power_average = 0.335355 count = 1031
+vccaux_voltage_average = 1.804883 count = 1031
+vccaux_current_average = 0.026885 count = 1031
+vccaux_power_average = 0.048528 count = 1031
+vccpaux_voltage_average = 1.798722 count = 1031
+vccpaux_current_average = 0.093113 count = 1031
+vccpaux_power_average = 0.167484 count = 1031
+vcc1v5_voltage_average = 1.508907 count = 1031
+vcc1v5_current_average = 0.573548 count = 1031
+vcc1v5_power_average = 0.865431 count = 1031
+Validation PASSED!
+
+ hardware execution time  20.324500 ms elapsed
+==============================================
+frequency factor = 32 
+------------------------------
+vccint_voltage_average = 0.791772 count = 1034
+vccint_current_average = 0.078216 count = 1034
+vccint_power_average = 0.061930 count = 1034
+vccpint_voltage_average = 1.004162 count = 1034
+vccpint_current_average = 0.332175 count = 1034
+vccpint_power_average = 0.333554 count = 1034
+vccaux_voltage_average = 1.804835 count = 1034
+vccaux_current_average = 0.026656 count = 1034
+vccaux_power_average = 0.048110 count = 1034
+vccpaux_voltage_average = 1.798911 count = 1034
+vccpaux_current_average = 0.092919 count = 1034
+vccpaux_power_average = 0.167152 count = 1034
+vcc1v5_voltage_average = 1.508850 count = 1034
+vcc1v5_current_average = 0.570615 count = 1034
+vcc1v5_power_average = 0.860971 count = 1034
+Validation PASSED!
+
+ hardware execution time  20.978300 ms elapsed
+==============================================
+frequency factor = 33 
+------------------------------
+vccint_voltage_average = 0.791700 count = 1037
+vccint_current_average = 0.073243 count = 1037
+vccint_power_average = 0.057986 count = 1037
+vccpint_voltage_average = 1.003909 count = 1037
+vccpint_current_average = 0.333715 count = 1037
+vccpint_power_average = 0.335022 count = 1037
+vccaux_voltage_average = 1.804931 count = 1037
+vccaux_current_average = 0.026127 count = 1037
+vccaux_power_average = 0.047157 count = 1037
+vccpaux_voltage_average = 1.798961 count = 1037
+vccpaux_current_average = 0.091309 count = 1037
+vccpaux_power_average = 0.164260 count = 1037
+vcc1v5_voltage_average = 1.508894 count = 1037
+vcc1v5_current_average = 0.551546 count = 1037
+vcc1v5_power_average = 0.832225 count = 1037
+Validation PASSED!
+
+ hardware execution time  21.633800 ms elapsed
+==============================================
+frequency factor = 34 
+------------------------------
+vccint_voltage_average = 0.791686 count = 1030
+vccint_current_average = 0.073407 count = 1030
+vccint_power_average = 0.058115 count = 1030
+vccpint_voltage_average = 1.004129 count = 1030
+vccpint_current_average = 0.329672 count = 1030
+vccpint_power_average = 0.331032 count = 1030
+vccaux_voltage_average = 1.804802 count = 1030
+vccaux_current_average = 0.027230 count = 1030
+vccaux_power_average = 0.049145 count = 1030
+vccpaux_voltage_average = 1.798702 count = 1030
+vccpaux_current_average = 0.092172 count = 1030
+vccpaux_power_average = 0.165791 count = 1030
+vcc1v5_voltage_average = 1.508797 count = 1030
+vcc1v5_current_average = 0.542855 count = 1030
+vcc1v5_power_average = 0.819056 count = 1030
+Validation PASSED!
+
+ hardware execution time  22.288800 ms elapsed
+==============================================
+frequency factor = 35 
+------------------------------
+vccint_voltage_average = 0.791722 count = 1024
+vccint_current_average = 0.071335 count = 1024
+vccint_power_average = 0.056478 count = 1024
+vccpint_voltage_average = 1.004159 count = 1024
+vccpint_current_average = 0.330750 count = 1024
+vccpint_power_average = 0.332126 count = 1024
+vccaux_voltage_average = 1.804801 count = 1024
+vccaux_current_average = 0.026627 count = 1024
+vccaux_power_average = 0.048058 count = 1024
+vccpaux_voltage_average = 1.798724 count = 1024
+vccpaux_current_average = 0.090881 count = 1024
+vccpaux_power_average = 0.163469 count = 1024
+vcc1v5_voltage_average = 1.508811 count = 1024
+vcc1v5_current_average = 0.537872 count = 1024
+vcc1v5_power_average = 0.811545 count = 1024
+Validation PASSED!
+
+ hardware execution time  22.943200 ms elapsed
+==============================================
+frequency factor = 36 
+------------------------------
+vccint_voltage_average = 0.791745 count = 1017
+vccint_current_average = 0.069275 count = 1017
+vccint_power_average = 0.054847 count = 1017
+vccpint_voltage_average = 1.004079 count = 1017
+vccpint_current_average = 0.330107 count = 1017
+vccpint_power_average = 0.331452 count = 1017
+vccaux_voltage_average = 1.804198 count = 1017
+vccaux_current_average = 0.026595 count = 1017
+vccaux_power_average = 0.047954 count = 1017
+vccpaux_voltage_average = 1.798945 count = 1017
+vccpaux_current_average = 0.089801 count = 1017
+vccpaux_power_average = 0.161545 count = 1017
+vcc1v5_voltage_average = 1.508849 count = 1017
+vcc1v5_current_average = 0.516916 count = 1017
+vcc1v5_power_average = 0.779947 count = 1017
+Validation PASSED!
+
+ hardware execution time  23.598500 ms elapsed
+==============================================
+frequency factor = 37 
+------------------------------
+vccint_voltage_average = 0.791749 count = 1033
+vccint_current_average = 0.068142 count = 1033
+vccint_power_average = 0.053950 count = 1033
+vccpint_voltage_average = 1.004231 count = 1033
+vccpint_current_average = 0.330878 count = 1033
+vccpint_power_average = 0.332275 count = 1033
+vccaux_voltage_average = 1.804854 count = 1033
+vccaux_current_average = 0.025684 count = 1033
+vccaux_power_average = 0.046352 count = 1033
+vccpaux_voltage_average = 1.798813 count = 1033
+vccpaux_current_average = 0.091224 count = 1033
+vccpaux_power_average = 0.164096 count = 1033
+vcc1v5_voltage_average = 1.508854 count = 1033
+vcc1v5_current_average = 0.518045 count = 1033
+vcc1v5_power_average = 0.781656 count = 1033
+Validation PASSED!
+
+ hardware execution time  24.253500 ms elapsed
+==============================================
+frequency factor = 38 
+------------------------------
+vccint_voltage_average = 0.791678 count = 999
+vccint_current_average = 0.066613 count = 999
+vccint_power_average = 0.052737 count = 999
+vccpint_voltage_average = 1.003785 count = 999
+vccpint_current_average = 0.332285 count = 999
+vccpint_power_average = 0.333540 count = 999
+vccaux_voltage_average = 1.804798 count = 999
+vccaux_current_average = 0.026136 count = 999
+vccaux_power_average = 0.047169 count = 999
+vccpaux_voltage_average = 1.798943 count = 999
+vccpaux_current_average = 0.091263 count = 999
+vccpaux_power_average = 0.164180 count = 999
+vcc1v5_voltage_average = 1.508825 count = 999
+vcc1v5_current_average = 0.539461 count = 999
+vcc1v5_power_average = 0.813954 count = 999
+Validation PASSED!
+
+ hardware execution time  24.909100 ms elapsed
+==============================================
+frequency factor = 39 
+------------------------------
+vccint_voltage_average = 0.791756 count = 1037
+vccint_current_average = 0.066448 count = 1037
+vccint_power_average = 0.052610 count = 1037
+vccpint_voltage_average = 1.004236 count = 1037
+vccpint_current_average = 0.329571 count = 1037
+vccpint_power_average = 0.330969 count = 1037
+vccaux_voltage_average = 1.804795 count = 1037
+vccaux_current_average = 0.026413 count = 1037
+vccaux_power_average = 0.047671 count = 1037
+vccpaux_voltage_average = 1.798864 count = 1037
+vccpaux_current_average = 0.091023 count = 1037
+vccpaux_power_average = 0.163741 count = 1037
+vcc1v5_voltage_average = 1.508786 count = 1037
+vcc1v5_current_average = 0.532320 count = 1037
+vcc1v5_power_average = 0.803156 count = 1037
+Validation PASSED!
+
+ hardware execution time  25.564500 ms elapsed
+==============================================
+frequency factor = 40 
+------------------------------
+vccint_voltage_average = 0.791621 count = 1043
+vccint_current_average = 0.065212 count = 1043
+vccint_power_average = 0.051622 count = 1043
+vccpint_voltage_average = 1.004014 count = 1043
+vccpint_current_average = 0.328455 count = 1043
+vccpint_power_average = 0.329767 count = 1043
+vccaux_voltage_average = 1.804945 count = 1043
+vccaux_current_average = 0.025108 count = 1043
+vccaux_power_average = 0.045320 count = 1043
+vccpaux_voltage_average = 1.798797 count = 1043
+vccpaux_current_average = 0.090155 count = 1043
+vccpaux_power_average = 0.162171 count = 1043
+vcc1v5_voltage_average = 1.508865 count = 1043
+vcc1v5_current_average = 0.515400 count = 1043
+vcc1v5_power_average = 0.777669 count = 1043
+Validation PASSED!
+
+ hardware execution time  26.219900 ms elapsed
+==============================================
+frequency factor = 41 
+------------------------------
+vccint_voltage_average = 0.791718 count = 1024
+vccint_current_average = 0.064133 count = 1024
+vccint_power_average = 0.050775 count = 1024
+vccpint_voltage_average = 1.004243 count = 1024
+vccpint_current_average = 0.326416 count = 1024
+vccpint_power_average = 0.327800 count = 1024
+vccaux_voltage_average = 1.804871 count = 1024
+vccaux_current_average = 0.023773 count = 1024
+vccaux_power_average = 0.042911 count = 1024
+vccpaux_voltage_average = 1.798747 count = 1024
+vccpaux_current_average = 0.091080 count = 1024
+vccpaux_power_average = 0.163830 count = 1024
+vcc1v5_voltage_average = 1.508821 count = 1024
+vcc1v5_current_average = 0.513031 count = 1024
+vcc1v5_power_average = 0.774066 count = 1024
+Validation PASSED!
+
+ hardware execution time  26.875200 ms elapsed
+==============================================
+frequency factor = 42 
+------------------------------
+vccint_voltage_average = 0.791730 count = 1030
+vccint_current_average = 0.065049 count = 1030
+vccint_power_average = 0.051503 count = 1030
+vccpint_voltage_average = 1.004147 count = 1030
+vccpint_current_average = 0.328550 count = 1030
+vccpint_power_average = 0.329914 count = 1030
+vccaux_voltage_average = 1.804906 count = 1030
+vccaux_current_average = 0.026062 count = 1030
+vccaux_power_average = 0.047037 count = 1030
+vccpaux_voltage_average = 1.798745 count = 1030
+vccpaux_current_average = 0.091854 count = 1030
+vccpaux_power_average = 0.165221 count = 1030
+vcc1v5_voltage_average = 1.508946 count = 1030
+vcc1v5_current_average = 0.513759 count = 1030
+vcc1v5_power_average = 0.775232 count = 1030
+Validation PASSED!
+
+ hardware execution time  27.525700 ms elapsed
+==============================================
+frequency factor = 43 
+------------------------------
+vccint_voltage_average = 0.791658 count = 1022
+vccint_current_average = 0.062943 count = 1022
+vccint_power_average = 0.049831 count = 1022
+vccpint_voltage_average = 1.003962 count = 1022
+vccpint_current_average = 0.327682 count = 1022
+vccpint_power_average = 0.328982 count = 1022
+vccaux_voltage_average = 1.804874 count = 1022
+vccaux_current_average = 0.025853 count = 1022
+vccaux_power_average = 0.046660 count = 1022
+vccpaux_voltage_average = 1.798963 count = 1022
+vccpaux_current_average = 0.091319 count = 1022
+vccpaux_power_average = 0.164280 count = 1022
+vcc1v5_voltage_average = 1.508856 count = 1022
+vcc1v5_current_average = 0.514906 count = 1022
+vcc1v5_power_average = 0.776918 count = 1022
+Validation PASSED!
+
+ hardware execution time  28.175700 ms elapsed
+==============================================
+frequency factor = 44 
+------------------------------
+vccint_voltage_average = 0.791710 count = 1030
+vccint_current_average = 0.061772 count = 1030
+vccint_power_average = 0.048907 count = 1030
+vccpint_voltage_average = 1.004142 count = 1030
+vccpint_current_average = 0.324970 count = 1030
+vccpint_power_average = 0.326323 count = 1030
+vccaux_voltage_average = 1.804772 count = 1030
+vccaux_current_average = 0.026168 count = 1030
+vccaux_power_average = 0.047230 count = 1030
+vccpaux_voltage_average = 1.798849 count = 1030
+vccpaux_current_average = 0.092370 count = 1030
+vccpaux_power_average = 0.166159 count = 1030
+vcc1v5_voltage_average = 1.508745 count = 1030
+vcc1v5_current_average = 0.516399 count = 1030
+vcc1v5_power_average = 0.779113 count = 1030
+Validation PASSED!
+
+ hardware execution time  28.827400 ms elapsed
+==============================================
+frequency factor = 45 
+------------------------------
+vccint_voltage_average = 0.791731 count = 1037
+vccint_current_average = 0.062530 count = 1037
+vccint_power_average = 0.049507 count = 1037
+vccpint_voltage_average = 1.004056 count = 1037
+vccpint_current_average = 0.326196 count = 1037
+vccpint_power_average = 0.327520 count = 1037
+vccaux_voltage_average = 1.804866 count = 1037
+vccaux_current_average = 0.026187 count = 1037
+vccaux_power_average = 0.047264 count = 1037
+vccpaux_voltage_average = 1.798674 count = 1037
+vccpaux_current_average = 0.091113 count = 1037
+vccpaux_power_average = 0.163881 count = 1037
+vcc1v5_voltage_average = 1.508786 count = 1037
+vcc1v5_current_average = 0.509643 count = 1037
+vcc1v5_power_average = 0.768943 count = 1037
+Validation PASSED!
+
+ hardware execution time  29.482800 ms elapsed
+==============================================
+frequency factor = 46 
+------------------------------
+vccint_voltage_average = 0.791751 count = 1042
+vccint_current_average = 0.062035 count = 1042
+vccint_power_average = 0.049117 count = 1042
+vccpint_voltage_average = 1.004155 count = 1042
+vccpint_current_average = 0.326536 count = 1042
+vccpint_power_average = 0.327896 count = 1042
+vccaux_voltage_average = 1.804783 count = 1042
+vccaux_current_average = 0.027096 count = 1042
+vccaux_power_average = 0.048909 count = 1042
+vccpaux_voltage_average = 1.798848 count = 1042
+vccpaux_current_average = 0.090646 count = 1042
+vccpaux_power_average = 0.163056 count = 1042
+vcc1v5_voltage_average = 1.508848 count = 1042
+vcc1v5_current_average = 0.507783 count = 1042
+vcc1v5_power_average = 0.766166 count = 1042
+Validation PASSED!
+
+ hardware execution time  30.138100 ms elapsed
+==============================================
+frequency factor = 47 
+------------------------------
+vccint_voltage_average = 0.791671 count = 1014
+vccint_current_average = 0.061575 count = 1014
+vccint_power_average = 0.048748 count = 1014
+vccpint_voltage_average = 1.004176 count = 1014
+vccpint_current_average = 0.325166 count = 1014
+vccpint_power_average = 0.326523 count = 1014
+vccaux_voltage_average = 1.804839 count = 1014
+vccaux_current_average = 0.025687 count = 1014
+vccaux_power_average = 0.046357 count = 1014
+vccpaux_voltage_average = 1.798895 count = 1014
+vccpaux_current_average = 0.091038 count = 1014
+vccpaux_power_average = 0.163770 count = 1014
+vcc1v5_voltage_average = 1.508733 count = 1014
+vcc1v5_current_average = 0.504268 count = 1014
+vcc1v5_power_average = 0.760805 count = 1014
+Validation PASSED!
+
+ hardware execution time  30.793500 ms elapsed
+==============================================
+frequency factor = 48 
+------------------------------
+vccint_voltage_average = 0.791652 count = 1047
+vccint_current_average = 0.059679 count = 1047
+vccint_power_average = 0.047246 count = 1047
+vccpint_voltage_average = 1.003999 count = 1047
+vccpint_current_average = 0.326274 count = 1047
+vccpint_power_average = 0.327577 count = 1047
+vccaux_voltage_average = 1.804902 count = 1047
+vccaux_current_average = 0.025594 count = 1047
+vccaux_power_average = 0.046195 count = 1047
+vccpaux_voltage_average = 1.798927 count = 1047
+vccpaux_current_average = 0.089855 count = 1047
+vccpaux_power_average = 0.161644 count = 1047
+vcc1v5_voltage_average = 1.508823 count = 1047
+vcc1v5_current_average = 0.497329 count = 1047
+vcc1v5_power_average = 0.750380 count = 1047
+Validation PASSED!
+
+ hardware execution time  31.448700 ms elapsed
+==============================================
+frequency factor = 49 
+------------------------------
+vccint_voltage_average = 0.791681 count = 1019
+vccint_current_average = 0.058881 count = 1019
+vccint_power_average = 0.046616 count = 1019
+vccpint_voltage_average = 1.004200 count = 1019
+vccpint_current_average = 0.324000 count = 1019
+vccpint_power_average = 0.325358 count = 1019
+vccaux_voltage_average = 1.804646 count = 1019
+vccaux_current_average = 0.026251 count = 1019
+vccaux_power_average = 0.047375 count = 1019
+vccpaux_voltage_average = 1.798809 count = 1019
+vccpaux_current_average = 0.089181 count = 1019
+vccpaux_power_average = 0.160418 count = 1019
+vcc1v5_voltage_average = 1.508823 count = 1019
+vcc1v5_current_average = 0.495216 count = 1019
+vcc1v5_power_average = 0.747193 count = 1019
+Validation PASSED!
+
+ hardware execution time  32.103300 ms elapsed
+==============================================
+VCCINT voltage = 0.780000
+SDEPCX = 5
+SDEPCG = 1
+frequency factor = 12 
+------------------------------

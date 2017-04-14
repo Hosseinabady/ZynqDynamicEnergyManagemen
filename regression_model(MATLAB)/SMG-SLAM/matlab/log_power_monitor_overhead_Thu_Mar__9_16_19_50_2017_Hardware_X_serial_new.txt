@@ -1,0 +1,15 @@
+vccint_voltage_average = 1.001737 count = 6609
+vccint_current_average = 0.146181 count = 6609
+vccint_power_average = 0.146434 count = 6609
+vccpint_voltage_average = 1.003314 count = 6609
+vccpint_current_average = 0.386790 count = 6609
+vccpint_power_average = 0.388073 count = 6609
+vccaux_voltage_average = 1.803103 count = 6609
+vccaux_current_average = 0.026701 count = 6609
+vccaux_power_average = 0.048146 count = 6609
+vccpaux_voltage_average = 1.799500 count = 6609
+vccpaux_current_average = 0.070091 count = 6609
+vccpaux_power_average = 0.126129 count = 6609
+vcc1v5_voltage_average = 1.506898 count = 6609
+vcc1v5_current_average = 0.380674 count = 6609
+vcc1v5_power_average = 0.573636 count = 6609
