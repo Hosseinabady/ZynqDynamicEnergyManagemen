@@ -20,6 +20,10 @@
 #include <string.h>
 #include "pstream.h"
 #include <sstream>
+#include "Models.h"
+#include "Accelerator.h"
+#include "sdepc.h"
+
 
 int reconf_req = 0;
 int reconf_ack = 0;
@@ -30,9 +34,8 @@ pthread_mutex_t mutex;
 pthread_t  thread_ID;
 
 void check_for_reconf(unsigned int tid);
-void reconfigure_pl(unsigned int tid);
-void *sdepc(void *tid) ;
-int system_stat(unsigned int tid);
+void *sdepc_thread(void *tid) ;
+
 
 enum {
   APP, // Indicates it’s the first person’s turn.
@@ -40,12 +43,10 @@ enum {
 };
 
 
-
 int main() {
 	unsigned int tid = getpid();
 	printf("PID of main process: %d\n", tid);
 	check_for_reconf(tid);
-
 }
 
 
@@ -53,18 +54,18 @@ void check_for_reconf(unsigned int tid) {
 
 	unsigned int* tidp = (unsigned int*)malloc(sizeof(unsigned int));
 	*tidp = tid;
-
+	
 	int reconf_req_local;
-
+	
 	printf("==hello sdepc\n");
 	pthread_mutex_init(&mutex, NULL);
 
 	cpu_set_t cpu_set2;
 	CPU_SET(1, &cpu_set2);
-	pthread_create(&thread_ID, NULL, sdepc, tidp);
+	pthread_create(&thread_ID, NULL, sdepc_thread, tidp);
 	sched_setaffinity(thread_ID, sizeof(cpu_set_t), &cpu_set2);
-
-
+	
+	
 	int index = 0;
 	while(1) {
 //		printf("==from sdepc index = %d\n", index++);
@@ -75,8 +76,8 @@ void check_for_reconf(unsigned int tid) {
 			reconf_ack = 1;
 		}
 		pthread_mutex_unlock(&mutex);
-
-
+		
+		
 		if(reconf_req_local == 1) {
 			printf("==from sdepc request for recon\n");
 			while(1) {
@@ -86,41 +87,42 @@ void check_for_reconf(unsigned int tid) {
 				if (reconf_req==0);
 					reconf_req_local = 0;
 				pthread_mutex_unlock(&mutex);
-
+				
 				if (reconf_req_local == 0)
 					break;
 			}
 			pthread_mutex_lock(&mutex);
-			reconf_ack = 0;
+			reconf_ack = 0;		
 			pthread_mutex_unlock(&mutex);
 			printf("==from sdepc reconf end\n");
 		}
-
-
-
+		
+		
+	
 		sleep(2);
-
+	
 	}
 }
 
 
-
-void *sdepc(void *tid) {
-
-	reconfigure_pl(*(unsigned int*)tid);
-}
-
-void reconfigure_pl(unsigned int tid) {
+void *sdepc_thread(void *tid) {
 	printf("**hello reconfigure_pl\n");
-	char c;
+
 	int reconf_ack_local;
 
 
+	Sdepc sdepc("models.xml");
+
+	sdepc.setThreadId(*(unsigned int *)tid);
 
 	while(1) {
-		system_stat(tid);
 
-		if (c=='r') {
+		sdepc.monitorSystem();
+		sdepc.optimisation();
+		
+		unsigned int scaling_satus = sdepc.reconfigurableRequired();
+
+		if(scaling_satus != 0) {
 
 			pthread_mutex_lock(&mutex);
 			reconf_req = 1;
@@ -143,59 +145,29 @@ void reconfigure_pl(unsigned int tid) {
 			}
 			sleep(2);
 
+			sdepc.reconfigurePL();
 
 			pthread_mutex_lock(&mutex);
 			reconf_req = 0;
 			pthread_mutex_unlock(&mutex);
+
+			while(1) {
+				printf("**from reconfigure_pl index = %d\n", index++);
+				sleep(1);
+				reconf_ack_local = 1;
+				pthread_mutex_lock(&mutex);
+				if (reconf_ack == 0) {
+					reconf_ack_local = 0;
+				}
+				pthread_mutex_unlock(&mutex);
+
+				if (reconf_ack_local == 0)
+					break;
+			}
+
 		}
+
 		sleep(2);
 	}
-
-
-
 }
 
-int system_stat(unsigned int tid) {
-	printf("thread id = %d\n", tid);
-	float max_exe_time;
-	float u_cpu=1;
-	char process_name[100];
-
-	std::cout << "please enter max_exe_time" << std::endl;
-	std::cin >> max_exe_time;
-
-
-	std::ostringstream os_tid;
-	os_tid << tid;
-
-	std::string pid = os_tid.str();
-	std::string command("perf stat -t ");
-	command = command + pid + " sleep 1";
-
-
-	redi::ipstream proc(command, redi::pstreams::pstderr);
-	std::string line;
-	std::cout << "command  : " <<command << '\n';
-
-	u_cpu = 0;
-	// read child's stdout
-	while (std::getline(proc.out(), line)) {
-//		std::cout << "line  : " <<line << '\n';
-		std::size_t found = line.find( "CPUs utilized");
-
-		if (found!=std::string::npos) {
-		//			std::cout << "stdout: " << line << '\n';
-
-			const char* p;
-			p = strtok( (char*)line.c_str(), " \t" );
-			p = strtok( NULL, " \t" );
-			p = strtok( NULL, " \t" );
-			p = strtok( NULL, " \t" );
-			p = strtok( NULL, " \t" );
-
-			char* pEnd;
-			u_cpu = strtod (p, &pEnd);
-			std::cout << "cpu utilization : " << u_cpu << '\n';
-		}
-	}
-}
